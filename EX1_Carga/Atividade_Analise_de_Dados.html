@@ -1,0 +1,90 @@
+
+<!doctype html><html lang="pt-br"><meta charset="utf-8">
+<title>Atividade – Análise de Dados: Limpeza e Normalização</title>
+<style>
+body{font-family:system-ui,Segoe UI,Roboto,Arial;font-size:14px;line-height:1.5;margin:32px;color:#111}
+h1,h2{margin:0 0 8px} h1{font-size:22px} h2{font-size:16px;margin-top:20px}
+code,pre{background:#f6f8fa;padding:2px 6px;border-radius:6px}
+pre{padding:12px;overflow:auto}
+ul{margin:6px 0 6px 20px}
+.small{color:#555}
+</style>
+<h1>Atividade – Leitura, Limpeza/Normalização e Exportação para Excel</h1>
+<p class="small">Disciplina: Análise de Dados</p>
+
+<h2>Objetivo</h2>
+<p>Ler um arquivo <strong>.csv</strong> ou <strong>.txt</strong>, realizar <em>sanitização</em> (remover caracteres de controle, trims, normalização Unicode), <em>normalização</em> (UF, e-mail, telefone, CEP, datas, valores, booleanos) e exportar o resultado para <code>resultado_limpeza.xlsx</code> com três abas: <code>dados_limpos</code>, <code>erros</code> e <code>dicionario_dados</code>.</p>
+
+<h2>Arquivos fornecidos</h2>
+<ul>
+  <li><code>dados_clientes_sujos.csv</code> (1.000 linhas)</li>
+  <li><code>dados_clientes_sujos.txt</code> (mesmos dados, separador “;”)</li>
+  <li><code>atividade_limpeza_normalizacao.ipynb</code> (notebook template)</li>
+</ul>
+
+<h2>Entrega</h2>
+<ol>
+  <li>Notebook/script com as funções de limpeza e comentários;</li>
+  <li>Arquivo <code>resultado_limpeza.xlsx</code> gerado;</li>
+  <li>Relatório curto (máx. 1 página) explicando problemas encontrados, decisões e métricas (quantidade de nulos, duplicatas, outliers).</li>
+</ol>
+
+<h2>Execução local</h2>
+<pre>pip install pandas openpyxl
+# Abra o notebook 'atividade_limpeza_normalizacao.ipynb' e rode as células
+</pre>
+
+<h2>Alternativas online</h2>
+<ul>
+  <li><strong>Google Colab</strong>: suba os arquivos, monte o Drive e execute o notebook.</li>
+  <li><strong>Kaggle Notebooks</strong>: crie um Notebook, carregue os arquivos na aba “Data”.</li>
+  <li><strong>JupyterLite (WebAssembly, no navegador)</strong>: roda Python no browser (sem servidor). Limitações de libs, mas funciona para pandas/arquivos simples.</li>
+  <li><strong>Observable + Pyodide</strong>: abordagem em notebooks web; interessante para turmas que preferem front-end.</li>
+</ul>
+
+<h2>Versão com Banco de Dados (opcional)</h2>
+<p>Faça a ingestão em um <strong>PostgreSQL</strong> em 2 estágios:</p>
+<ol>
+ <li><em>staging</em> bruta com tudo como texto;</li>
+ <li>tabela destino normalizada com tipos corretos e <em>INSERT…SELECT</em> aplicando as regras.</li>
+</ol>
+
+<pre>-- Exemplo de staging (todos os campos como TEXT)
+CREATE TABLE staging_clientes (
+  id TEXT, nome TEXT, email TEXT, telefone TEXT, data_nascimento TEXT,
+  cidade TEXT, estado TEXT, cep TEXT, renda_mensal TEXT,
+  data_compra_mais_recente TEXT, valor_compra_mais_recente TEXT,
+  ativo TEXT, categoria_cliente TEXT
+);
+
+-- Import do CSV (no servidor):
+-- COPY staging_clientes FROM '/caminho/dados_clientes_sujos.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8');
+
+-- Tabela final
+CREATE TABLE clientes AS
+SELECT
+  CAST(id AS INTEGER) AS id,
+  initcap(nome) AS nome,
+  CASE WHEN email ~* '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$' THEN lower(email) END AS email,
+  -- normalização simples do telefone (mantém dígitos)
+  CASE
+    WHEN regexp_replace(telefone,'\D','','g') ~ '^(55)?\d{10,11}$' THEN regexp_replace(telefone,'\D','','g')
+  END AS telefone_digits,
+  to_date(data_nascimento, 'DD/MM/YYYY') NULLIF ''  -- ajuste de formatos conforme necessário
+    AS data_nascimento,
+  initcap(cidade) AS cidade,
+  CASE WHEN upper(estado) IN ('AC','AL','AP','AM','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','PB','PR','PE','PI','RJ','RN','RS','RO','RR','SC','SE','SP','TO') 
+       THEN upper(estado) END AS estado,
+  -- CEP somente números
+  CASE WHEN length(regexp_replace(cep,'\D','','g'))=8 THEN regexp_replace(cep,'\D','','g') END AS cep_digits,
+  -- Dinheiro: remove R$, pontos e troca vírgula por ponto
+  NULLIF(regexp_replace(replace(replace(renda_mensal,'R$',''),' ','') , '\.', '', 'g'), '') AS renda_raw,
+  to_date(data_compra_mais_recente, 'DD/MM/YYYY') AS data_compra_mais_recente,
+  NULLIF(regexp_replace(replace(replace(valor_compra_mais_recente,'R$',''),' ','') , '\.', '', 'g'), '') AS valor_raw,
+  CASE WHEN lower(ativo) IN ('sim','yes','true','1') THEN TRUE
+       WHEN lower(ativo) IN ('nao','não','no','false','0') THEN FALSE END AS ativo,
+  categoria_cliente
+FROM staging_clientes;</pre>
+
+<p>Depois, use <code>pandas</code> (ou extensões) para exportar a consulta final para Excel.</p>
+</html>
