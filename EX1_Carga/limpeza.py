@@ -144,7 +144,44 @@ df_csv["renda_mensal"] = pd.to_numeric(df_csv["renda_mensal"], errors="coerce")
 df_csv["renda_mensal"] = df_csv["renda_mensal"].map(lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
 
 
-print(df_csv)
-print(df_csv['renda_mensal'])
+meses = {
+    "Jan": "01",
+    "Fev": "02",
+    "Mar": "03",
+    "Abr": "04",
+    "Mai": "05",
+    "Jun": "06",
+    "Jul": "07",
+    "Ago": "08",
+    "Set": "09",
+    "Out": "10",
+    "Nov": "11",
+    "Dez": "12",
+    "Sep": "09", 
+    "Apr": "04",
+    "Aug": "08",
+    "Oct": "10",
+    "Dec": "12"
+}
 
-df_csv['renda_mensal'].dtype
+# Substituir os nomes dos meses por números
+for mes, num in meses.items():
+    df_csv["data_compra_mais_recente"] = df_csv["data_compra_mais_recente"].astype(str).str.replace(mes, f"/{num}/", regex=True)
+
+# Corrigir separadores, se necessário
+df_csv["data_compra_mais_recente"] = (
+    df_csv["data_compra_mais_recente"]
+    .str.replace("-", "/")
+    .str.replace(" ", "")
+)
+
+# Aplicar a função a toda a coluna
+df_csv["data_compra_mais_recente"] = df_csv["data_compra_mais_recente"].apply(inverter_data)
+
+
+
+
+print(df_csv)
+print(df_csv['data_compra_mais_recente'])
+
+df_csv['data_compra_mais_recente'].dtype
