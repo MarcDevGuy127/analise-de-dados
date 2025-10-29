@@ -41,9 +41,6 @@ df_csv['email'] = df_csv['email'].str.strip()
 # formatando coluna email como letras minusculas
 df_csv['email'] = df_csv['email'].str.lower()
 
-# eliminando linhas com dominios de email diferentes destes:
-# df_csv = df_csv[df_csv['email'].str.extract(r'@(outlook\.com|gmail\.com|yahoo\.com\.br|hotmail\.com)$', case=False, na=False)]
-
 # removendo parenteses
 df_csv['telefone'] = df_csv['telefone'].str.replace(r'[()]', '', regex=True)
 
@@ -65,12 +62,6 @@ df_csv["telefone"] = (
 # Remover o prefixo +55 ou 55 do início do número
 df_csv["telefone"] = df_csv["telefone"].str.replace(r"^\+?55", "", regex=True)
 
-# Converter a coluna para tipo datetime (pandas entende várias formatações)
-#df_csv["data_nascimento"] = pd.to_datetime(df_csv["data_nascimento"], errors="coerce", dayfirst=True)
-
-# Formatar a exibição (ex: DD/MM/AAAA)
-#df_csv["data_nascimento"] = df_csv["data_nascimento"].dt.strftime("%d/%m/%Y")
-
 meses = {
     "Jan": "01",
     "Fev": "02",
@@ -84,7 +75,7 @@ meses = {
     "Out": "10",
     "Nov": "11",
     "Dez": "12",
-    "Sep": "09",  # inglês
+    "Sep": "09", 
     "Apr": "04",
     "Aug": "08",
     "Oct": "10",
@@ -119,7 +110,20 @@ def inverter_data(data):
 # Aplicar a função a toda a coluna
 df_csv["data_nascimento"] = df_csv["data_nascimento"].apply(inverter_data)
 
-print(df_csv)
-print(df_csv['data_nascimento'])
+df_csv['cidade'] = df_csv['cidade'].apply(unidecode) # remove acentos de cidade
 
-df_csv['data_nascimento'].dtype
+df_csv['estado'] = df_csv['estado'].str.strip() # remove espacos da coluna estado
+df_csv['estado'] = df_csv['estado'].apply(unidecode) # remove acentos de estado
+
+# remover espaços e - dentro de cada célula
+df_csv["cep"] = (
+    df_csv["cep"]
+    .astype(str)
+    .str.replace(" ", "")   # tira espaços
+    .str.replace("-", "")   # tira traços
+)
+
+print(df_csv)
+print(df_csv['cep'])
+
+df_csv['cep'].dtype
