@@ -42,7 +42,7 @@ df_csv['email'] = df_csv['email'].str.strip()
 df_csv['email'] = df_csv['email'].str.lower()
 
 # eliminando linhas com dominios de email diferentes destes:
-df_csv = df_csv[df_csv['email'].str.contains(r'@(outlook\.com|gmail\.com|yahoo\.com\.br|hotmail\.com)$', case=False, na=False)]
+# df_csv = df_csv[df_csv['email'].str.extract(r'@(outlook\.com|gmail\.com|yahoo\.com\.br|hotmail\.com)$', case=False, na=False)]
 
 # removendo parenteses
 df_csv['telefone'] = df_csv['telefone'].str.replace(r'[()]', '', regex=True)
@@ -52,10 +52,26 @@ df_csv['telefone'] = df_csv['telefone'].str.strip()
 
 # garante que a coluna telefone só seja numeros e nao string
 # df_csv['telefone'] = df_csv['telefone'].astype('Int64')            # converte para número inteiro (aceita NaN)
-df_csv['telefone'] = df_csv['telefone'].astype('Int64')
+#df_csv['telefone'] = df_csv['telefone'].astype('Int64')
 
+# Remover apenas os espaços dentro de cada célula
+df_csv["telefone"] = (
+    df_csv["telefone"]
+    .astype(str)
+    .str.replace(" ", "")   # tira espaços
+    .str.replace("-", "")   # tira traços
+)
+
+# Remover o prefixo +55 ou 55 do início do número
+df_csv["telefone"] = df_csv["telefone"].str.replace(r"^\+?55", "", regex=True)
+
+# Converter a coluna para tipo datetime (pandas entende várias formatações)
+#df_csv["data_nascimento"] = pd.to_datetime(df_csv["data_nascimento"], errors="coerce", dayfirst=True)
+
+# Formatar a exibição (ex: DD/MM/AAAA)
+#df_csv["data_nascimento"] = df_csv["data_nascimento"].dt.strftime("%d/%m/%Y")
 
 print(df_csv)
-print(df_csv['telefone'])
+print(df_csv['data_nascimento'])
 
-df_csv['telefone'].dtype
+df_csv['data_nascimento'].dtype
