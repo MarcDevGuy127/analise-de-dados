@@ -16,7 +16,13 @@ df_csv['ativo'] = df_csv['ativo'].replace({ # substitui e formata valores para T
     'sim': True,
     'Sim': True,
     'SIM': True,
+    'yes': True,
+    'YES': True,
+    'Yes': True,
     'NAO': False,
+    'no': False,
+    'NO': False,
+    'No': False,
     'Não': False,
     '1': True,
     '0': False
@@ -203,7 +209,11 @@ df_csv["renda_mensal"] = df_csv["renda_mensal"].map(lambda x: f"{x:,.2f}".replac
 df_csv["valor_compra_mais_recente"] = df_csv["valor_compra_mais_recente"].map(lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
 
 
-print(df_csv)
-print(df_csv['valor_compra_mais_recente'])
+print(df_csv.head())
+#print(df_csv['valor_compra_mais_recente'])
 
-df_csv['valor_compra_mais_recente'].dtype
+#df_csv['valor_compra_mais_recente'].dtype
+
+
+# Salvar o DataFrame formatado em um novo arquivo CSV
+df_csv.to_csv("modelo_resultado_limpeza.csv", index=False, encoding="utf-8-sig")

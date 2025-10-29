@@ -1,0 +1,1001 @@
+﻿id,nome,email,telefone,data_nascimento,cidade,estado,cep,renda_mensal,data_compra_mais_recente,valor_compra_mais_recente,ativo,categoria_cliente
+1,  Ulisses Duarte  ,ulissesduarte@outlook.com,92914247912,11/03/1962,Recife,AM,85231714,"600,00",04/04/2025,"600,00",True,Bronze
+2,Mariana Duarte,marianaduarte@outlook.com,92920457201,29/04/2004,Goiania,GO,89108464,"600,00",22/03/2024,"600,00",False,Platinum
+3,  Vitoria Uchoa  ,vitoriauchoa@hotmail.com,67991254598,08/01/1969,Sao Paulo,PR,96358405,"600,00",03/08/2025,"600,00",False,Silver
+4,Rafael Ibrahim,rafaelibrahim@yahoo.com.br,47983489085,13/09/1950,Belo Horizonte,RJ,83753698,"600,00",24/04/2025,"600,00",True,Bronze
+5,  Felipe Oliveira  ,felipeoliveira@outlook.com,41948899317,26/09/1998,Goiania,BA,81898246,"600,00",24/04/2024,"600,00",True,Silver
+6,Yasmin Ribeiro,yasminribeiro@hotmail.com,91999387932,08/06/1991,Recife,PE,99277567,"600,00",18/08/2024,"600,00",False,Bronze
+7,  Bruno Klein  ,brunoklein@hotmail.com,86939818749,25/11/1986,Belo Horizonte,SC,83580254,"600,00",10/04/2024,"600,00",True,Gold
+8,Carla Oliveira,carlaoliveira@empresa.com.br,11915284872,01/01/1979,Londrina,PE,98211677,"600,00",28/09/2024,"600,00",True,Platinum
+9,Rafael Barbosa,rafaelbarbosa@gmail.com,91925791931,10/04/1955,  Florianopolis  ,SP,99125578,"600,00",31/08/2025,"600,00",False,Platinum
+10,Mariana Esteves,marianaesteves@outlook.com,11975082638,25/02/1978,Joinville,SC,98173306,"600,00",10/07/2025,"600,00",True,Bronze
+11,Xavier Ribeiro,xavierribeiro@outlook.com,67982809004,27/04/1945,  Sao Paulo  ,PE,98379009,"600,00",25/09/2024,"600,00",False,Platinum
+12,Lucas Silva,lucassilva@yahoo.com.br,21958624441,13/11/1958,Belo Horizonte,BA,90885801,"600,00",30/06/2024,"600,00",True,Silver
+13,  Zuleica Watanabe  ,zuleicawatanabe@gmail.com,85957286000,07/03/1976,Recife,RS,88559182,"600,00",03/07/2025,"600,00",True,Bronze
+14,Zuleica Klein,zuleicaklein@empresa.com.br,21971441027,01/03/1973,Recife,SP,90688412,"600,00",03/11/2024,"600,00",True,Platinum
+15,Xavier Ferreira,,61970436279,06/18/1970,Recife,DF,87361825,"600,00",09/12/2024,"600,00",False,Gold
+16,Carla Oliveira,carlaoliveira@empresa.com.br,62924171090,07/04/1949,Fortaleza,GO,97404572,"600,00",04/05/2024,"600,00",True,Platinum
+17,Quesia Nogueira,quesianogueira@empresa.com.br,85942465050,14/12/1951,Joinville,MG,84534154,"600,00",09/12/2024,"600,00",True,Bronze
+18,Rafael Oliveira,rafaeloliveira@hotmail.com,11994327232,12/30/1993,Goiania,PE,95913029,"600,00",14/05/2025,"600,00",True,Platinum
+19,Eduarda Teixeira,eduardateixeira@yahoo.com.br,84922238564,06/01/1979,Brasilia,CE,80635767,"600,00",07/03/2025,"600,00",False,Platinum
+20,Ulisses Barbosa,ulissesbarbosa157@hotmail.com,86918744571,27/11/1972,Goiania,AM,86498077,"600,00",15/11/2024,"600,00",True,Platinum
+21,Vitoria Teixeira,vitoriateixeira@empresa.com.br,81911299289,08/01/2002,Campinas,SP,97634793,"600,00",21/03/2025,"600,00",True,Gold
+22,Carla Ibrahim,carlaibrahim@hotmail.com,79904709098,26/06/1998,Recife,RS,93317500,"600,00",13/06/2025,"600,00",False,Silver
+23,Ana Cardoso,anacardoso@yahoo.com.br,86990689698,22/07/1967,Belem,CE,86276221,"600,00",16/07/2024,"600,00",False,Silver
+24,Diego Goncalves,diegogoncalves547@outlook.com,21908935786,11Feb1987,  Londrina  ,PR,83738841,"600,00",07/07/2024,"600,00",True,Platinum
+25,Zuleica Silva,zuleicasilva@gmail.com,62985617232,18/09/2000,Manaus,PE,82660160,"600,00",11/04/2024,"600,00",False,Gold
+26,  Paula Jardim  ,paulajardim@outlook.com,62943344241,09/05/1950,Fortaleza,RS,95358705,"600,00",05/08/2025,"600,00",False,Bronze
+27,Tiago Barbosa,tiagobarbosa235@outlook.com,11944151659,13/12/2001,Maringa,RJ,90520686,"600,00",26/04/2025,"600,00",True,Gold
+28,Mariana Yamamoto,marianayamamoto@yahoo.com.br,nan,10/11/2000,Maringa,MG,89438448,"600,00",22/02/2024,"600,00",True,Silver
+29,Wagner Ferreira,wagnerferreira@gmail.com,41975602924,11/04/1982,Londrina,RS,92569195,"600,00",06/09/2024,"600,00",True,Silver
+30,Zuleica Nogueira,zuleicanogueira744@empresa.com.br,86924348316,14/11/1973,Belem,BA,93460044,"600,00",01/09/2024,"600,00",True,Silver
+31,Zuleica Uchoa,zuleicauchoa@yahoo.com.br,79916448213,18/09/1951,  Maringa  ,RJ,90766872,"600,00",28/09/2024,"600,00",True,Bronze
+32,  Paula Ribeiro  ,paularibeiro@gmail.com,62914808110,16/02/1949,Belo Horizonte,GO,84770250,"600,00",27/10/2024,"600,00",False,Platinum
+33,Mariana Teixeira,marianateixeira@yahoo.com.br,67975295183,18/08/1951,Maringa,PA,94969865,"600,00",24/08/2025,"600,00",True,Gold
+34,Lucas Silva,"lucassilva@outlook,com",11992721803,25/08/1964,Manaus,MG,90123807,"600,00",20/05/2024,"600,00",False,Bronze
+35,Xavier Nogueira,xaviernogueira@hotmail.com,91944653695,07/01/1987,Londrina,RS,82959809,"600,00",19/08/2024,"600,00",True,Gold
+36,Iara Silva,iarasilva@outlook.com,92953744626,17/07/1957,Maringa,RS,87693908,"600,00",07/11/2024,"600,00",False,Bronze
+37,Rafael Nogueira,rafaelnogueira@hotmail.com,84945831536,08/07/2006,Maringa,MG,86219991,"600,00",02/01/2025,"600,00",True,Gold
+38,  Tiago Almeida  ,tiagoalmeida@outlook.com,31990804394,16/11/1969,Fortaleza,RJ,80844134,"600,00",07/07/2025,"600,00",True,Bronze
+39,Bruno Esteves,brunoesteves@empresa.com.br,81984082786,04/02/1986,Sao Paulo,PA,96065729,"600,00",05/05/2025,"600,00",True,Bronze
+40,Iara Teixeira,iarateixeira@empresa.com.br,71974339282,02/08/1983,Belo Horizonte,PA,93631747,"600,00",27/02/2025,"600,00",False,Platinum
+41,  Paula Cardoso  ,paulacardoso@gmail.com,47991151982,13/08/1949,Belem,PE,85070672,"600,00",26/12/2024,"600,00",True,Silver
+42,Iara Silva,iarasilva@yahoo.com.br,92904305381,11/08/1957,Manaus,SC,97382220,"600,00",12/03/2024,"600,00",True,Bronze
+43,  Sonia Teixeira  ,soniateixeira@gmail.com,nan,20/12/1975,Maringa,MG,81488225,"600,00",30/08/2025,"600,00",True,Gold
+44,Eduarda Yamamoto,,47962299725,07/09/1946,  Goiania  ,GO,93686296,"600,00",16/11/2024,"600,00",True,Platinum
+45,  Wagner Lima  ,wagnerlima@gmail.com,83950836562,02/10/1990,  Florianopolis  ,PA,83368149,"600,00",23/12/2024,"600,00",True,Silver
+46,Yasmin Uchoa,yasminuchoa@empresa.com.br,79951793473,15/01/1950,Maringa,DF,81864377,"600,00",13/11/2024,"600,00",False,Bronze
+47,Quesia Mendes,quesiamendes@empresa.com.br,61952678792,08/04/1990,Sao Paulo,DF,91924381,"600,00",24/03/2025,"600,00",True,Silver
+48,Ulisses Uchoa,ulissesuchoa@outlook.com,47954612335,21/05/1998,Goiania,PA,97248095,"600,00",20/01/2025,"600,00",False,Silver
+49,Gabriela Klein,gabrielaklein@yahoo.com.br,71916579317,01/08/1998,  Joinville  ,SC,81431420,"600,00",04/07/2024,"600,00",True,Platinum
+50,Zuleica Oliveira,zuleicaoliveira@hotmail.com,61960268218,01/04/1999,Brasilia,PE,98171956,"600,00",23/02/2024,"600,00",False,Gold
+51,Iara Oliveira,iaraoliveira@hotmail.com,85957271436,22/02/1965,Joinville,PE,84508039,"600,00",11/04/2024,"600,00",False,Silver
+52,  Otavio Teixeira  ,"otavioteixeira@gmail,com",91969342821,21/08/1950,  Belo Horizonte  ,PE,96887588,"600,00",26/05/2025,"600,00",True,Bronze
+53,Nataly Ferreira,natalyferreira@gmail.com,92983129316,17/06/1946,  Londrina  ,PE,84371045,"600,00",19/12/2024,"600,00",False,Gold
+54,Wagner Pereira,wagnerpereira@hotmail.com,71933021717,22/06/1987,Belem,BA,90876279,"600,00",14/07/2024,"600,00",False,Bronze
+55,Mariana Klein,marianaklein@yahoo.com.br,67913537955,03/06/1974,Florianopolis,SC,94651043,"600,00",12/03/2025,"600,00",False,Gold
+56,  Zuleica Barbosa  ,zuleicabarbosa@yahoo.com.br,11923398179,22/11/1995,Fortaleza,SC,82519587,"600,00",05/04/2025,"600,00",False,Platinum
+57,Ana Xavier,anaxavier@empresa.com.br,67973114515,28/06/1960,Londrina,RJ,98022555,"600,00",23/11/2024,"600,00",False,Bronze
+58,Felipe Zanetti,felipezanetti@hotmail.com,86904306912,26/09/1952,Maringa,BA,98838075,"600,00",05/05/2025,"600,00",True,Platinum
+59,Eduarda Yamamoto,eduardayamamoto@empresa.com.br,21920349488,22/07/1991,Florianopolis,GO,84101640,"600,00",13/09/2024,"600,00",True,Gold
+60,Eduarda Ferreira,eduardaferreira@empresa.com.br,11913301744,15/06/2000,Salvador,DF,88024824,"600,00",12/07/2025,"600,00",True,Platinum
+61,Nataly Pereira,natalypereira@outlook.com,81965323142,03/05/1985,Belo Horizonte,CE,88135985,"600,00",21/02/2024,"600,00",True,Platinum
+62,Yasmin Ferreira,yasminferreira@empresa.com.br,31964429281,05/26/1989,Recife,PR,83522441,"600,00",26/04/2025,"600,00",True,Bronze
+63,Bruno Silva,brunosilva@outlook.com,92945822946,11/12/1957,Brasilia,SC,81275140,"600,00",15/02/2025,"600,00",True,Bronze
+64,Eduarda Klein,eduardaklein@outlook.com,71997276511,18/01/1978,Londrina,RS,99559485,"600,00",02/03/2025,"600,00",True,Bronze
+65,Bruno Silva,brunosilva@empresa.com.br,47939681517,03/08/1958,Belo Horizonte,CE,84524531,"600,00",24/02/2025,"600,00",False,Bronze
+66,Felipe Oliveira,felipeoliveira@outlook.com,67999958932,07/08/1963,Salvador,MG,83993587,"600,00",23/12/2024,"600,00",True,Gold
+67,Zuleica Esteves,zuleicaesteves@outlook.com,67978494505,10/20/1954,Salvador,GO,87629053,"600,00",02/09/2024,"600,00",True,Silver
+68,Rafael Ferreira,rafaelferreira@yahoo.com.br,79946761969,29/06/1982,Fortaleza,GO,89485897,"600,00",07/02/2024,"600,00",False,Silver
+69,Otavio Uchoa,otaviouchoa@yahoo.com.br,67931592845,31/03/1975,Maringa,GO,96884335,"600,00",16/07/2024,"600,00",True,Platinum
+70,Henrique Almeida,henriquealmeida@hotmail.com,11942856890,25/11/1972,Belo Horizonte,RJ,84376489,"600,00",29/10/2024,"600,00",False,Silver
+71,Paula Yamamoto,paulayamamoto@hotmail.com,31986098319,08/05/1990,Rio de Janeiro,SP,83808696,"600,00",02/06/2024,"600,00",False,Platinum
+72,Otavio Esteves,otavioesteves@yahoo.com.br,71903567487,02/11/2007,Recife,PR,89407418,"600,00",02/03/2024,"600,00",False,Bronze
+73,Lucas Mendes,lucasmendes@yahoo.com.br,92921786697,15/01/1947,Brasilia,GO,87525253,"600,00",11/07/2025,"600,00",True,Platinum
+74,Bruno Zanetti,brunozanetti@empresa.com.br,61911022653,01/09/1966,Sao Paulo,PR,87673835,"600,00",27/02/2024,"600,00",True,Gold
+75,Henrique Jardim,henriquejardim@empresa.com.br,51969999120,22/05/1958,Brasilia,SC,89854878,"600,00",04/07/2025,"600,00",False,Silver
+76,  Rafael Queiroz  ,rafaelqueiroz@hotmail.com,85960792514,19/07/1948,  Recife  ,PE,95708213,nan,24/08/2025,"600,00",True,Silver
+77,Xavier Duarte,xavierduarte@yahoo.com.br,83939216269,23/10/1986,Goiania,SC,90253423,nan,25/04/2025,"600,00",False,Gold
+78,Sonia Silva,soniasilva@outlook.com,62981806530,04/02/1960,Londrina,PA,97168034,"600,00",13/07/2025,nan,True,Bronze
+79,Eduarda Uchoa,"eduardauchoa@hotmail,com",86979931257,21/09/1970,  Campinas  ,BA,97183152,"600,00",16/03/2025,"600,00",False,Bronze
+80,Carla Lima,carlalima@yahoo.com.br,31905192531,05/11/1989,  Londrina  ,PR,87528216,"600,00",05/12/2024,"600,00",False,Bronze
+81,Vitoria Ibrahim,vitoriaibrahim@empresa.com.br,11933943362,11/30/1979,Rio de Janeiro,AM,81759100,"600,00",23/05/2024,"600,00",False,Gold
+82,Mariana Yamamoto,,92961508075,06/08/1951,  Brasilia  ,AM,90376369,"600,00",24/01/2025,"600,00",True,Platinum
+83,Eduarda Cardoso,eduardacardoso@yahoo.com.br,31957982524,17/10/1979,Belem,PR,92475173,"600,00",26/07/2025,"600,00",True,Silver
+84,Nataly Jardim,natalyjardim@gmail.com,86997284203,31/01/1979,  Manaus  ,PE,90507617,"600,00",16/03/2025,"600,00",True,Gold
+85,Joao Xavier,joaoxavier@yahoo.com.br,67964376980,01/06/1947,Recife,BA,93406689,"600,00",02/08/2024,"600,00",True,Bronze
+86,  Zuleica Mendes  ,zuleicamendes@empresa.com.br,84989071602,01/17/2003,  Rio de Janeiro  ,MG,80345100,"600,00",13/02/2025,"600,00",True,Bronze
+87,Otavio Lima,otaviolima@empresa.com.br,86917125840,25/12/1972,  Rio de Janeiro  ,GO,95602099,"600,00",30/07/2024,"600,00",False,Gold
+88,Diego Almeida,diegoalmeida@gmail.com,62984543858,21/09/1961,Campinas,MG,80145721,"600,00",21/07/2024,"600,00",True,Platinum
+89,Zuleica Ribeiro,zuleicaribeiro@outlook.com,86986466134,21/05/2000,Brasilia,SC,90262120,"600,00",31/10/2024,"600,00",False,Silver
+90,Tiago Esteves,tiagoesteves@yahoo.com.br,51990913733,18/03/1977,Florianopolis,CE,93406701,"600,00",18/07/2024,"600,00",True,Platinum
+91,Zuleica Yamamoto,zuleicayamamoto@gmail.com,85992679115,25/09/1948,Belo Horizonte,BA,81056460,"600,00",11/03/2025,"600,00",False,Gold
+92,Zuleica Hernandez,zuleicahernandez@empresa.com.br,84927193281,03/05/1993,Sao Paulo,BA,84442985,"600,00",26/10/2024,"600,00",True,Bronze
+93,Wagner Esteves,wagneresteves@outlook.com,86923295402,05/04/1991,  Maringa  ,DF,99069002,"600,00",12/01/2025,"600,00",False,Gold
+94,Wagner Lima,wagnerlima@empresa.com.br,86943996289,14/02/1949,Porto Alegre,CE,94460467,"600,00",15/04/2025,"600,00",False,Silver
+95,Ulisses Jardim,ulissesjardim@outlook.com,51908487493,24Feb1964,Fortaleza,SP,80304008,"600,00",30/08/2025,"600,00",True,Platinum
+96,Carla Hernandez,carlahernandez@gmail.com,83921813340,12/02/1964,Curitiba,RJ,84587770,"600,00",29/03/2025,"600,00",False,Bronze
+97,Henrique Ibrahim,henriqueibrahim@hotmail.com,11949424366,26May1989,Recife,RS,91832956,"600,00",26/05/2025,"600,00",False,Bronze
+98,Felipe Yamamoto,"felipeyamamoto@gmail,com",21909907520,06/20/2002,Joinville,PE,82589523,"600,00",05/06/2024,"600,00",False,Gold
+99,Yasmin Uchoa,yasminuchoa@gmail.com,62909485005,04/10/2004,Belo Horizonte,AM,96266975,"600,00",20/05/2024,"600,00",True,Silver
+100,Xavier Yamamoto,xavieryamamoto827@gmail.com,91910465308,10/28/1989,Rio de Janeiro,BA,87484758,"600,00",10/06/2024,"600,00",False,Bronze
+101,Mariana Esteves,marianaesteves@gmail.com,84936786272,09/18/1955,Belem,SP,93137070,"600,00",23/02/2024,"600,00",False,Bronze
+102,Otavio Almeida,otavioalmeida@outlook.com,85960339083,02/08/1993,Fortaleza,PE,90076106,"600,00",10/01/2024,"600,00",True,Platinum
+103,Eduarda Watanabe,eduardawatanabe@gmail.com,81975112391,11/12/1995,Porto Alegre,PE,90322948,"600,00",13/05/2024,"600,00",True,Gold
+104,  Carla Goncalves  ,carlagoncalves@empresa.com.br,79966602978,10/02/1953,Recife,CE,90741151,"600,00",07/11/2024,"600,00",True,Silver
+105,  Iara Ferreira  ,iaraferreira@yahoo.com.br,41975702669,09/12/1980,Sao Paulo,MG,80714066,"600,00",27/03/2024,"600,00",True,Bronze
+106,  Zuleica Klein  ,zuleicaklein@yahoo.com.br,83981281483,05/01/1985,Florianopolis,RJ,93500903,"600,00",08/09/2024,"600,00",True,Platinum
+107,Zuleica Queiroz,zuleicaqueiroz@empresa.com.br,81978599921,08/10/1973,Joinville,RS,99136238,"600,00",14/10/2024,"600,00",False,Gold
+108,Xavier Barbosa,xavierbarbosa@hotmail.com,51928854875,26/07/1995,Goiania,PR,85752502,nan,11/07/2024,"600,00",True,Gold
+109,Karen Teixeira,karenteixeira@hotmail.com,79909751359,08/07/1978,Porto Alegre,BA,85161749,"600,00",10/12/2024,"600,00",False,Silver
+110,Rafael Watanabe,rafaelwatanabe@empresa.com.br,51961996026,30/11/1995,Porto Alegre,PR,96258144,"600,00",21/11/2024,"600,00",False,Bronze
+111,Carla Watanabe,carlawatanabe@outlook.com,31957425205,22Feb1982,Sao Paulo,GO,95711807,"600,00",25/12/2024,"600,00",True,Bronze
+112,  Bruno Jardim  ,brunojardim@outlook.com,83926362228,12/09/1983,Rio de Janeiro,AM,90849210,"600,00",20/03/2025,"600,00",True,Bronze
+113,Vitoria Jardim,"vitoriajardim@gmail,com",47908936911,30/11/1962,Manaus,PA,95517864,"600,00",23/06/2024,"600,00",True,Bronze
+114,Ulisses Ribeiro,ulissesribeiro@outlook.com,67972048619,10/12/2004,Salvador,RJ,92684838,"600,00",27/02/2025,"600,00",False,Bronze
+115,Henrique Pereira,henriquepereira@yahoo.com.br,91993633415,27/04/1956,Maringa,RJ,90477932,"600,00",21/03/2025,"600,00",True,Gold
+116,Iara Queiroz,iaraqueiroz@gmail.com,84918437790,20/01/1993,Belo Horizonte,AM,81227176,"600,00",27/09/2024,"600,00",False,Platinum
+117,Karen Watanabe,karenwatanabe@yahoo.com.br,71950945593,02/10/1984,Belo Horizonte,MG,94474216,"600,00",02/03/2025,"600,00",False,Silver
+118,Bruno Queiroz,brunoqueiroz@gmail.com,91993171474,15/07/1949,Recife,MG,84059697,"600,00",07/10/2024,"600,00",False,Platinum
+119,Sonia Ribeiro,soniaribeiro@hotmail.com,31946701449,21Feb1969,Recife,PA,99698820,"600,00",10/01/2024,"600,00",True,Silver
+120,Ulisses Ibrahim,ulissesibrahim@yahoo.com.br,71985307506,23/08/1999,Joinville,SC,89059655,"600,00",20/04/2024,"600,00",False,Gold
+121,Gabriela Esteves,gabrielaesteves@hotmail.com,83952363292,01/11/1979,Londrina,RS,97518653,"600,00",08/08/2025,"600,00",False,Silver
+122,Vitoria Ribeiro,vitoriaribeiro@gmail.com,92929996499,07/05/1978,Goiania,RS,99122594,"600,00",19/04/2025,"600,00",False,Bronze
+123,Mariana Queiroz,marianaqueiroz@gmail.com,79967048496,12/02/1973,Florianopolis,CE,96042804,"600,00",07/10/2024,"600,00",True,Silver
+124,  Paula Mendes  ,paulamendes@empresa.com.br,79987004122,20/03/1954,Fortaleza,SC,89771971,"600,00",09/11/2024,"600,00",False,Bronze
+125,Eduarda Klein,eduardaklein@yahoo.com.br,nan,29/02/1960,Porto Alegre,PR,99461049,"600,00",08/02/2024,"600,00",True,Bronze
+126,Mariana Duarte,marianaduarte@yahoo.com.br,11949337895,05/31/1954,Joinville,AM,96309203,"600,00",30/04/2024,"600,00",False,Bronze
+127,Nataly Jardim,natalyjardim@empresa.com.br,79938421044,01/30/1953,Belo Horizonte,PA,89700270,"600,00",13/04/2024,"600,00",False,Platinum
+128,Zuleica Vieira,zuleicavieira@gmail.com,47927936384,29/05/1961,Salvador,SP,93819664,"600,00",12/04/2025,"600,00",True,Platinum
+129,Felipe Duarte,felipeduarte@empresa.com.br,83958751472,15/07/1984,Porto Alegre,CE,91085531,"600,00",17/11/2024,"600,00",True,Silver
+130,Lucas Vieira,lucasvieira@yahoo.com.br,21901903571,12/08/1966,Londrina,SP,93214836,"600,00",21/02/2024,"600,00",False,Platinum
+131,  Otavio Klein  ,otavioklein414@yahoo.com.br,92989961002,01/08/1975,Manaus,BA,91904733,nan,16/08/2024,"600,00",False,Platinum
+132,Ulisses Zanetti,ulisseszanetti@empresa.com.br,86923017704,05/02/1962,Recife,PE,94987674,nan,28/02/2025,"600,00",False,Platinum
+133,Rafael Nogueira,rafaelnogueira@yahoo.com.br,51921032696,17/02/2007,Belem,PE,84527422,"600,00",17/12/2024,"600,00",False,Silver
+134,Karen Watanabe,karenwatanabe@empresa.com.br,71956573173,08/08/1976,Florianopolis,GO,93840827,"600,00",07/08/2025,"600,00",True,Gold
+135,Iara Yamamoto,iarayamamoto@outlook.com,71933429866,01/21/2003,  Maringa  ,PA,92503396,"600,00",07/06/2025,"600,00",True,Bronze
+136,Xavier Ibrahim,xavieribrahim@yahoo.com.br,81996409955,08/04/1960,Recife,RJ,84262164,"600,00",11/02/2024,"600,00",True,Gold
+137,Eduarda Klein,eduardaklein@empresa.com.br,92958662194,20/04/1959,Fortaleza,BA,86991679,"600,00",17/02/2025,"600,00",False,Silver
+138,Rafael Yamamoto,rafaelyamamoto@gmail.com,62906536258,16/05/1991,Belo Horizonte,BA,89713919,"600,00",04/06/2025,"600,00",False,Bronze
+139,Yasmin Ribeiro,yasminribeiro@gmail.com,84917024368,14/03/1986,Campinas,SP,98287072,"600,00",16/03/2024,"600,00",True,Gold
+140,  Nataly Klein  ,natalyklein@gmail.com,21911896860,13/06/1980,Manaus,RS,97882302,"600,00",30/06/2025,"600,00",True,Platinum
+141,Xavier Uchoa,xavieruchoa@gmail.com,11993837456,01/08/1982,Rio de Janeiro,GO,83755185,"600,00",07/07/2024,"600,00",True,Silver
+142,Rafael Oliveira,,86954206851,06/07/1973,  Fortaleza  ,AM,90365981,"600,00",09/11/2024,"600,00",True,Gold
+143,Nataly Ibrahim,natalyibrahim@hotmail.com,85958776004,28/04/1993,Florianopolis,SP,96619646,"600,00",19/03/2024,"600,00",False,Bronze
+144,Rafael Ibrahim,rafaelibrahim@empresa.com.br,62996605767,14/06/2004,  Joinville  ,SC,85217183,"600,00",18/06/2024,"600,00",True,Platinum
+145,Lucas Barbosa,lucasbarbosa@yahoo.com.br,61984856918,11/10/1991,Maringa,PR,92342669,"600,00",26/09/2024,"600,00",True,Silver
+146,Henrique Queiroz,henriquequeiroz@outlook.com,91922768207,13/02/1959,Joinville,MG,90820737,"600,00",01/05/2024,"600,00",False,Platinum
+147,Nataly Almeida,natalyalmeida@hotmail.com,21993763406,16/03/2002,Florianopolis,PE,99874482,"600,00",17/10/2024,"600,00",False,Platinum
+148,Yasmin Ferreira,yasminferreira@empresa.com.br,85997732127,26May2006,  Porto Alegre  ,MG,97413515,"600,00",08/04/2024,"600,00",False,Bronze
+149,Ana Yamamoto,anayamamoto@yahoo.com.br,nan,05/03/1983,Brasilia,DF,88447193,"600,00",26/08/2024,"600,00",True,Platinum
+150,Mariana Uchoa,marianauchoa@outlook.com,67942819783,07/14/1994,Salvador,PE,88315314,"600,00",14/01/2025,"600,00",True,Platinum
+151,Diego Xavier,diegoxavier@hotmail.com,92908523633,23/01/1984,Curitiba,RJ,92593953,"600,00",15/08/2024,"600,00",False,Bronze
+152,Yasmin Ferreira,"yasminferreira@yahoo,com,br",91946854190,21/06/2005,Joinville,MG,93088361,nan,01/01/2024,"600,00",False,Gold
+153,Carla Ribeiro,carlaribeiro@empresa.com.br,67937074187,13/02/1995,Curitiba,PE,97626832,"600,00",14/12/2024,"600,00",True,Gold
+154,Henrique Yamamoto,henriqueyamamoto@yahoo.com.br,86919045224,09/05/1976,Fortaleza,MG,93072689,"600,00",26/09/2024,"600,00",True,Bronze
+155,Gabriela Silva,gabrielasilva@hotmail.com,67933874755,19/08/2005,Goiania,SP,90335504,"600,00",08/07/2025,"600,00",False,Gold
+156,Yasmin Queiroz,yasminqueiroz@hotmail.com,84978369859,10/20/1955,Brasilia,DF,99038103,"600,00",09/01/2024,"600,00",False,Platinum
+157,Paula Teixeira,paulateixeira@hotmail.com,81959817563,21/03/1969,Porto Alegre,PA,95498825,"600,00",25/01/2025,"600,00",True,Silver
+158,Rafael Xavier,rafaelxavier@yahoo.com.br,83916213676,10/01/1975,Salvador,PA,80649421,"600,00",27/07/2025,"600,00",True,Gold
+159,Ulisses Ribeiro,ulissesribeiro@outlook.com,85912847243,08/20/2001,Porto Alegre,PA,87478321,"600,00",14/03/2024,"600,00",True,Gold
+160,Otavio Yamamoto,otavioyamamoto@outlook.com,51930121378,23/12/1959,Salvador,GO,80863789,"600,00",06/03/2024,"600,00",True,Bronze
+161,Ulisses Mendes,ulissesmendes@hotmail.com,91927951468,19/03/1994,Belem,CE,97152655,"600,00",06/07/2025,"600,00",False,Platinum
+162,Otavio Jardim,otaviojardim536@outlook.com,47956345698,14/08/1983,Londrina,CE,93491903,"600,00",08/01/2024,"600,00",False,Silver
+163,Mariana Hernandez,,67946649715,02/06/2000,Rio de Janeiro,RS,84985050,"600,00",18/05/2025,"600,00",False,Bronze
+164,  Otavio Xavier  ,otavioxavier@gmail.com,71981657084,28/11/1968,Sao Paulo,DF,92503848,"600,00",26/04/2025,"600,00",False,Gold
+165,Henrique Xavier,henriquexavier@hotmail.com,61977467375,26/09/1991,Belem,GO,87136996,"600,00",01/11/2024,"600,00",False,Bronze
+166,Diego Mendes,diegomendes@gmail.com,47960842466,23/11/1976,Rio de Janeiro,SC,90378571,"600,00",19/04/2024,"600,00",False,Silver
+167,Wagner Mendes,wagnermendes724@hotmail.com,71988929029,01/10/1994,Goiania,CE,97747375,"600,00",07/06/2024,"600,00",True,Gold
+168,Tiago Lima,tiagolima@hotmail.com,83931109586,29/11/1954,Porto Alegre,SC,81024206,"600,00",09/03/2024,"600,00",True,Silver
+169,Paula Queiroz,paulaqueiroz@empresa.com.br,31902144419,24/01/1995,Rio de Janeiro,PA,82306854,"600,00",29/02/2024,"600,00",True,Bronze
+170,Rafael Mendes,rafaelmendes@empresa.com.br,92991447802,20/12/1959,Goiania,GO,91544924,"600,00",31/05/2025,"600,00",True,Platinum
+171,Nataly Xavier,natalyxavier@hotmail.com,67958988412,10/06/1991,Curitiba,RS,87039876,"600,00",05/11/2024,"600,00",True,Silver
+172,Quesia Ribeiro,quesiaribeiro365@empresa.com.br,67960145093,05/12/1951,  Manaus  ,PE,81224748,"600,00",26/06/2024,"600,00",False,Gold
+173,Nataly Nogueira,natalynogueira@gmail.com,11962661886,08/08/2007,Belem,RJ,87277442,"600,00",06/02/2025,"600,00",True,Bronze
+174,Bruno Ribeiro,brunoribeiro@gmail.com,47978794245,28/09/1966,Recife,GO,93552433,"600,00",16/03/2025,"600,00",False,Bronze
+175,Felipe Lima,felipelima@yahoo.com.br,62932717124,02/04/1958,  Rio de Janeiro  ,PR,80745339,"600,00",23/04/2024,"600,00",False,Platinum
+176,Paula Teixeira,paulateixeira@hotmail.com,91907125185,18/09/1986,Recife,AM,80625299,"600,00",04/10/2024,"600,00",False,Bronze
+177,Diego Klein,diegoklein@empresa.com.br,85991861352,26/08/1946,Joinville,CE,96425282,"600,00",29/12/2024,"600,00",True,Silver
+178,Ana Ribeiro,anaribeiro@hotmail.com,31962629531,01/10/1973,Fortaleza,AM,99039554,"600,00",09/07/2025,"600,00",False,Silver
+179,Eduarda Nogueira,eduardanogueira@hotmail.com,31991319732,23Feb1982,Belem,RJ,84310189,"600,00",07/10/2024,"600,00",False,Bronze
+180,Tiago Hernandez,tiagohernandez@gmail.com,91999078680,11/09/1959,Florianopolis,CE,87292760,"600,00",22/02/2025,"600,00",True,Platinum
+181,Otavio Teixeira,otavioteixeira@outlook.com,21999607232,23/10/1954,Joinville,GO,81286571,"600,00",13/02/2024,"600,00",True,Platinum
+182,Joao Yamamoto,joaoyamamoto@yahoo.com.br,91923308595,20Feb1957,  Joinville  ,DF,99343918,"600,00",06/04/2025,"600,00",True,Platinum
+183,Wagner Zanetti,wagnerzanetti@gmail.com,31985827292,23/02/1979,Joinville,RJ,84738183,"600,00",09/12/2024,"600,00",True,Silver
+184,Joao Uchoa,joaouchoa784@hotmail.com,85981539169,18/10/1981,Londrina,AM,98269839,"600,00",07/01/2024,"600,00",True,Gold
+185,Bruno Vieira,brunovieira@empresa.com.br,84929203643,20/03/1948,Florianopolis,GO,94002863,"600,00",26/11/2024,"600,00",True,Bronze
+186,Quesia Nogueira,quesianogueira@hotmail.com,91914368924,08/07/1996,Manaus,SC,96138827,"600,00",12/05/2024,nan,False,Platinum
+187,Ana Oliveira,anaoliveira@gmail.com,84967831745,01/02/1951,  Recife  ,MG,90921349,"600,00",17/07/2025,"600,00",True,Bronze
+188,Karen Vieira,karenvieira@yahoo.com.br,85987976490,08/09/1995,Campinas,PR,82169992,"600,00",20/01/2024,"600,00",False,Gold
+189,Felipe Silva,felipesilva@hotmail.com,79905185448,15/02/1972,Fortaleza,RS,96580025,"600,00",08/02/2024,"600,00",False,Platinum
+190,Quesia Jardim,quesiajardim@hotmail.com,91921744361,25/11/1972,Brasilia,BA,81511105,"600,00",31/08/2025,"600,00",False,Platinum
+191,Gabriela Klein,gabrielaklein@outlook.com,41944673446,07/15/1963,Curitiba,BA,98811250,"600,00",22/11/2024,"600,00",True,Gold
+192,Ana Pereira,anapereira@gmail.com,51997668304,10/12/1986,Belem,GO,95250481,"600,00",24/04/2025,"600,00",False,Gold
+193,Mariana Ferreira,marianaferreira@outlook.com,11910708787,23/07/1996,Maringa,RS,98223665,"600,00",19/02/2025,"600,00",False,Gold
+194,Henrique Ribeiro,henriqueribeiro@yahoo.com.br,84971326606,04/05/1955,Florianopolis,SP,85772315,"600,00",29/11/2024,"600,00",False,Platinum
+195,Mariana Klein,marianaklein@gmail.com,11924033444,21/02/2006,Brasilia,CE,99094008,"600,00",07/11/2024,"600,00",False,Bronze
+196,  Rafael Barbosa  ,rafaelbarbosa@empresa.com.br,11938548073,27/11/1993,Belem,PE,91805860,"600,00",01/05/2025,nan,False,Platinum
+197,  Ulisses Almeida  ,ulissesalmeida@yahoo.com.br,47968138471,12/07/1994,Campinas,CE,98937510,"600,00",19/08/2024,"600,00",True,Bronze
+198,Lucas Barbosa,lucasbarbosa@empresa.com.br,31923279624,22/05/1987,Rio de Janeiro,AM,91257547,"600,00",06/07/2025,"600,00",True,Bronze
+199,Nataly Lima,natalylima946@outlook.com,71992355267,14/06/1947,Florianopolis,PA,88259135,"600,00",09/05/2024,"600,00",False,Gold
+200,Sonia Xavier,soniaxavier@yahoo.com.br,62979443962,30/06/1989,Belem,RJ,86909591,"600,00",31/08/2024,"600,00",False,Silver
+201,Felipe Oliveira,felipeoliveira@outlook.com,62962227390,10/04/1979,Joinville,PR,94148625,"600,00",12/02/2024,"600,00",True,Gold
+202,Ulisses Silva,ulissessilva@hotmail.com,79929476132,15/02/1992,Curitiba,PR,86326034,"600,00",25/12/2024,"600,00",True,Gold
+203,  Tiago Uchoa  ,tiagouchoa@gmail.com,51918164018,02/02/1968,Rio de Janeiro,RS,90900061,"600,00",10/10/2024,"600,00",True,Platinum
+204,Gabriela Teixeira,gabrielateixeira@yahoo.com.br,nan,26/08/1989,Rio de Janeiro,RS,84967716,"600,00",01/01/2024,"600,00",True,Gold
+205,Paula Nogueira,paulanogueira978@gmail.com,86919859770,18/12/1992,Manaus,PA,98169040,"600,00",15/04/2025,"600,00",False,Silver
+206,Wagner Lima,wagnerlima@yahoo.com.br,62980157369,28/04/1948,Manaus,DF,97141469,"600,00",13/02/2024,"600,00",False,Silver
+207,Carla Barbosa,carlabarbosa@yahoo.com.br,21939763138,02/11/1999,Sao Paulo,DF,99496818,"600,00",06/03/2024,"600,00",False,Platinum
+208,Xavier Vieira,xaviervieira@gmail.com,61907463841,26/08/1994,  Salvador  ,PE,92325796,nan,18/08/2025,"600,00",True,Bronze
+209,Wagner Uchoa,wagneruchoa@outlook.com,47933773344,30/06/1998,Maringa,RJ,93722004,"600,00",31/03/2024,"600,00",True,Gold
+210,Yasmin Ribeiro,yasminribeiro@yahoo.com.br,61918463444,08/11/2002,Londrina,RJ,81419106,"600,00",21/03/2025,"600,00",False,Platinum
+211,Diego Cardoso,diegocardoso@yahoo.com.br,79937692804,07/08/1951,Fortaleza,MG,99969465,"600,00",25/02/2024,"600,00",True,Silver
+212,Iara Goncalves,iaragoncalves@gmail.com,nan,03/31/1960,Fortaleza,AM,87092605,"600,00",23/08/2024,"600,00",True,Platinum
+213,Henrique Klein,henriqueklein@hotmail.com,11968441724,02/07/2007,  Joinville  ,BA,93324972,"600,00",03/09/2024,nan,True,Bronze
+214,Vitoria Jardim,vitoriajardim@yahoo.com.br,85975983271,13/07/1979,Goiania,GO,82652635,"600,00",30/10/2024,"600,00",True,Silver
+215,Bruno Duarte,brunoduarte@yahoo.com.br,92910974354,28/10/1963,Fortaleza,PA,81784064,"600,00",30/09/2024,"600,00",True,Gold
+216,Rafael Vieira,rafaelvieira@outlook.com,31930858501,04/10/1969,Florianopolis,SP,89606426,"600,00",23/05/2025,"600,00",False,Bronze
+217,Ulisses Almeida,"ulissesalmeida@gmail,com",91955037745,12/12/1984,Belem,PA,87431495,"600,00",15/05/2024,"600,00",True,Gold
+218,Felipe Teixeira,felipeteixeira@empresa.com.br,47926414897,21/07/1961,Belem,CE,84847381,"600,00",05/02/2024,"600,00",False,Gold
+219,  Paula Yamamoto  ,paulayamamoto@yahoo.com.br,92983136427,17/09/1995,Londrina,DF,84568694,"600,00",25/04/2024,"600,00",False,Bronze
+220,  Carla Klein  ,carlaklein@hotmail.com,67932061369,12/06/1962,Maringa,SP,84847733,"600,00",07/06/2025,"600,00",False,Platinum
+221,  Otavio Ribeiro  ,otavioribeiro@yahoo.com.br,51969447786,03/02/1975,  Rio de Janeiro  ,RS,93417654,"600,00",27/08/2025,"600,00",False,Bronze
+222,Eduarda Goncalves,eduardagoncalves@yahoo.com.br,nan,26/07/1968,Maringa,DF,85877503,"600,00",28/04/2025,"600,00",True,Platinum
+223,Carla Teixeira,carlateixeira@empresa.com.br,86919597114,10/02/1958,Curitiba,RJ,88934369,"600,00",18/05/2024,"600,00",True,Bronze
+224,Carla Queiroz,carlaqueiroz@hotmail.com,79951805932,27/02/1946,  Goiania  ,AM,85342104,"600,00",16/01/2025,"600,00",True,Gold
+225,Wagner Queiroz,wagnerqueiroz@empresa.com.br,31919093150,07/12/1991,Manaus,RJ,84217877,"600,00",07/11/2024,"600,00",False,Silver
+226,Nataly Watanabe,natalywatanabe@gmail.com,nan,19/11/1948,Joinville,CE,99254922,"600,00",11/01/2024,"600,00",False,Silver
+227,Iara Silva,iarasilva@hotmail.com,91993422119,05/30/1960,Curitiba,GO,92008714,"600,00",11/04/2024,"600,00",True,Platinum
+228,Mariana Nogueira,mariananogueira@hotmail.com,85918079515,09/06/1974,Goiania,BA,87401567,"600,00",17/10/2024,"600,00",True,Platinum
+229,Zuleica Pereira,zuleicapereira@outlook.com,41964948177,16/02/1954,  Rio de Janeiro  ,PE,84022238,"600,00",22/07/2024,"600,00",False,Platinum
+230,Iara Yamamoto,iarayamamoto@yahoo.com.br,86983795569,17/05/2001,  Belo Horizonte  ,CE,85868391,"600,00",24/02/2024,"600,00",False,Bronze
+231,Vitoria Yamamoto,vitoriayamamoto@yahoo.com.br,86982705287,02/06/1979,Curitiba,PR,81076181,"600,00",20/01/2025,"600,00",False,Bronze
+232,Eduarda Jardim,eduardajardim@yahoo.com.br,92988378697,10/01/1998,Florianopolis,PE,80922604,"600,00",27/12/2024,"600,00",False,Bronze
+233,Ulisses Klein,ulissesklein@yahoo.com.br,62940564844,16/04/1975,Rio de Janeiro,SP,98613527,"600,00",29/11/2024,"600,00",False,Platinum
+234,Mariana Silva,marianasilva@empresa.com.br,61955049138,07Feb1963,Belem,RS,88688048,"600,00",18/03/2024,"600,00",False,Gold
+235,  Wagner Silva  ,wagnersilva@outlook.com,84934366690,10/02/1973,Manaus,RS,97942184,"600,00",14/09/2024,"600,00",True,Platinum
+236,Vitoria Xavier,vitoriaxavier@outlook.com,84992751981,22/10/1981,  Maringa  ,RJ,88746843,"600,00",06/03/2024,"600,00",False,Platinum
+237,  Eduarda Goncalves  ,eduardagoncalves@outlook.com,21933093610,21/10/2002,Salvador,RS,90286616,"600,00",12/05/2025,"600,00",True,Bronze
+238,Carla Mendes,carlamendes@hotmail.com,41985519605,04/06/1997,Rio de Janeiro,SP,83500179,"600,00",29/08/2024,"600,00",False,Silver
+239,Rafael Lima,rafaellima@gmail.com,nan,19/12/2006,  Manaus  ,AM,97527887,"600,00",28/01/2025,"600,00",False,Bronze
+240,  Iara Jardim  ,iarajardim@hotmail.com,85951967656,07/11/1974,Rio de Janeiro,CE,91529430,"600,00",12/04/2024,"600,00",True,Bronze
+241,Bruno Uchoa,brunouchoa@yahoo.com.br,71951402347,10/07/2006,Joinville,DF,88541177,"600,00",23/11/2024,"600,00",False,Silver
+242,Felipe Mendes,felipemendes@empresa.com.br,62914578576,04/05/1968,  Florianopolis  ,AM,97230445,"600,00",11/01/2025,"600,00",False,Bronze
+243,Gabriela Goncalves,gabrielagoncalves@outlook.com,61998314531,14/01/1971,Recife,PE,82809010,"600,00",06/04/2025,"600,00",False,Platinum
+244,Mariana Watanabe,marianawatanabe@empresa.com.br,79938478715,21Feb1972,  Sao Paulo  ,BA,88529173,"600,00",15/05/2024,"600,00",True,Silver
+245,  Quesia Nogueira  ,quesianogueira@gmail.com,67959078046,30/01/1973,Salvador,DF,98208873,"600,00",19/11/2024,"600,00",False,Silver
+246,Felipe Barbosa,felipebarbosa@hotmail.com,86906688233,13/05/1976,Londrina,SP,98456912,nan,17/10/2024,"600,00",True,Gold
+247,Felipe Nogueira,felipenogueira@hotmail.com,11946572998,16/04/1986,Belo Horizonte,RJ,81436671,"600,00",02/10/2024,"600,00",True,Gold
+248,  Zuleica Silva  ,zuleicasilva@gmail.com,31989647248,04/11/1946,Florianopolis,DF,89782502,"600,00",16/02/2025,"600,00",True,Bronze
+249,  Lucas Vieira  ,lucasvieira@outlook.com,86943987931,08/18/1948,Goiania,PE,96230539,"600,00",19/04/2025,"600,00",False,Silver
+250,  Paula Jardim  ,,84948411781,24/06/1953,Sao Paulo,BA,99187083,"600,00",05/08/2025,"600,00",False,Gold
+251,  Mariana Barbosa  ,marianabarbosa@outlook.com,85943426592,12/02/1983,Rio de Janeiro,AM,95634471,"600,00",08/02/2025,"600,00",True,Silver
+252,Tiago Teixeira,tiagoteixeira@yahoo.com.br,61918331260,02/05/1984,Curitiba,PA,93824022,"600,00",04/11/2024,"600,00",True,Platinum
+253,Ana Oliveira,,79901292682,24/09/1994,Campinas,CE,87599731,"600,00",13/02/2025,"600,00",True,Platinum
+254,Ulisses Nogueira,ulissesnogueira@gmail.com,84903403643,21/09/1997,Londrina,MG,93659853,"600,00",24/04/2025,"600,00",True,Platinum
+255,Felipe Teixeira,felipeteixeira@gmail.com,86916537815,12/01/1977,Recife,PR,94110116,"600,00",30/05/2025,"600,00",False,Gold
+256,  Lucas Yamamoto  ,lucasyamamoto@empresa.com.br,91999002706,10/12/1999,Maringa,DF,85473645,"600,00",14/04/2024,"600,00",True,Bronze
+257,Yasmin Queiroz,yasminqueiroz@gmail.com,41933078194,09/23/1970,Curitiba,DF,88042155,"600,00",29/09/2024,"600,00",True,Gold
+258,Nataly Oliveira,natalyoliveira@empresa.com.br,47901629476,08/07/1950,Belem,DF,93739411,"600,00",03/06/2024,"600,00",True,Gold
+259,Lucas Almeida,lucasalmeida@empresa.com.br,61989198244,20/03/1993,Brasilia,RS,87003095,"600,00",09/05/2024,"600,00",True,Gold
+260,Zuleica Ribeiro,zuleicaribeiro@hotmail.com,91918091982,09/25/1971,Joinville,PR,91479306,"600,00",09/04/2025,"600,00",False,Silver
+261,Quesia Xavier,quesiaxavier@outlook.com,85916053401,23/09/1987,  Campinas  ,PR,99275572,"600,00",13/01/2025,"600,00",True,Platinum
+262,Otavio Watanabe,otaviowatanabe@yahoo.com.br,91920828942,20/06/1987,Joinville,SP,83615123,"600,00",26/07/2025,"600,00",False,Platinum
+263,Lucas Jardim,lucasjardim@gmail.com,21949995644,04/01/1949,  Londrina  ,BA,92363486,"600,00",13/11/2024,"600,00",False,Gold
+264,Yasmin Oliveira,yasminoliveira@hotmail.com,84963444814,10/11/1959,Sao Paulo,CE,86305978,"600,00",12/11/2024,"600,00",False,Bronze
+265,Paula Queiroz,paulaqueiroz@gmail.com,67933715018,01/18/1981,  Maringa  ,BA,93596024,"600,00",24/01/2024,"600,00",True,Silver
+266,  Felipe Jardim  ,felipejardim@outlook.com,51909656329,14/01/1982,Sao Paulo,SP,99562600,"600,00",03/05/2024,"600,00",False,Silver
+267,Karen Oliveira,karenoliveira@gmail.com,11944092663,01/15/2002,Porto Alegre,PE,88033550,"600,00",25/05/2024,"600,00",True,Silver
+268,Tiago Jardim,"tiagojardim@hotmail,com",67962286757,11/04/1951,Joinville,RJ,94154215,"600,00",05/05/2024,"600,00",True,Gold
+269,Iara Yamamoto,iarayamamoto@outlook.com,85998226381,21/05/1945,Porto Alegre,PR,97633083,"600,00",27/02/2025,"600,00",False,Platinum
+270,Vitoria Oliveira,vitoriaoliveira@outlook.com,83929031138,21/01/2006,Recife,MG,96181990,"600,00",06/11/2024,"600,00",False,Silver
+271,Gabriela Uchoa,gabrielauchoa@outlook.com,51910703101,19/03/1962,Salvador,MG,80064960,"600,00",29/06/2025,"600,00",True,Platinum
+272,  Nataly Ibrahim  ,natalyibrahim@empresa.com.br,62907695553,20/04/1996,  Belem  ,MG,88191201,"600,00",19/08/2024,"600,00",True,Bronze
+273,Zuleica Almeida,zuleicaalmeida@outlook.com,79908916465,07Feb2001,Rio de Janeiro,AM,90265911,"600,00",28/03/2024,"600,00",True,Platinum
+274,Joao Teixeira,joaoteixeira@gmail.com,83965812570,05/09/1985,Fortaleza,DF,80851464,nan,14/03/2025,"600,00",False,Gold
+275,Sonia Zanetti,soniazanetti@empresa.com.br,nan,14/01/1991,  Sao Paulo  ,RS,90114617,"600,00",08/07/2025,"600,00",True,Platinum
+276,Bruno Hernandez,brunohernandez@empresa.com.br,61932972120,11/22/1996,Londrina,CE,83435465,"600,00",02/11/2024,"600,00",False,Silver
+277,Wagner Hernandez,wagnerhernandez@hotmail.com,79961584363,07/10/1994,Curitiba,SP,80972203,"600,00",26/03/2025,"600,00",False,Bronze
+278,Rafael Hernandez,rafaelhernandez@gmail.com,47962082818,04/10/1992,Manaus,SC,86214196,"600,00",07/03/2024,"600,00",True,Silver
+279,Bruno Yamamoto,brunoyamamoto@hotmail.com,62908725588,27/10/1950,Londrina,SP,85865329,"600,00",05/06/2025,"600,00",False,Platinum
+280,Sonia Mendes,soniamendes@empresa.com.br,85938407486,09/08/1952,Brasilia,SC,87542597,"600,00",29/10/2024,"600,00",True,Gold
+281,Lucas Zanetti,lucaszanetti@outlook.com,31958832350,30/10/1953,Joinville,SP,86443691,"600,00",09/02/2024,"600,00",False,Gold
+282,Wagner Teixeira,wagnerteixeira307@empresa.com.br,81966167647,02/06/1965,Curitiba,BA,95119348,"600,00",02/08/2024,"600,00",False,Platinum
+283,Gabriela Oliveira,"gabrielaoliveira@empresa,com,br",71901589188,19/11/1971,Belem,PE,90821581,"600,00",04/08/2025,"600,00",True,Silver
+284,  Gabriela Mendes  ,gabrielamendes@yahoo.com.br,85949912527,30/05/1947,  Florianopolis  ,GO,89538675,nan,30/01/2025,"600,00",False,Silver
+285,Nataly Mendes,natalymendes@gmail.com,83933823128,03/19/1963,Londrina,AM,84675456,"600,00",14/04/2025,"600,00",False,Bronze
+286,Paula Oliveira,paulaoliveira@gmail.com,85956815873,28/01/1986,Florianopolis,RJ,81430245,"600,00",06/07/2024,"600,00",False,Platinum
+287,Carla Watanabe,carlawatanabe@hotmail.com,41960412253,27/05/1990,Belem,RJ,91260763,"600,00",15/03/2024,"600,00",False,Platinum
+288,Eduarda Klein,eduardaklein@yahoo.com.br,62971713297,25/11/1960,Florianopolis,PR,88953157,"600,00",04/02/2025,"600,00",False,Bronze
+289,  Otavio Watanabe  ,otaviowatanabe@empresa.com.br,83950518274,12/08/1978,Sao Paulo,DF,91046840,"600,00",17/01/2024,"600,00",True,Bronze
+290,Vitoria Ferreira,vitoriaferreira@gmail.com,92931054393,05/01/1974,  Campinas  ,MG,95033225,"600,00",19/11/2024,"600,00",True,Silver
+291,Gabriela Nogueira,gabrielanogueira@empresa.com.br,51941272552,24/09/1960,Brasilia,DF,99940933,"600,00",08/05/2025,"600,00",False,Bronze
+292,  Ana Hernandez  ,anahernandez@gmail.com,31909813253,28/08/1998,Recife,MG,81297533,"600,00",02/12/2024,"600,00",True,Gold
+293,Xavier Klein,xavierklein@hotmail.com,62936447250,08/04/1962,Maringa,SP,85691606,"600,00",24/05/2024,"600,00",True,Bronze
+294,Otavio Jardim,otaviojardim@hotmail.com,71994448344,20/01/1960,  Londrina  ,SC,95794020,"600,00",01/06/2025,"600,00",True,Silver
+295,Rafael Esteves,rafaelesteves@hotmail.com,83992108878,02/12/1989,Londrina,MG,96041315,"600,00",01/03/2025,"600,00",False,Platinum
+296,Mariana Silva,marianasilva@yahoo.com.br,81983499005,11/11/1987,Sao Paulo,PE,88563619,"600,00",05/01/2025,"600,00",True,Silver
+297,  Felipe Almeida  ,felipealmeida@gmail.com,31984954093,29/01/2004,Campinas,RS,98763795,"600,00",25/02/2025,"600,00",False,Bronze
+298,  Wagner Jardim  ,wagnerjardim72@hotmail.com,84986007829,07/10/1962,Campinas,SC,86584060,"600,00",22/04/2024,"600,00",False,Silver
+299,Otavio Uchoa,otaviouchoa@gmail.com,83920425534,24/06/1950,Fortaleza,PA,86916534,"600,00",08/01/2024,"600,00",True,Bronze
+300,Paula Pereira,paulapereira@empresa.com.br,79939256918,29/12/1985,Sao Paulo,SC,88144377,"600,00",22/05/2024,"600,00",False,Gold
+301,Ana Uchoa,"anauchoa@outlook,com",79972794826,05/14/1971,Rio de Janeiro,CE,84189509,"600,00",26/05/2024,"600,00",True,Bronze
+302,Felipe Oliveira,felipeoliveira@yahoo.com.br,31917288125,11Feb1968,Belem,DF,82963814,"600,00",06/05/2024,"600,00",True,Platinum
+303,Ulisses Klein,ulissesklein@yahoo.com.br,84938234662,06/02/1955,  Rio de Janeiro  ,SC,82027604,"600,00",16/11/2024,"600,00",True,Gold
+304,  Vitoria Zanetti  ,vitoriazanetti@empresa.com.br,85951763370,01/02/1958,Londrina,RJ,98807489,"600,00",12/11/2024,"600,00",False,Gold
+305,Zuleica Klein,zuleicaklein@hotmail.com,21929338987,25/11/1982,Florianopolis,BA,89252713,"600,00",04/02/2025,"600,00",False,Gold
+306,Zuleica Silva,zuleicasilva@gmail.com,51994563253,05/06/2003,Manaus,MG,93995695,"600,00",12/08/2025,"600,00",True,Platinum
+307,Bruno Duarte,brunoduarte@outlook.com,83940141556,24/01/2007,Londrina,AM,80380122,"600,00",26/01/2025,"600,00",False,Gold
+308,Sonia Silva,soniasilva@yahoo.com.br,51962908932,23/03/1993,Manaus,SP,82094531,"600,00",21/01/2024,"600,00",True,Platinum
+309,Gabriela Vieira,gabrielavieira@hotmail.com,85951493015,22/02/1948,Recife,SP,93862967,"600,00",02/06/2025,"600,00",False,Silver
+310,Joao Vieira,joaovieira@hotmail.com,81999319818,15/11/1961,Belo Horizonte,PR,99391367,"600,00",08/08/2024,"600,00",True,Silver
+311,Ulisses Ferreira,ulissesferreira@gmail.com,47987804338,07/27/1995,Salvador,GO,92417026,"600,00",05/03/2025,"600,00",False,Platinum
+312,Nataly Cardoso,natalycardoso@gmail.com,62944831161,26/03/1992,Fortaleza,SP,98748886,"600,00",16/05/2025,"600,00",True,Gold
+313,Yasmin Mendes,yasminmendes@empresa.com.br,47942441155,27/12/1968,Porto Alegre,RJ,95000187,"600,00",14/01/2025,"600,00",False,Platinum
+314,Quesia Watanabe,quesiawatanabe@hotmail.com,84951232476,03/08/1952,Fortaleza,RJ,95717509,"600,00",19/05/2025,"600,00",True,Silver
+315,Tiago Goncalves,tiagogoncalves@gmail.com,62986521693,07/09/1960,Florianopolis,DF,93851507,"600,00",16/05/2024,"600,00",False,Bronze
+316,Rafael Yamamoto,rafaelyamamoto@outlook.com,83935625994,01/12/1976,Sao Paulo,AM,80168358,"600,00",02/12/2024,"600,00",False,Bronze
+317,Carla Queiroz,carlaqueiroz@hotmail.com,67937048711,02/10/1954,Goiania,RJ,94220005,"600,00",25/03/2025,"600,00",True,Gold
+318,Mariana Nogueira,mariananogueira@gmail.com,67919467899,20/11/1979,Porto Alegre,DF,91276512,"600,00",20/04/2024,"600,00",True,Silver
+319,  Tiago Xavier  ,tiagoxavier@yahoo.com.br,62924989376,20/10/1962,Belo Horizonte,GO,86182875,"600,00",15/04/2024,"600,00",True,Silver
+320,Gabriela Esteves,gabrielaesteves@empresa.com.br,91950204791,16/11/1954,  Londrina  ,PE,90480916,"600,00",25/12/2024,"600,00",True,Silver
+321,Paula Ibrahim,paulaibrahim@gmail.com,79949862827,06/12/1992,Porto Alegre,GO,83485133,"600,00",09/10/2024,"600,00",True,Bronze
+322,Gabriela Goncalves,gabrielagoncalves@gmail.com,nan,29/02/1976,Porto Alegre,BA,93729536,"600,00",30/04/2024,"600,00",False,Platinum
+323,  Eduarda Jardim  ,,83981109723,05/01/1980,Florianopolis,BA,98739223,"600,00",30/07/2024,"600,00",True,Silver
+324,Xavier Queiroz,xavierqueiroz@hotmail.com,62907479741,16/08/1949,Porto Alegre,RS,91385647,"600,00",03/08/2024,"600,00",False,Bronze
+325,Xavier Esteves,xavieresteves@empresa.com.br,11958244592,20/07/1954,Florianopolis,PR,94489225,"600,00",20/09/2024,"600,00",True,Silver
+326,Otavio Hernandez,otaviohernandez@yahoo.com.br,51975264031,29/10/1972,Londrina,RJ,84702073,"600,00",07/02/2025,"600,00",False,Bronze
+327,Eduarda Xavier,eduardaxavier@gmail.com,11907163165,04/11/1945,  Salvador  ,PA,84562491,"600,00",12/12/2024,"600,00",False,Silver
+328,Henrique Barbosa,henriquebarbosa@outlook.com,41989235861,28/04/1983,  Campinas  ,MG,96115173,"600,00",20/10/2024,"600,00",True,Bronze
+329,Karen Duarte,karenduarte@gmail.com,91954863971,28/04/1969,Manaus,RS,84870796,"600,00",28/09/2024,"600,00",False,Bronze
+330,  Paula Cardoso  ,paulacardoso@yahoo.com.br,47929797308,27/05/1957,Campinas,PE,97448549,"600,00",16/07/2025,"600,00",True,Platinum
+331,Wagner Zanetti,wagnerzanetti872@gmail.com,92977643188,22/04/1986,Goiania,DF,87359057,"600,00",18/07/2025,"600,00",False,Silver
+332,Wagner Nogueira,wagnernogueira@gmail.com,51904943406,14May1961,  Fortaleza  ,AM,93484739,"600,00",24/06/2025,"600,00",True,Platinum
+333,Ulisses Barbosa,ulissesbarbosa853@hotmail.com,85990795227,15/10/1991,Fortaleza,RJ,81834224,"600,00",08/05/2024,"600,00",False,Platinum
+334,Wagner Oliveira,wagneroliveira@yahoo.com.br,84931905422,27/04/1970,Goiania,SC,86151564,"600,00",07/03/2024,"600,00",True,Gold
+335,Bruno Silva,"brunosilva@yahoo,com,br",11958435626,13/07/2005,Belem,GO,80776601,"600,00",30/05/2025,"600,00",True,Silver
+336,  Vitoria Oliveira  ,vitoriaoliveira@gmail.com,47926389218,02/06/1975,Joinville,SC,86842625,"600,00",17/03/2025,"600,00",True,Silver
+337,Ana Esteves,anaesteves@outlook.com,31981742541,14/09/1976,Manaus,RS,94484665,"600,00",16/04/2025,"600,00",False,Gold
+338,Joao Mendes,joaomendes@empresa.com.br,79961222367,07/10/2002,Maringa,PA,85064873,"600,00",07/09/2024,"600,00",True,Bronze
+339,  Otavio Vieira  ,otaviovieira@yahoo.com.br,41914063953,14/10/1950,Brasilia,MG,89121465,"600,00",12/05/2025,"600,00",False,Bronze
+340,Bruno Teixeira,brunoteixeira@gmail.com,86934961886,19/09/1957,Campinas,PA,97195219,"600,00",24/03/2024,"600,00",False,Platinum
+341,Karen Yamamoto,karenyamamoto@hotmail.com,51971566811,12/04/2004,Curitiba,AM,84931918,"600,00",27/11/2024,"600,00",False,Bronze
+342,Nataly Ibrahim,natalyibrahim@gmail.com,85994762596,15/11/1978,Recife,BA,91920016,"600,00",14/07/2024,"600,00",True,Gold
+343,Otavio Nogueira,otavionogueira@outlook.com,nan,27/03/1979,Florianopolis,RJ,82871825,"600,00",23/03/2025,"600,00",True,Bronze
+344,Xavier Yamamoto,xavieryamamoto@empresa.com.br,21947497891,01/03/1956,Maringa,SP,92276800,"600,00",20/04/2025,"600,00",True,Bronze
+345,Zuleica Nogueira,zuleicanogueira@gmail.com,47961349502,10/11/1994,Belem,AM,92793745,"600,00",06/02/2025,"600,00",True,Silver
+346,Zuleica Esteves,zuleicaesteves@empresa.com.br,67990583605,07/01/1947,  Rio de Janeiro  ,PR,84277464,"600,00",21/03/2024,"600,00",True,Bronze
+347,Gabriela Ribeiro,gabrielaribeiro@yahoo.com.br,47903792694,29/04/1953,  Belo Horizonte  ,RS,96090814,"600,00",05/01/2025,"600,00",True,Bronze
+348,Mariana Klein,marianaklein@yahoo.com.br,51992941515,14/06/1945,Goiania,AM,97562023,"600,00",17/09/2024,"600,00",False,Bronze
+349,  Ana Klein  ,anaklein@gmail.com,86932642506,29/12/1990,Manaus,DF,92872105,"600,00",13/09/2024,"600,00",False,Gold
+350,Paula Nogueira,paulanogueira@yahoo.com.br,41999497275,03/01/1960,Goiania,PA,99788846,"600,00",16/09/2024,"600,00",True,Gold
+351,Zuleica Klein,zuleicaklein@hotmail.com,81923766151,06/11/1973,Curitiba,MG,83372574,"600,00",29/01/2025,"600,00",False,Silver
+352,Ulisses Nogueira,ulissesnogueira@yahoo.com.br,86981691766,08/05/1979,Belo Horizonte,AM,89318134,"600,00",18/10/2024,"600,00",True,Platinum
+353,  Ulisses Almeida  ,ulissesalmeida@gmail.com,79956657559,26/06/2007,Belem,PR,87340048,"600,00",04/05/2024,"600,00",False,Bronze
+354,  Henrique Ferreira  ,henriqueferreira@outlook.com,21942541705,20/03/1969,  Manaus  ,SC,90463882,"600,00",20/08/2025,"600,00",False,Silver
+355,Vitoria Duarte,vitoriaduarte@hotmail.com,79979084700,01/03/2004,Manaus,SC,80430686,"600,00",17/03/2024,"600,00",True,Silver
+356,Sonia Yamamoto,soniayamamoto@outlook.com,47982652731,20/03/1963,Goiania,CE,98915663,"600,00",11/10/2024,nan,True,Gold
+357,Otavio Ferreira,otavioferreira@yahoo.com.br,92913776806,05/08/1984,Brasilia,BA,86354301,"600,00",20/02/2024,"600,00",True,Platinum
+358,  Diego Vieira  ,diegovieira@hotmail.com,21994245361,01/04/1980,Belo Horizonte,AM,86670355,nan,01/10/2024,"600,00",False,Silver
+359,Wagner Teixeira,wagnerteixeira@outlook.com,31927304069,21/12/1974,Porto Alegre,PA,99464360,"600,00",27/09/2024,"600,00",True,Bronze
+360,Ana Silva,anasilva@outlook.com,47915382638,02Feb1968,Belem,GO,90935912,"600,00",14/04/2025,"600,00",False,Gold
+361,Iara Vieira,iaravieira@gmail.com,47958529156,23/11/1978,Campinas,GO,88693932,"600,00",11/07/2025,"600,00",True,Silver
+362,  Joao Goncalves  ,joaogoncalves@empresa.com.br,nan,02/02/2006,Curitiba,PA,89949498,"600,00",23/10/2024,"600,00",True,Silver
+363,  Sonia Duarte  ,"soniaduarte@outlook,com",21941193256,19/09/1952,Joinville,DF,87171032,"600,00",20/07/2024,"600,00",False,Gold
+364,Diego Ibrahim,diegoibrahim@empresa.com.br,79994723280,13/05/1972,  Salvador  ,BA,94316098,"600,00",17/04/2025,"600,00",True,Platinum
+365,Otavio Lima,otaviolima@yahoo.com.br,11968962448,06/02/1956,Manaus,AM,84126412,"600,00",02/08/2025,"600,00",True,Platinum
+366,Carla Barbosa,carlabarbosa@gmail.com,nan,12/07/1957,Joinville,PR,89859643,"600,00",22/05/2025,"600,00",False,Silver
+367,  Diego Cardoso  ,diegocardoso@empresa.com.br,41977611403,06/07/1961,Sao Paulo,RS,94167149,"600,00",13/07/2025,"600,00",False,Bronze
+368,Xavier Watanabe,xavierwatanabe@yahoo.com.br,86960185508,06/06/1970,Belo Horizonte,PE,94564043,"600,00",02/02/2025,"600,00",True,Bronze
+369,Ana Ferreira,anaferreira@empresa.com.br,91910283858,27/01/2004,Belem,DF,95458620,"600,00",10/03/2024,"600,00",False,Platinum
+370,Eduarda Watanabe,eduardawatanabe@empresa.com.br,21904833607,09/10/1965,Belo Horizonte,PA,82109063,"600,00",27/06/2024,"600,00",True,Platinum
+371,Tiago Uchoa,,92932724206,01/06/1992,Manaus,GO,81089829,"600,00",25/01/2024,"600,00",False,Silver
+372,Karen Ferreira,karenferreira@empresa.com.br,nan,05/12/1951,Porto Alegre,CE,96341236,"600,00",13/06/2025,"600,00",False,Bronze
+373,Iara Mendes,iaramendes@gmail.com,92994264955,31/07/2007,Joinville,AM,91077431,"600,00",26/09/2024,"600,00",True,Bronze
+374,Xavier Klein,xavierklein@gmail.com,21956662159,29/09/1948,Rio de Janeiro,CE,95649310,"600,00",03/06/2025,"600,00",False,Platinum
+375,Zuleica Zanetti,zuleicazanetti@empresa.com.br,92978991854,16May1955,Porto Alegre,PE,94304940,"600,00",11/01/2025,"600,00",False,Gold
+376,Zuleica Zanetti,zuleicazanetti738@gmail.com,21912551928,27/03/1971,  Manaus  ,SC,82502256,"600,00",05/05/2025,"600,00",False,Bronze
+377,Henrique Oliveira,henriqueoliveira@outlook.com,91943836224,06/02/1970,  Belo Horizonte  ,PE,98119215,"600,00",20/05/2024,"600,00",False,Gold
+378,Otavio Uchoa,"otaviouchoa@gmail,com",nan,26/12/1948,Brasilia,PE,89999032,"600,00",07/07/2024,"600,00",True,Bronze
+379,Iara Zanetti,iarazanetti@hotmail.com,84970041935,05/16/1996,Manaus,BA,87806135,"600,00",23/09/2024,"600,00",True,Platinum
+380,Yasmin Ribeiro,yasminribeiro@empresa.com.br,67999611202,20/07/1946,Belem,RJ,93389059,"600,00",07/02/2024,"600,00",False,Silver
+381,Otavio Ferreira,otavioferreira@outlook.com,51924061812,21/06/1973,Sao Paulo,BA,80528694,"600,00",21/08/2024,"600,00",True,Gold
+382,Diego Cardoso,diegocardoso@gmail.com,81968152169,20/01/1975,  Manaus  ,SC,85253377,"600,00",18/01/2025,"600,00",True,Bronze
+383,Zuleica Klein,zuleicaklein@empresa.com.br,83995461534,02/24/1965,Brasilia,PA,97660750,"600,00",11/08/2025,"600,00",True,Platinum
+384,Quesia Oliveira,quesiaoliveira@hotmail.com,62959304782,25/02/1952,Belo Horizonte,CE,94711805,"600,00",19/03/2024,"600,00",False,Silver
+385,Yasmin Nogueira,yasminnogueira@hotmail.com,nan,26/09/1985,Porto Alegre,PA,83309129,"600,00",04/03/2025,"600,00",True,Platinum
+386,Quesia Queiroz,quesiaqueiroz@yahoo.com.br,71919506518,10/04/1985,Belo Horizonte,PR,86011741,"600,00",22/03/2025,"600,00",False,Silver
+387,Sonia Silva,soniasilva@yahoo.com.br,67915874805,13/04/1983,Sao Paulo,BA,86903440,"600,00",22/11/2024,"600,00",True,Bronze
+388,Diego Jardim,diegojardim@yahoo.com.br,67999312738,06/16/1947,  Porto Alegre  ,BA,96002852,"600,00",06/07/2025,"600,00",False,Bronze
+389,  Otavio Queiroz  ,otavioqueiroz@yahoo.com.br,41972818082,04/02/1952,Porto Alegre,GO,89047464,"600,00",30/11/2024,"600,00",True,Gold
+390,  Bruno Nogueira  ,brunonogueira@empresa.com.br,21901305029,20/06/1988,Fortaleza,RS,96918877,"600,00",16/10/2024,"600,00",False,Bronze
+391,  Wagner Ferreira  ,wagnerferreira@outlook.com,81979339691,10/07/2001,Manaus,RS,87173115,"600,00",10/07/2025,"600,00",True,Bronze
+392,Henrique Vieira,henriquevieira@hotmail.com,83920988925,11/09/1981,  Fortaleza  ,RS,92824828,"600,00",26/11/2024,"600,00",False,Platinum
+393,Karen Uchoa,karenuchoa@outlook.com,92933782807,05/02/1953,Porto Alegre,PR,91865548,"600,00",20/07/2025,"600,00",True,Silver
+394,Zuleica Ferreira,zuleicaferreira@outlook.com,11905911328,18/01/1972,Brasilia,PR,92381671,"600,00",10/09/2024,"600,00",True,Bronze
+395,Quesia Xavier,"quesiaxavier@yahoo,com,br",47915657408,09/02/1972,Manaus,PE,89543439,"600,00",12/04/2024,"600,00",False,Platinum
+396,Rafael Queiroz,rafaelqueiroz@gmail.com,92917748409,10/11/1987,Curitiba,MG,83125574,"600,00",14/11/2024,"600,00",True,Bronze
+397,Tiago Pereira,tiagopereira@empresa.com.br,84951026535,11/05/1988,Campinas,RS,96856568,"600,00",29/08/2024,"600,00",False,Platinum
+398,Mariana Esteves,marianaesteves@hotmail.com,41906397949,31/10/1980,Joinville,GO,92177577,"600,00",21/03/2025,"600,00",True,Gold
+399,Wagner Lima,wagnerlima@outlook.com,47926909591,07/01/1951,Curitiba,RJ,90847096,"600,00",11/07/2024,"600,00",False,Platinum
+400,Henrique Lima,henriquelima@hotmail.com,71960177607,13/02/1970,  Recife  ,RJ,90818589,"600,00",14/04/2024,"600,00",True,Platinum
+401,Vitoria Pereira,vitoriapereira@gmail.com,47923483700,12/06/1984,  Belem  ,PR,87889573,"600,00",30/11/2024,"600,00",True,Bronze
+402,  Karen Queiroz  ,karenqueiroz@empresa.com.br,67923418163,21/12/1960,Salvador,BA,87005631,"600,00",22/04/2025,"600,00",False,Platinum
+403,Xavier Almeida,xavieralmeida318@outlook.com,81941579237,10/12/1948,Sao Paulo,PA,99908647,"600,00",28/02/2024,"600,00",True,Platinum
+404,Diego Barbosa,diegobarbosa@empresa.com.br,47913567874,10/10/2003,Sao Paulo,BA,99229739,"600,00",06/12/2024,"600,00",False,Silver
+405,  Vitoria Barbosa  ,vitoriabarbosa@empresa.com.br,21945144255,17/04/1995,Florianopolis,PR,82888119,"600,00",22/04/2025,"600,00",False,Platinum
+406,Ana Yamamoto,anayamamoto@gmail.com,62950424130,11/01/1970,Porto Alegre,PE,86528181,"600,00",27/02/2025,"600,00",False,Gold
+407,Lucas Lima,lucaslima@empresa.com.br,21995887318,12/08/1963,Recife,PE,96818791,"600,00",30/05/2025,"600,00",True,Bronze
+408,Ulisses Ferreira,ulissesferreira@yahoo.com.br,21952812713,15/02/2003,Curitiba,CE,97916190,"600,00",01/01/2025,"600,00",True,Platinum
+409,Xavier Mendes,xaviermendes@hotmail.com,83949181657,12/14/1980,  Joinville  ,PE,98611769,"600,00",08/06/2025,"600,00",True,Silver
+410,  Zuleica Yamamoto  ,zuleicayamamoto@outlook.com,47932833819,16/12/1966,Florianopolis,MG,91295102,"600,00",18/01/2025,"600,00",False,Silver
+411,Otavio Watanabe,otaviowatanabe@gmail.com,83953595639,10/22/1988,Campinas,BA,91136513,"600,00",01/07/2024,"600,00",False,Gold
+412,Eduarda Pereira,eduardapereira@hotmail.com,51969743469,09/22/1980,  Londrina  ,PE,93253822,"600,00",21/04/2025,"600,00",False,Bronze
+413,Ana Pereira,anapereira@yahoo.com.br,41998898377,17/01/1961,Londrina,BA,80227345,"600,00",27/01/2025,"600,00",False,Silver
+414,  Otavio Nogueira  ,"otavionogueira@outlook,com",21998197050,13/01/1961,Manaus,PR,81167610,"600,00",18/01/2024,"600,00",False,Gold
+415,  Rafael Duarte  ,rafaelduarte@hotmail.com,85939999577,22/03/2002,Rio de Janeiro,PR,93131022,"600,00",21/03/2024,"600,00",True,Platinum
+416,Nataly Duarte,natalyduarte@empresa.com.br,62908007131,31/12/1989,Campinas,GO,80165416,"600,00",04/07/2024,"600,00",True,Gold
+417,Zuleica Uchoa,zuleicauchoa@hotmail.com,71999838547,08/10/1975,Belem,CE,86902545,"600,00",31/03/2025,"600,00",False,Platinum
+418,Carla Uchoa,carlauchoa@outlook.com,71947816166,07/19/1976,Curitiba,AM,87691384,"600,00",24/01/2024,"600,00",True,Platinum
+419,Gabriela Goncalves,gabrielagoncalves@empresa.com.br,83990127693,18/07/2001,Campinas,RS,87376879,"600,00",21/11/2024,"600,00",True,Platinum
+420,Felipe Mendes,felipemendes@empresa.com.br,41962807850,28/02/1990,Curitiba,RJ,85454582,"600,00",22/02/2025,"600,00",False,Silver
+421,Zuleica Uchoa,zuleicauchoa@empresa.com.br,81939203870,07/29/1963,Recife,RS,85795996,"600,00",07/09/2024,"600,00",False,Silver
+422,Felipe Hernandez,"felipehernandez694@gmail,com",91977037313,01/20/2003,Salvador,BA,93054848,"600,00",25/03/2025,"600,00",True,Gold
+423,Ulisses Oliveira,ulissesoliveira@gmail.com,41927687004,24/09/1968,Porto Alegre,DF,88519350,"600,00",16/03/2024,"600,00",False,Silver
+424,Tiago Barbosa,tiagobarbosa902@hotmail.com,81947716024,12/05/2007,Manaus,CE,80917871,"600,00",26/10/2024,"600,00",True,Silver
+425,Xavier Queiroz,xavierqueiroz@empresa.com.br,91951499574,03/06/1988,Londrina,BA,86764229,"600,00",07/03/2024,"600,00",False,Gold
+426,Paula Oliveira,paulaoliveira@gmail.com,91937414318,05/10/1969,Brasilia,SC,98569535,"600,00",04/07/2025,"600,00",True,Platinum
+427,Henrique Hernandez,henriquehernandez@yahoo.com.br,67914964113,18/06/1950,Rio de Janeiro,RJ,83220549,"600,00",22/08/2025,"600,00",False,Platinum
+428,Otavio Cardoso,otaviocardoso@gmail.com,11995308041,07/12/1985,Maringa,MG,85784336,"600,00",20/02/2025,"600,00",True,Platinum
+429,Henrique Klein,henriqueklein@empresa.com.br,51979881106,05/10/1983,Joinville,RJ,86343797,"600,00",29/03/2025,"600,00",True,Silver
+430,Paula Duarte,pauladuarte@empresa.com.br,61964913814,28/05/1982,Florianopolis,BA,84750313,"600,00",26/09/2024,"600,00",True,Gold
+431,Mariana Yamamoto,marianayamamoto@yahoo.com.br,47974855492,05/07/1978,Recife,GO,87044632,"600,00",26/01/2025,"600,00",True,Silver
+432,Paula Xavier,paulaxavier@gmail.com,86940935589,04/04/1993,  Sao Paulo  ,PA,82424332,"600,00",18/10/2024,"600,00",False,Silver
+433,Sonia Goncalves,soniagoncalves@yahoo.com.br,67991209700,31/12/1984,Porto Alegre,SP,90912203,"600,00",24/04/2025,"600,00",False,Gold
+434,Diego Uchoa,diegouchoa@yahoo.com.br,21983927119,21/02/1989,Sao Paulo,DF,98294799,"600,00",09/03/2024,"600,00",False,Bronze
+435,Otavio Teixeira,,67976308393,09/26/1985,  Belem  ,PA,80208638,"600,00",18/03/2025,"600,00",True,Gold
+436,Henrique Silva,henriquesilva@outlook.com,81994513500,01/01/1999,Recife,SP,90332950,"600,00",07/07/2025,"600,00",False,Gold
+437,Gabriela Yamamoto,gabrielayamamoto@hotmail.com,83904168273,27/10/1962,Recife,CE,96603935,"600,00",27/08/2025,"600,00",False,Silver
+438,Xavier Teixeira,xavierteixeira@outlook.com,91958958831,23/12/1953,  Maringa  ,PE,87515718,"600,00",13/11/2024,"600,00",True,Gold
+439,Iara Xavier,"iaraxavier@outlook,com",11920969497,19/04/2004,Londrina,PR,85722958,"600,00",28/02/2025,"600,00",True,Silver
+440,Diego Zanetti,diegozanetti@yahoo.com.br,67952601466,26May1993,  Londrina  ,RJ,80489357,"600,00",21/06/2025,"600,00",True,Bronze
+441,Nataly Ribeiro,natalyribeiro488@empresa.com.br,67921006290,16/04/1956,Belo Horizonte,GO,93232289,"600,00",26/05/2024,"600,00",False,Bronze
+442,Karen Watanabe,karenwatanabe@empresa.com.br,47953737914,03/10/1962,Sao Paulo,DF,90568011,"600,00",04/02/2024,"600,00",True,Platinum
+443,Sonia Mendes,soniamendes@hotmail.com,67984296527,09/12/1985,Florianopolis,DF,91974436,"600,00",16/12/2024,"600,00",True,Bronze
+444,Diego Duarte,diegoduarte@outlook.com,92913599269,29/10/1962,Joinville,PA,97470371,"600,00",04/06/2024,"600,00",True,Bronze
+445,Vitoria Ferreira,vitoriaferreira@empresa.com.br,92999887947,27/12/1986,Brasilia,BA,98211684,"600,00",03/11/2024,"600,00",False,Gold
+446,  Nataly Esteves  ,natalyesteves@hotmail.com,nan,13/10/1969,Recife,SC,94528145,"600,00",06/05/2024,"600,00",True,Silver
+447,Diego Yamamoto,diegoyamamoto@yahoo.com.br,92999948444,15Feb1955,Belem,PR,87360535,"600,00",21/06/2024,"600,00",False,Gold
+448,Vitoria Pereira,vitoriapereira@yahoo.com.br,67945195123,28/02/1946,Campinas,RS,99368444,"600,00",12/05/2025,"600,00",False,Silver
+449,Sonia Mendes,"soniamendes@yahoo,com,br",41994312555,29/04/1980,Fortaleza,PA,93064832,"600,00",26/03/2025,"600,00",True,Bronze
+450,Felipe Almeida,felipealmeida@outlook.com,85941536875,09/02/1986,Fortaleza,DF,93150771,"600,00",13/06/2024,"600,00",True,Gold
+451,Tiago Ribeiro,tiagoribeiro@hotmail.com,31966526126,15/06/1976,Florianopolis,MG,80521114,"600,00",05/01/2025,"600,00",True,Gold
+452,Rafael Ribeiro,rafaelribeiro@empresa.com.br,nan,01/13/2000,Goiania,PE,88057561,"600,00",27/11/2024,"600,00",False,Bronze
+453,Henrique Hernandez,henriquehernandez@yahoo.com.br,62903408917,04/10/2001,Recife,BA,88636441,"600,00",31/01/2025,"600,00",True,Gold
+454,Wagner Esteves,wagneresteves@hotmail.com,nan,29/09/1986,Fortaleza,GO,99367446,"600,00",24/02/2024,"600,00",False,Platinum
+455,Lucas Pereira,lucaspereira@hotmail.com,67993345128,22/04/1964,Londrina,DF,84726784,nan,07/11/2024,"600,00",False,Platinum
+456,Wagner Yamamoto,wagneryamamoto@gmail.com,84926414188,08/10/1974,Florianopolis,PR,92494713,"600,00",17/02/2025,"600,00",True,Platinum
+457,Nataly Ibrahim,natalyibrahim@hotmail.com,31955658401,02/04/2006,Curitiba,PR,90710393,"600,00",02/01/2024,"600,00",True,Bronze
+458,Felipe Goncalves,felipegoncalves@yahoo.com.br,47998257130,10May1958,Maringa,DF,89549110,"600,00",09/02/2024,"600,00",False,Gold
+459,Tiago Esteves,tiagoesteves@outlook.com,83973382906,24/11/1961,Belem,RJ,90503933,"600,00",01/03/2024,"600,00",False,Bronze
+460,Gabriela Jardim,gabrielajardim@yahoo.com.br,83971297177,19/11/1979,  Londrina  ,BA,86162969,"600,00",21/10/2024,"600,00",True,Bronze
+461,  Karen Xavier  ,"karenxavier@gmail,com",nan,07/11/1953,Florianopolis,PA,86671507,"600,00",14/08/2024,"600,00",False,Bronze
+462,Wagner Duarte,wagnerduarte@gmail.com,79929007388,12/10/2000,  Brasilia  ,RJ,88933419,"600,00",08/03/2025,"600,00",True,Silver
+463,Yasmin Pereira,yasminpereira@gmail.com,85921114653,06/14/1961,Belo Horizonte,DF,97572293,"600,00",19/09/2024,"600,00",True,Gold
+464,Gabriela Cardoso,gabrielacardoso@yahoo.com.br,86917912825,02/11/1984,Brasilia,DF,86895742,"600,00",26/05/2024,"600,00",True,Silver
+465,Felipe Lima,felipelima@gmail.com,31936904014,12/24/1998,  Maringa  ,CE,81858114,"600,00",13/06/2024,"600,00",True,Gold
+466,  Karen Lima  ,karenlima4@gmail.com,83992882960,09/04/1996,Sao Paulo,SP,88193353,"600,00",31/01/2025,"600,00",False,Platinum
+467,  Lucas Hernandez  ,lucashernandez@hotmail.com,51960301343,01/02/1981,  Porto Alegre  ,PE,93688471,"600,00",27/12/2024,"600,00",True,Platinum
+468,Mariana Esteves,marianaesteves@hotmail.com,81975919981,13/09/1993,Manaus,RJ,91065564,"600,00",26/02/2025,"600,00",False,Silver
+469,Ana Watanabe,anawatanabe@empresa.com.br,47965844240,05/15/1973,Maringa,GO,82141087,"600,00",27/06/2025,"600,00",True,Bronze
+470,Lucas Goncalves,lucasgoncalves@hotmail.com,79995598317,22/08/1958,Florianopolis,SP,98404565,"600,00",29/06/2025,"600,00",True,Silver
+471,Diego Vieira,diegovieira902@yahoo.com.br,83978133792,18/02/1985,Goiania,AM,92123070,"600,00",03/08/2025,"600,00",False,Bronze
+472,Zuleica Vieira,zuleicavieira@outlook.com,81998769105,23/01/1991,Campinas,SC,81704664,"600,00",25/01/2024,"600,00",False,Silver
+473,Xavier Yamamoto,xavieryamamoto893@gmail.com,11993981314,11/02/1975,Londrina,PR,91345736,"600,00",10/03/2025,"600,00",False,Silver
+474,Vitoria Cardoso,vitoriacardoso@outlook.com,47917534980,08/10/1951,Rio de Janeiro,DF,99095641,"600,00",15/12/2024,"600,00",False,Silver
+475,  Tiago Duarte  ,tiagoduarte@hotmail.com,31915001062,09/30/1973,Fortaleza,GO,95375294,"600,00",21/07/2024,"600,00",False,Silver
+476,Carla Ferreira,,41912414083,20/12/1998,Fortaleza,PA,91297753,"600,00",19/10/2024,"600,00",True,Gold
+477,  Felipe Cardoso  ,felipecardoso@yahoo.com.br,84913098306,05/11/2005,Rio de Janeiro,DF,92138511,"600,00",22/11/2024,"600,00",False,Platinum
+478,Felipe Barbosa,felipebarbosa@yahoo.com.br,83975968608,23/03/1979,Brasilia,PR,99429968,"600,00",15/01/2024,"600,00",True,Silver
+479,Ana Pereira,anapereira@outlook.com,61979719177,06/07/1954,Florianopolis,PA,87705531,nan,03/05/2025,"600,00",True,Silver
+480,Felipe Klein,felipeklein@empresa.com.br,71955887117,09/02/1985,Goiania,CE,95603805,"600,00",02/08/2024,"600,00",False,Gold
+481,Karen Zanetti,karenzanetti@hotmail.com,62980058696,04/18/1952,Belo Horizonte,RJ,86330810,"600,00",29/09/2024,"600,00",False,Platinum
+482,  Henrique Uchoa  ,henriqueuchoa@outlook.com,67952438941,15/04/1999,Recife,PA,88133809,"600,00",03/03/2024,"600,00",False,Gold
+483,  Joao Almeida  ,joaoalmeida@yahoo.com.br,47973187259,04/10/1969,Maringa,SP,90577979,"600,00",09/04/2025,"600,00",True,Silver
+484,Xavier Mendes,xaviermendes@yahoo.com.br,21946356308,25/09/1950,Sao Paulo,PR,83010772,"600,00",14/04/2024,"600,00",True,Silver
+485,  Mariana Ribeiro  ,marianaribeiro@yahoo.com.br,31933958348,16/09/1949,Salvador,PR,84511512,"600,00",13/02/2024,"600,00",False,Silver
+486,  Joao Pereira  ,joaopereira604@yahoo.com.br,62995479052,19/08/1980,Rio de Janeiro,SC,98227383,"600,00",08/01/2024,"600,00",True,Gold
+487,Karen Ibrahim,karenibrahim@outlook.com,91966464352,27/02/1996,Brasilia,GO,95197055,"600,00",07/08/2024,"600,00",True,Gold
+488,  Ana Jardim  ,,83953638501,08/08/1970,Florianopolis,CE,80367969,"600,00",19/04/2024,"600,00",True,Bronze
+489,Diego Barbosa,diegobarbosa@hotmail.com,67968401366,18/10/1955,Belo Horizonte,RS,82821742,"600,00",02/05/2025,"600,00",True,Bronze
+490,Wagner Silva,,21981498085,06/04/1970,Curitiba,PR,87694706,"600,00",30/09/2024,"600,00",True,Silver
+491,Nataly Ribeiro,natalyribeiro@yahoo.com.br,71959642448,07/07/1993,Londrina,SC,92193478,"600,00",21/12/2024,"600,00",True,Platinum
+492,Vitoria Ribeiro,vitoriaribeiro@yahoo.com.br,81976448385,21/09/1998,Florianopolis,SC,92987083,"600,00",12/06/2024,"600,00",True,Silver
+493,Sonia Almeida,soniaalmeida@empresa.com.br,79980142915,08/27/1964,Goiania,PE,94865159,nan,21/02/2025,"600,00",False,Silver
+494,  Quesia Zanetti  ,quesiazanetti@hotmail.com,nan,31/07/1963,  Recife  ,PR,83897432,"600,00",14/03/2024,"600,00",True,Platinum
+495,Lucas Goncalves,lucasgoncalves@empresa.com.br,21980501516,17/10/1953,Curitiba,CE,92450039,"600,00",25/12/2024,"600,00",False,Bronze
+496,Henrique Xavier,henriquexavier@gmail.com,86905626289,08/05/2006,Maringa,PE,96451185,"600,00",29/01/2024,"600,00",False,Bronze
+497,Bruno Ibrahim,brunoibrahim@empresa.com.br,51906525756,16/08/1988,Belo Horizonte,SP,85985228,"600,00",29/06/2024,"600,00",True,Gold
+498,  Wagner Duarte  ,wagnerduarte@hotmail.com,11971779128,17/07/1954,  Campinas  ,BA,82193066,"600,00",12/10/2024,"600,00",True,Platinum
+499,  Henrique Esteves  ,,92961165309,02/11/1965,Florianopolis,SP,92185061,"600,00",16/05/2024,"600,00",True,Bronze
+500,  Joao Zanetti  ,joaozanetti@hotmail.com,86978368843,09/02/1958,Brasilia,PA,98551168,"600,00",28/05/2024,"600,00",False,Bronze
+501,  Iara Nogueira  ,"iaranogueira@yahoo,com,br",61961227402,18/09/1990,Fortaleza,RJ,96290791,"600,00",10/06/2024,"600,00",True,Gold
+502,Yasmin Esteves,yasminesteves@gmail.com,79949729770,08/22/1979,Manaus,CE,82981708,"600,00",10/08/2025,"600,00",False,Gold
+503,Iara Ibrahim,iaraibrahim@empresa.com.br,62992734133,09/04/1968,Recife,BA,86224703,"600,00",11/07/2024,"600,00",True,Gold
+504,  Quesia Ferreira  ,quesiaferreira@outlook.com,79929999142,18/08/1975,Londrina,AM,98044402,"600,00",14/03/2024,"600,00",False,Platinum
+505,Rafael Silva,rafaelsilva@empresa.com.br,84980202770,21/11/1949,  Belem  ,RJ,84175802,"600,00",11/10/2024,"600,00",True,Gold
+506,  Bruno Almeida  ,brunoalmeida@empresa.com.br,62998905370,22/09/1964,Fortaleza,BA,85255093,"600,00",27/01/2025,"600,00",True,Bronze
+507,Henrique Nogueira,henriquenogueira@yahoo.com.br,67917591051,23/02/1964,Campinas,AM,84927756,"600,00",24/03/2024,"600,00",False,Platinum
+508,Gabriela Vieira,gabrielavieira520@empresa.com.br,85999374366,31/03/1981,Rio de Janeiro,GO,89524920,"600,00",27/12/2024,"600,00",True,Silver
+509,Henrique Uchoa,henriqueuchoa586@yahoo.com.br,83903359043,22/02/1969,  Campinas  ,RS,87180874,"600,00",23/09/2024,"600,00",True,Silver
+510,  Mariana Lima  ,marianalima@hotmail.com,92908205102,27/12/1969,Salvador,RS,87596892,"600,00",15/11/2024,"600,00",True,Bronze
+511,Xavier Ferreira,xavierferreira@yahoo.com.br,61998732262,07/01/1986,Salvador,RJ,88049805,"600,00",02/07/2024,"600,00",True,Silver
+512,Quesia Barbosa,"quesiabarbosa@hotmail,com",81994025575,06/06/2002,Florianopolis,GO,89411471,"600,00",09/03/2024,"600,00",True,Bronze
+513,Quesia Oliveira,quesiaoliveira@empresa.com.br,83941199576,24/10/1998,  Londrina  ,PR,92318306,nan,28/04/2024,"600,00",True,Platinum
+514,  Ulisses Yamamoto  ,ulissesyamamoto@empresa.com.br,71964935005,03/11/1986,Fortaleza,RS,81682251,"600,00",28/07/2024,"600,00",True,Platinum
+515,Otavio Mendes,otaviomendes@yahoo.com.br,92978161663,02/02/1954,Belem,BA,96695223,"600,00",29/07/2025,"600,00",True,Bronze
+516,Lucas Teixeira,lucasteixeira@outlook.com,85979878100,08/04/2004,  Joinville  ,RJ,83053631,"600,00",30/09/2024,"600,00",True,Silver
+517,Gabriela Nogueira,gabrielanogueira@yahoo.com.br,67934501009,06/01/1987,Sao Paulo,CE,91230631,"600,00",20/05/2025,"600,00",False,Platinum
+518,Rafael Xavier,rafaelxavier@outlook.com,91945705018,04/10/1989,Campinas,SC,84848568,"600,00",28/08/2025,"600,00",True,Bronze
+519,Diego Watanabe,diegowatanabe@outlook.com,71913294973,10/10/1983,Rio de Janeiro,PR,90092241,"600,00",01/02/2024,"600,00",False,Bronze
+520,Nataly Hernandez,natalyhernandez@empresa.com.br,83913572649,26/07/2007,Curitiba,PE,84373298,"600,00",03/01/2024,"600,00",True,Bronze
+521,  Sonia Cardoso  ,soniacardoso597@outlook.com,21900034149,13/03/1992,  Londrina  ,AM,99862872,"600,00",18/10/2024,"600,00",False,Platinum
+522,  Wagner Jardim  ,wagnerjardim@outlook.com,81983376020,22/11/1963,Brasilia,MG,99257896,"600,00",07/06/2024,"600,00",False,Bronze
+523,Yasmin Klein,yasminklein@empresa.com.br,92996285956,07/03/1962,Londrina,SC,96305474,"600,00",02/02/2024,"600,00",True,Silver
+524,Karen Xavier,karenxavier@yahoo.com.br,51901213689,04/08/1957,Londrina,SC,93692039,"600,00",22/05/2025,"600,00",False,Silver
+525,Ana Duarte,anaduarte@empresa.com.br,91944809697,01/08/1998,Recife,GO,80587417,"600,00",12/04/2025,"600,00",True,Gold
+526,Otavio Teixeira,otavioteixeira@outlook.com,21937595163,13/08/1980,Joinville,MG,80535513,"600,00",18/03/2024,"600,00",True,Platinum
+527,Vitoria Barbosa,vitoriabarbosa@empresa.com.br,41938477373,24/02/1952,Florianopolis,MG,88460173,"600,00",06/05/2025,"600,00",False,Silver
+528,  Felipe Lima  ,felipelima@outlook.com,31912483548,04/03/1955,Curitiba,SP,95769684,"600,00",27/05/2025,"600,00",False,Bronze
+529,Zuleica Goncalves,zuleicagoncalves@outlook.com,31910393658,30/08/2001,Joinville,BA,86958171,"600,00",02/02/2025,"600,00",False,Platinum
+530,Xavier Hernandez,xavierhernandez@yahoo.com.br,81932621687,13/04/1982,Curitiba,PR,99485533,"600,00",19/04/2025,"600,00",True,Bronze
+531,Xavier Yamamoto,xavieryamamoto@empresa.com.br,nan,21/01/1979,  Belo Horizonte  ,RS,82461510,"600,00",25/02/2025,"600,00",True,Gold
+532,Wagner Cardoso,wagnercardoso@empresa.com.br,41943286468,28/05/1949,Florianopolis,AM,98099673,"600,00",17/07/2025,"600,00",False,Gold
+533,Nataly Cardoso,natalycardoso@outlook.com,11917508814,01/04/1998,Goiania,SP,86066664,"600,00",10/09/2024,"600,00",False,Silver
+534,  Xavier Watanabe  ,xavierwatanabe@empresa.com.br,67994484072,08/05/1992,Sao Paulo,AM,88826255,"600,00",18/02/2025,"600,00",True,Gold
+535,Ana Duarte,anaduarte@hotmail.com,41940763170,05/12/1956,Fortaleza,GO,83629849,"600,00",25/04/2024,"600,00",True,Silver
+536,  Ulisses Zanetti  ,ulisseszanetti@outlook.com,67972644302,11/11/1988,Brasilia,PA,85197062,"600,00",15/09/2024,"600,00",True,Platinum
+537,  Diego Jardim  ,diegojardim@outlook.com,91910698445,17/01/1980,Fortaleza,GO,87681660,"600,00",13/08/2024,"600,00",True,Bronze
+538,Diego Ibrahim,,91950827614,12/20/2004,Belo Horizonte,RS,97312003,"600,00",11/08/2025,"600,00",True,Platinum
+539,Karen Almeida,karenalmeida@hotmail.com,67944554268,21/12/1966,  Goiania  ,CE,97448341,"600,00",10/12/2024,"600,00",False,Silver
+540,Eduarda Hernandez,eduardahernandez@gmail.com,31916819987,14/04/1948,Fortaleza,MG,99288911,"600,00",24/08/2025,"600,00",False,Gold
+541,Zuleica Ibrahim,zuleicaibrahim@empresa.com.br,86945399864,03/09/1974,Curitiba,CE,93995713,"600,00",19/08/2025,"600,00",True,Bronze
+542,Diego Uchoa,diegouchoa@outlook.com,21929394208,02/07/2000,Manaus,PA,85043704,nan,28/07/2024,"600,00",True,Platinum
+543,Rafael Ferreira,rafaelferreira@yahoo.com.br,47968002776,01/31/1998,Florianopolis,BA,94714435,"600,00",08/04/2025,"600,00",True,Silver
+544,Xavier Zanetti,xavierzanetti@gmail.com,85914912889,01/04/1995,Sao Paulo,GO,96972184,"600,00",17/08/2025,"600,00",True,Bronze
+545,Tiago Ribeiro,tiagoribeiro@hotmail.com,31942545278,13/10/1964,  Florianopolis  ,CE,90546471,"600,00",28/03/2025,"600,00",True,Bronze
+546,Yasmin Almeida,yasminalmeida@gmail.com,51995982328,04/02/2003,Londrina,SP,90251388,"600,00",27/01/2024,"600,00",True,Gold
+547,Felipe Cardoso,felipecardoso@hotmail.com,86985562255,16/01/1979,Manaus,DF,99634050,"600,00",21/03/2025,"600,00",True,Bronze
+548,Lucas Xavier,lucasxavier@empresa.com.br,84924455414,04/10/1960,Belem,PR,81737416,"600,00",12/02/2024,"600,00",True,Platinum
+549,Zuleica Almeida,zuleicaalmeida@empresa.com.br,21920057417,14/02/2001,Belo Horizonte,BA,88159528,"600,00",30/06/2024,"600,00",False,Platinum
+550,Henrique Esteves,henriqueesteves@hotmail.com,51985476038,26May1992,Curitiba,PE,81336841,"600,00",13/11/2024,"600,00",False,Platinum
+551,Lucas Yamamoto,lucasyamamoto@gmail.com,81955699904,25Feb1987,Recife,GO,87401748,"600,00",13/10/2024,"600,00",True,Bronze
+552,Iara Klein,iaraklein@hotmail.com,79906155746,06/08/1962,Manaus,MG,87270826,"600,00",18/11/2024,"600,00",False,Platinum
+553,  Xavier Zanetti  ,xavierzanetti@gmail.com,61980704551,23/11/1951,Belem,PR,83123472,"600,00",01/06/2025,"600,00",False,Platinum
+554,Ana Almeida,anaalmeida@hotmail.com,41954817799,16May1987,Joinville,MG,80100903,"600,00",17/10/2024,"600,00",False,Platinum
+555,Bruno Cardoso,brunocardoso@gmail.com,71917839834,01/07/1957,Brasilia,SC,82408245,"600,00",10/06/2024,"600,00",True,Silver
+556,Wagner Xavier,wagnerxavier@outlook.com,21960101348,27/03/2007,Brasilia,DF,86322895,"600,00",11/05/2024,"600,00",True,Bronze
+557,  Carla Yamamoto  ,carlayamamoto@hotmail.com,61916373875,15/06/1961,Belem,PE,98395659,"600,00",12/05/2025,"600,00",False,Platinum
+558,Bruno Duarte,"brunoduarte@empresa,com,br",61956135889,17/11/2002,  Joinville  ,PR,94795707,"600,00",07/05/2024,"600,00",False,Gold
+559,Wagner Cardoso,wagnercardoso@outlook.com,85941813713,08/02/1994,Campinas,AM,84757548,"600,00",12/04/2025,"600,00",True,Gold
+560,Sonia Duarte,soniaduarte@empresa.com.br,61928694119,08/05/1995,Fortaleza,RJ,85079407,"600,00",26/02/2024,"600,00",True,Platinum
+561,Felipe Xavier,felipexavier@empresa.com.br,62953376927,11/04/1945,  Joinville  ,BA,80981562,"600,00",30/04/2024,"600,00",True,Gold
+562,Eduarda Nogueira,eduardanogueira@gmail.com,84911924549,01/06/1992,  Campinas  ,PA,93063554,"600,00",03/05/2024,"600,00",False,Gold
+563,Bruno Almeida,brunoalmeida@hotmail.com,91971147400,17/02/1963,  Sao Paulo  ,DF,81570968,"600,00",16/07/2024,"600,00",False,Bronze
+564,Tiago Cardoso,tiagocardoso@outlook.com,91932098263,27/03/1969,  Porto Alegre  ,SC,85318059,"600,00",27/03/2025,"600,00",True,Platinum
+565,Vitoria Esteves,"vitoriaesteves@outlook,com",86977687299,01/04/1992,Rio de Janeiro,RS,87605091,"600,00",18/07/2024,"600,00",False,Platinum
+566,  Lucas Mendes  ,lucasmendes@empresa.com.br,51916652287,19/01/1991,  Brasilia  ,DF,83973194,"600,00",22/05/2025,"600,00",False,Platinum
+567,Bruno Xavier,brunoxavier@empresa.com.br,91907042548,27/09/1980,Sao Paulo,MG,86116076,"600,00",25/05/2024,"600,00",False,Silver
+568,  Rafael Ferreira  ,rafaelferreira@hotmail.com,92955729049,21/10/1966,Maringa,PE,80955346,"600,00",30/06/2024,"600,00",False,Platinum
+569,Sonia Ribeiro,soniaribeiro@yahoo.com.br,86910007597,03/10/1977,Brasilia,DF,87337644,"600,00",27/05/2024,"600,00",True,Silver
+570,Lucas Almeida,lucasalmeida@empresa.com.br,83993293463,12/12/1995,  Florianopolis  ,AM,87707440,"600,00",31/08/2025,"600,00",True,Gold
+571,Eduarda Barbosa,eduardabarbosa@gmail.com,92970965108,12/14/1990,Porto Alegre,AM,97881519,"600,00",27/03/2024,"600,00",False,Platinum
+572,Lucas Ferreira,lucasferreira@empresa.com.br,51904298405,10/07/1999,Rio de Janeiro,SP,85043857,"600,00",08/07/2025,"600,00",True,Platinum
+573,Zuleica Uchoa,"zuleicauchoa@empresa,com,br",62960401849,01/08/2000,Curitiba,SC,85502286,"600,00",05/08/2025,"600,00",True,Bronze
+574,Felipe Queiroz,felipequeiroz@empresa.com.br,71930425040,15/05/1996,Salvador,MG,86114545,"600,00",17/06/2024,"600,00",False,Gold
+575,Mariana Ferreira,marianaferreira@hotmail.com,62956259679,06/02/1980,  Goiania  ,BA,98306332,"600,00",16/05/2025,"600,00",True,Platinum
+576,Henrique Almeida,henriquealmeida@empresa.com.br,31918548884,05/03/1966,Sao Paulo,GO,90078090,"600,00",29/03/2024,"600,00",False,Platinum
+577,Xavier Ferreira,xavierferreira@hotmail.com,91915954901,18/07/2007,  Belem  ,AM,94962392,"600,00",30/03/2024,"600,00",False,Silver
+578,Bruno Teixeira,brunoteixeira370@hotmail.com,91986306706,28/03/1950,Porto Alegre,BA,97659452,"600,00",20/08/2025,"600,00",True,Platinum
+579,Xavier Vieira,xaviervieira@outlook.com,79947193912,13/04/1947,Belo Horizonte,DF,90054381,"600,00",07/01/2024,"600,00",True,Silver
+580,Ulisses Duarte,ulissesduarte349@outlook.com,91933437974,06May2000,Belo Horizonte,RS,93863459,"600,00",17/05/2025,"600,00",False,Silver
+581,  Xavier Almeida  ,,71934262140,31/01/1962,Florianopolis,DF,83034060,"600,00",26/05/2024,"600,00",True,Gold
+582,Felipe Goncalves,felipegoncalves@yahoo.com.br,83984982426,10/05/1968,Florianopolis,CE,85071883,"600,00",29/09/2024,"600,00",True,Platinum
+583,Vitoria Xavier,vitoriaxavier@empresa.com.br,51972012981,06/29/1964,Rio de Janeiro,MG,85653158,"600,00",09/07/2024,"600,00",False,Silver
+584,Diego Xavier,diegoxavier@outlook.com,62990623357,18/06/1993,Belem,GO,96026742,"600,00",11/11/2024,"600,00",True,Bronze
+585,Joao Hernandez,joaohernandez@empresa.com.br,86919083956,09/04/1951,  Maringa  ,AM,83686219,"600,00",09/09/2024,"600,00",False,Platinum
+586,  Quesia Hernandez  ,quesiahernandez@gmail.com,81965061889,03/06/1999,Sao Paulo,RS,86900709,"600,00",02/06/2025,"600,00",False,Gold
+587,Ulisses Ribeiro,ulissesribeiro@gmail.com,21933091284,25/06/1996,Fortaleza,PA,98694920,"600,00",09/03/2024,"600,00",True,Silver
+588,Xavier Silva,xaviersilva@gmail.com,91931591928,08/13/2006,Curitiba,CE,84945749,"600,00",27/04/2024,"600,00",True,Bronze
+589,Otavio Nogueira,otavionogueira@hotmail.com,31918992846,12/11/1947,Porto Alegre,PR,88148202,"600,00",17/12/2024,"600,00",True,Platinum
+590,Mariana Klein,marianaklein@gmail.com,nan,05Feb1995,Manaus,SP,84411153,"600,00",23/05/2024,"600,00",True,Gold
+591,Lucas Lima,lucaslima@gmail.com,61993206656,15/09/1985,Londrina,DF,97682375,"600,00",14/07/2024,"600,00",False,Gold
+592,Carla Xavier,carlaxavier@gmail.com,41959283653,09/07/1950,Londrina,RJ,93511233,"600,00",28/03/2024,"600,00",True,Bronze
+593,Karen Ibrahim,karenibrahim@hotmail.com,62946761530,28May2002,Curitiba,PE,94510604,"600,00",11/11/2024,"600,00",False,Gold
+594,Henrique Ibrahim,henriqueibrahim@gmail.com,11918111722,05/08/1963,Belo Horizonte,BA,94723408,"600,00",26/02/2025,"600,00",False,Bronze
+595,  Ana Queiroz  ,anaqueiroz@outlook.com,41956151996,01/11/1949,  Joinville  ,CE,91833993,"600,00",06/12/2024,"600,00",True,Gold
+596,  Wagner Goncalves  ,wagnergoncalves@empresa.com.br,81973207978,29/06/1945,Salvador,MG,94400944,"600,00",24/07/2024,"600,00",True,Silver
+597,Sonia Cardoso,soniacardoso@hotmail.com,67966027796,16/07/1949,Belem,PR,80643766,"600,00",23/04/2025,"600,00",True,Bronze
+598,Wagner Silva,wagnersilva@outlook.com,31951883820,31/07/1989,  Joinville  ,AM,86509474,"600,00",25/06/2025,"600,00",False,Bronze
+599,Joao Duarte,joaoduarte@yahoo.com.br,21979468862,03/06/1961,Fortaleza,DF,94616826,"600,00",11/06/2025,"600,00",True,Bronze
+600,  Vitoria Esteves  ,vitoriaesteves@yahoo.com.br,51917312458,07/13/1953,Florianopolis,PA,84803918,"600,00",26/03/2024,"600,00",False,Platinum
+601,Ulisses Silva,"ulissessilva@empresa,com,br",92965375260,14/01/1991,Florianopolis,CE,80377552,"600,00",26/03/2025,"600,00",False,Platinum
+602,  Paula Vieira  ,paulavieira@hotmail.com,83914992376,27/10/1998,Londrina,AM,98959965,"600,00",31/05/2025,"600,00",False,Platinum
+603,Sonia Lima,sonialima@gmail.com,84918436809,09/02/1965,Fortaleza,RS,85954299,"600,00",28/12/2024,"600,00",False,Platinum
+604,Tiago Mendes,,67974229383,17/08/1979,  Maringa  ,BA,89018555,"600,00",30/12/2024,"600,00",False,Platinum
+605,Iara Ribeiro,iararibeiro447@empresa.com.br,67964748856,12/24/1946,Joinville,AM,83701600,"600,00",01/04/2024,"600,00",False,Silver
+606,Ulisses Ferreira,ulissesferreira@hotmail.com,84900066598,21/06/1953,Sao Paulo,SC,89898507,"600,00",23/01/2024,"600,00",False,Gold
+607,Gabriela Watanabe,gabrielawatanabe@gmail.com,86979332070,01/18/1994,Salvador,AM,83175278,"600,00",03/01/2024,"600,00",False,Silver
+608,Karen Teixeira,karenteixeira@yahoo.com.br,92940797485,09/01/1973,Maringa,BA,83625127,"600,00",25/08/2025,"600,00",False,Bronze
+609,Paula Lima,,nan,07/02/2003,Brasilia,SC,99644057,"600,00",16/08/2025,"600,00",False,Gold
+610,Zuleica Esteves,zuleicaesteves943@empresa.com.br,83944888125,16/04/1946,Sao Paulo,PE,97613913,"600,00",07/01/2025,"600,00",False,Gold
+611,Gabriela Zanetti,"gabrielazanetti@empresa,com,br",81942287626,23/09/1954,Florianopolis,SC,93942164,"600,00",21/12/2024,"600,00",True,Bronze
+612,Otavio Nogueira,otavionogueira@yahoo.com.br,79911037392,28/02/1990,Florianopolis,SP,80200778,"600,00",13/06/2025,"600,00",True,Bronze
+613,Paula Watanabe,paulawatanabe@empresa.com.br,81972751223,19/03/1958,Campinas,RJ,87497753,"600,00",24/02/2024,"600,00",True,Gold
+614,Mariana Yamamoto,marianayamamoto@yahoo.com.br,81943379422,04/02/1974,Belo Horizonte,GO,88338312,"600,00",01/10/2024,"600,00",True,Platinum
+615,  Carla Duarte  ,carladuarte@hotmail.com,92980482390,23/11/1988,Brasilia,MG,82384919,"600,00",22/07/2025,"600,00",True,Silver
+616,Tiago Zanetti,tiagozanetti@hotmail.com,61905437334,12/07/1968,Fortaleza,BA,81171878,"600,00",04/12/2024,"600,00",True,Bronze
+617,Mariana Oliveira,marianaoliveira@outlook.com,51945685163,11/12/1963,Goiania,PE,98103109,"600,00",08/03/2024,"600,00",False,Platinum
+618,Henrique Uchoa,henriqueuchoa@hotmail.com,67988287324,12/16/2006,Campinas,BA,83429280,"600,00",18/11/2024,"600,00",True,Platinum
+619,Xavier Teixeira,xavierteixeira@yahoo.com.br,61991214709,02/11/1955,Joinville,AM,96943887,"600,00",05/02/2025,"600,00",False,Silver
+620,Diego Barbosa,diegobarbosa@gmail.com,31985527323,03/29/2005,  Belo Horizonte  ,PR,80367560,"600,00",07/05/2025,"600,00",True,Bronze
+621,Xavier Hernandez,xavierhernandez@outlook.com,31996609361,30/06/1962,Salvador,DF,80119203,"600,00",25/08/2025,"600,00",False,Bronze
+622,Ana Lima,analima@outlook.com,85912216429,07/02/1969,Sao Paulo,PA,82958720,"600,00",06/02/2025,"600,00",True,Bronze
+623,  Rafael Klein  ,,86906879565,13/09/1994,Recife,BA,92727621,"600,00",04/08/2025,"600,00",True,Silver
+624,  Ulisses Silva  ,ulissessilva@empresa.com.br,31959651501,10/10/1985,Campinas,CE,82850135,"600,00",31/08/2025,"600,00",True,Bronze
+625,Quesia Silva,quesiasilva@hotmail.com,11993657038,27/04/1986,Maringa,BA,89725394,"600,00",02/04/2024,"600,00",True,Platinum
+626,Rafael Esteves,rafaelesteves@empresa.com.br,67929003665,16/10/1949,Londrina,AM,98138354,"600,00",10/01/2025,"600,00",True,Bronze
+627,  Quesia Esteves  ,quesiaesteves@empresa.com.br,11994121295,06/09/1969,Brasilia,GO,85820515,"600,00",04/08/2024,"600,00",True,Platinum
+628,  Ana Barbosa  ,,51942898415,12/03/1988,  Campinas  ,BA,83806588,"600,00",25/12/2024,"600,00",True,Bronze
+629,Vitoria Cardoso,vitoriacardoso@yahoo.com.br,62972181872,01/03/1973,  Sao Paulo  ,SP,98408728,"600,00",10/05/2025,"600,00",False,Gold
+630,Otavio Nogueira,otavionogueira@empresa.com.br,67945718736,16/07/1987,Rio de Janeiro,DF,81163264,"600,00",05/07/2025,"600,00",False,Bronze
+631,  Vitoria Ferreira  ,vitoriaferreira@outlook.com,81971735194,05/06/1950,Fortaleza,RJ,94673198,"600,00",12/07/2025,"600,00",True,Platinum
+632,Rafael Queiroz,rafaelqueiroz@outlook.com,71966503259,20/04/1980,  Belem  ,CE,93011163,"600,00",09/12/2024,"600,00",False,Gold
+633,Karen Yamamoto,karenyamamoto@gmail.com,nan,10/08/2006,Maringa,PE,81768703,"600,00",29/10/2024,"600,00",False,Platinum
+634,Henrique Klein,henriqueklein@outlook.com,11913543215,13/12/1945,Belem,AM,91051219,"600,00",21/02/2024,"600,00",False,Bronze
+635,Vitoria Vieira,vitoriavieira@yahoo.com.br,nan,11/06/1949,Recife,CE,87556682,"600,00",27/08/2025,"600,00",False,Bronze
+636,Tiago Goncalves,tiagogoncalves@gmail.com,67957053065,06/18/1951,  Campinas  ,AM,97873367,"600,00",06/04/2024,"600,00",False,Silver
+637,Bruno Lima,brunolima@gmail.com,11903147517,29/07/1968,  Sao Paulo  ,PE,84106733,"600,00",04/09/2024,"600,00",True,Gold
+638,Wagner Lima,"wagnerlima@gmail,com",51954756375,17/01/1979,Goiania,SP,95052550,"600,00",04/02/2025,"600,00",True,Bronze
+639,Yasmin Esteves,yasminesteves@hotmail.com,21993601652,07/04/1945,Campinas,PR,80456155,"600,00",27/02/2025,"600,00",True,Silver
+640,Tiago Almeida,tiagoalmeida@outlook.com,92988978391,18/12/1972,  Florianopolis  ,AM,80277905,"600,00",24/08/2024,"600,00",True,Silver
+641,Otavio Almeida,"otavioalmeida@hotmail,com",81926554697,01/19/2003,Curitiba,PE,97113586,"600,00",24/06/2024,"600,00",False,Bronze
+642,Yasmin Duarte,yasminduarte@hotmail.com,79993228598,13/05/1991,Florianopolis,SP,82200560,"600,00",13/12/2024,"600,00",False,Silver
+643,Felipe Zanetti,felipezanetti@outlook.com,41984193262,03/06/1964,Londrina,PR,85095060,"600,00",10/05/2024,"600,00",False,Silver
+644,Eduarda Xavier,eduardaxavier@gmail.com,61901673073,07/11/1969,  Curitiba  ,PA,91769870,"600,00",14/05/2024,"600,00",False,Platinum
+645,  Yasmin Yamamoto  ,,83932281047,21/06/1984,Sao Paulo,DF,84326786,"600,00",11/02/2025,"600,00",False,Silver
+646,  Vitoria Xavier  ,vitoriaxavier@outlook.com,51995369698,01/01/1951,Curitiba,GO,83883429,"600,00",15/06/2024,"600,00",False,Silver
+647,Nataly Mendes,natalymendes@gmail.com,31993449390,09/11/2003,Sao Paulo,RS,99813788,nan,17/03/2025,"600,00",False,Gold
+648,Mariana Ferreira,marianaferreira@hotmail.com,41914495841,23/05/2007,Campinas,GO,97491752,"600,00",03/06/2024,"600,00",True,Bronze
+649,Nataly Esteves,natalyesteves@outlook.com,83943194614,30/09/1961,Fortaleza,GO,88045266,"600,00",08/01/2025,"600,00",False,Silver
+650,Wagner Lima,wagnerlima737@empresa.com.br,85963965400,20/11/1962,Maringa,GO,92878395,"600,00",23/03/2025,"600,00",False,Gold
+651,  Gabriela Ibrahim  ,gabrielaibrahim@hotmail.com,11993826440,19/06/1998,Manaus,SC,89898864,nan,15/01/2025,"600,00",True,Platinum
+652,Iara Esteves,iaraesteves@empresa.com.br,71908625338,03/01/1972,Recife,RJ,98565422,"600,00",06/08/2024,"600,00",True,Platinum
+653,Ana Almeida,anaalmeida@gmail.com,51923272970,13/01/1959,  Maringa  ,BA,96563816,"600,00",13/10/2024,"600,00",True,Platinum
+654,Diego Pereira,diegopereira@hotmail.com,91967326594,17/10/1996,Fortaleza,CE,95336003,"600,00",27/11/2024,"600,00",False,Silver
+655,Wagner Lima,wagnerlima@yahoo.com.br,81953329505,27/06/1956,  Sao Paulo  ,RJ,93940027,"600,00",23/11/2024,"600,00",False,Bronze
+656,Gabriela Yamamoto,gabrielayamamoto@gmail.com,41932457194,30/11/1998,Porto Alegre,PE,92239989,"600,00",11/05/2025,"600,00",False,Silver
+657,Eduarda Ferreira,eduardaferreira@yahoo.com.br,51900235707,21/12/1982,Fortaleza,MG,83002929,"600,00",24/12/2024,"600,00",False,Platinum
+658,Zuleica Duarte,zuleicaduarte@hotmail.com,11980503042,10/22/2005,Goiania,BA,94245945,"600,00",06/07/2024,"600,00",False,Platinum
+659,Karen Oliveira,karenoliveira@hotmail.com,47923203644,01/20/1976,Belo Horizonte,RS,91591414,"600,00",02/08/2025,"600,00",True,Silver
+660,  Lucas Uchoa  ,lucasuchoa@yahoo.com.br,86940082092,19/05/1954,Sao Paulo,PA,83998668,"600,00",18/11/2024,"600,00",True,Gold
+661,Felipe Mendes,felipemendes@empresa.com.br,86959867326,07/23/1967,Salvador,PR,82833438,"600,00",27/06/2024,"600,00",False,Gold
+662,Karen Nogueira,karennogueira@empresa.com.br,61996816259,20/04/1957,Goiania,PR,96257098,"600,00",21/03/2025,"600,00",True,Bronze
+663,Henrique Yamamoto,henriqueyamamoto@empresa.com.br,83905959572,02/01/1999,Florianopolis,CE,91112712,"600,00",02/02/2025,"600,00",True,Platinum
+664,Henrique Uchoa,henriqueuchoa@empresa.com.br,41998732502,22/02/2002,Belem,PR,83966600,"600,00",07/05/2024,"600,00",True,Silver
+665,Joao Silva,joaosilva@outlook.com,84991958606,18/03/1998,Campinas,RS,91388436,"600,00",01/04/2024,"600,00",False,Platinum
+666,Lucas Klein,,67992577989,04/28/1957,Maringa,SP,92155607,"600,00",16/08/2024,"600,00",False,Bronze
+667,Otavio Nogueira,otavionogueira@yahoo.com.br,71985936495,23/08/1974,Manaus,PE,88434804,"600,00",26/10/2024,"600,00",False,Gold
+668,Sonia Hernandez,soniahernandez@hotmail.com,85946704709,09/02/1958,Campinas,BA,99839740,"600,00",02/12/2024,"600,00",True,Silver
+669,Yasmin Queiroz,yasminqueiroz@outlook.com,85921142002,11/07/1991,Londrina,CE,99189135,"600,00",26/02/2025,"600,00",False,Platinum
+670,Nataly Jardim,natalyjardim@gmail.com,11923176828,12/17/1976,Belo Horizonte,CE,95445986,"600,00",05/02/2025,"600,00",False,Gold
+671,Gabriela Cardoso,gabrielacardoso@outlook.com,83963554625,03Feb1962,  Goiania  ,MG,90158468,"600,00",18/05/2024,"600,00",False,Silver
+672,Vitoria Oliveira,vitoriaoliveira@yahoo.com.br,83988511459,03/22/1979,Belem,RJ,94357910,"600,00",05/06/2024,"600,00",False,Platinum
+673,Karen Barbosa,karenbarbosa@empresa.com.br,51926535592,14/01/1963,Florianopolis,SC,84466016,"600,00",05/06/2024,"600,00",False,Bronze
+674,Henrique Almeida,henriquealmeida@outlook.com,41970088475,09/12/1999,Curitiba,PE,89109657,"600,00",18/11/2024,"600,00",True,Silver
+675,Sonia Ribeiro,soniaribeiro278@yahoo.com.br,47907643081,25Feb1953,Rio de Janeiro,DF,81707902,"600,00",16/06/2024,"600,00",True,Gold
+676,Vitoria Ribeiro,vitoriaribeiro@gmail.com,86952615267,05/27/2002,Florianopolis,PR,91124517,"600,00",27/03/2025,"600,00",False,Silver
+677,Sonia Zanetti,soniazanetti@yahoo.com.br,91924155053,12/12/1953,Recife,DF,96826042,"600,00",18/02/2024,"600,00",True,Platinum
+678,Tiago Barbosa,tiagobarbosa845@gmail.com,21936953474,25/10/1954,Salvador,RJ,88340255,"600,00",28/06/2024,"600,00",False,Platinum
+679,Eduarda Duarte,eduardaduarte@yahoo.com.br,nan,23/09/1984,Recife,RS,80384277,"600,00",15/06/2025,"600,00",True,Gold
+680,Yasmin Queiroz,yasminqueiroz@gmail.com,85981405216,17/08/1998,Florianopolis,PA,95537326,"600,00",01/10/2024,"600,00",False,Platinum
+681,Mariana Lima,marianalima@hotmail.com,51924725683,05/02/1973,Campinas,RJ,93389176,"600,00",22/03/2025,"600,00",False,Silver
+682,Mariana Cardoso,marianacardoso685@outlook.com,41931874354,02/02/1959,  Sao Paulo  ,AM,85665800,"600,00",26/03/2024,"600,00",True,Bronze
+683,Lucas Ribeiro,lucasribeiro@yahoo.com.br,71901382703,01/10/1972,Belem,BA,98678950,"600,00",01/01/2024,"600,00",True,Silver
+684,Karen Queiroz,karenqueiroz@yahoo.com.br,71919458132,16/02/1984,Manaus,SP,82095046,"600,00",16/07/2024,"600,00",True,Gold
+685,Xavier Pereira,xavierpereira@empresa.com.br,86973153513,01/02/1991,Salvador,BA,94155432,"600,00",16/07/2025,"600,00",True,Silver
+686,Lucas Goncalves,lucasgoncalves@empresa.com.br,41900636271,04/03/1945,Florianopolis,BA,81954461,"600,00",14/06/2024,"600,00",True,Bronze
+687,Henrique Hernandez,henriquehernandez@empresa.com.br,83933394514,09/02/1981,Rio de Janeiro,PA,83560000,"600,00",17/04/2024,"600,00",True,Gold
+688,Henrique Watanabe,henriquewatanabe@gmail.com,62957234061,08/04/1988,Rio de Janeiro,SC,80205650,"600,00",14/02/2024,"600,00",False,Silver
+689,Yasmin Cardoso,yasmincardoso@yahoo.com.br,91918136772,27/12/1960,Fortaleza,RS,92079712,"600,00",03/06/2024,"600,00",True,Platinum
+690,  Sonia Duarte  ,soniaduarte@yahoo.com.br,51956266343,03/31/1957,Campinas,PR,84676783,"600,00",24/01/2024,"600,00",True,Platinum
+691,Sonia Teixeira,soniateixeira@gmail.com,71981595176,07/28/1999,Manaus,SP,89469859,"600,00",25/04/2024,"600,00",False,Silver
+692,  Zuleica Ribeiro  ,zuleicaribeiro@yahoo.com.br,nan,12/08/1955,Joinville,PR,93114296,"600,00",22/05/2024,"600,00",True,Platinum
+693,Iara Lima,,61906746404,07/05/1954,Fortaleza,GO,92142937,"600,00",30/08/2024,"600,00",True,Platinum
+694,  Vitoria Mendes  ,vitoriamendes@empresa.com.br,81963475796,04/08/1985,Recife,BA,97393483,"600,00",06/05/2025,"600,00",True,Bronze
+695,Gabriela Nogueira,"gabrielanogueira@gmail,com",67921541708,16/10/1959,Belem,BA,90603932,"600,00",21/01/2025,"600,00",True,Bronze
+696,Yasmin Ferreira,yasminferreira242@hotmail.com,71972021481,07/06/2006,Londrina,RS,85594098,"600,00",16/08/2024,"600,00",True,Gold
+697,Carla Esteves,carlaesteves@outlook.com,21900545081,05/06/2002,Florianopolis,SP,88870548,"600,00",19/04/2025,"600,00",True,Platinum
+698,Karen Ribeiro,karenribeiro@hotmail.com,81922926122,01/04/1985,Joinville,SC,90109613,"600,00",23/02/2024,"600,00",True,Gold
+699,Ulisses Goncalves,ulissesgoncalves@hotmail.com,71918378557,28/04/1968,Manaus,AM,96001522,"600,00",27/07/2024,"600,00",False,Silver
+700,Zuleica Cardoso,zuleicacardoso@hotmail.com,51969971613,14/08/1960,Florianopolis,BA,86027323,"600,00",20/07/2024,"600,00",True,Platinum
+701,Vitoria Goncalves,vitoriagoncalves@hotmail.com,41983862759,11/11/1952,Londrina,RS,90170229,"600,00",22/01/2025,"600,00",True,Bronze
+702,Ulisses Zanetti,ulisseszanetti@outlook.com,11906052837,28/12/1965,Belem,AM,89420174,"600,00",28/03/2024,"600,00",True,Gold
+703,Tiago Yamamoto,tiagoyamamoto@empresa.com.br,92960779032,21/02/1998,Goiania,RJ,84510306,"600,00",14/03/2024,"600,00",False,Bronze
+704,Otavio Almeida,otavioalmeida@empresa.com.br,79916205356,12/06/1952,Florianopolis,PE,94234869,"600,00",31/01/2024,"600,00",True,Gold
+705,Rafael Cardoso,rafaelcardoso@outlook.com,51917268295,02/07/1997,Goiania,BA,95226984,"600,00",17/01/2025,"600,00",False,Bronze
+706,Ana Xavier,anaxavier@gmail.com,62987263058,01/11/1966,  Manaus  ,SC,97531816,"600,00",01/03/2024,"600,00",True,Gold
+707,Eduarda Jardim,eduardajardim@yahoo.com.br,91981294369,09/22/1990,Porto Alegre,SP,81977721,"600,00",08/09/2024,"600,00",False,Silver
+708,Nataly Cardoso,,83961534922,29/01/1979,Florianopolis,DF,95451497,"600,00",13/02/2024,"600,00",True,Silver
+709,Ulisses Mendes,ulissesmendes@outlook.com,83941765201,03/01/1974,  Campinas  ,SP,92232986,nan,02/11/2024,"600,00",True,Bronze
+710,Gabriela Almeida,gabrielaalmeida@yahoo.com.br,91916785313,09/02/1998,Salvador,BA,93709507,"600,00",23/01/2024,"600,00",True,Bronze
+711,Wagner Almeida,wagneralmeida@hotmail.com,91974435417,27/03/1993,  Goiania  ,GO,86440021,"600,00",17/05/2025,"600,00",False,Gold
+712,Diego Yamamoto,diegoyamamoto@outlook.com,71934129255,27/06/2003,Joinville,BA,93261290,"600,00",15/08/2024,"600,00",False,Silver
+713,Tiago Almeida,,84903794052,03/07/1968,Porto Alegre,DF,91668461,"600,00",23/06/2024,"600,00",False,Bronze
+714,Wagner Pereira,wagnerpereira@outlook.com,62990242233,11/09/1969,  Manaus  ,PA,84948762,"600,00",29/01/2024,"600,00",True,Platinum
+715,Lucas Cardoso,lucascardoso@outlook.com,61928247868,22/09/1983,  Sao Paulo  ,RS,84892559,"600,00",08/08/2024,"600,00",False,Bronze
+716,Bruno Barbosa,brunobarbosa@hotmail.com,31993596904,30/01/1973,  Curitiba  ,CE,98451988,"600,00",21/05/2025,"600,00",True,Gold
+717,Yasmin Barbosa,yasminbarbosa@hotmail.com,83992791675,06/10/1955,Rio de Janeiro,CE,83665507,"600,00",16/09/2024,"600,00",True,Platinum
+718,Ana Oliveira,anaoliveira@hotmail.com,62949405802,18/09/1975,  Porto Alegre  ,PE,80557597,"600,00",24/08/2025,"600,00",False,Silver
+719,  Mariana Teixeira  ,marianateixeira@hotmail.com,62921388705,01/10/2005,Maringa,RS,83668391,"600,00",19/12/2024,"600,00",False,Gold
+720,Rafael Silva,rafaelsilva@gmail.com,71999399779,10/03/1964,Campinas,BA,90222467,"600,00",01/03/2024,"600,00",True,Gold
+721,  Carla Silva  ,carlasilva@gmail.com,31971625927,17/07/1999,Joinville,DF,96707447,"600,00",29/11/2024,"600,00",True,Gold
+722,Quesia Nogueira,quesianogueira@yahoo.com.br,31927274265,04/09/1963,Porto Alegre,SC,88148812,"600,00",22/01/2024,"600,00",True,Platinum
+723,Ana Almeida,anaalmeida@empresa.com.br,67919517655,17/06/1957,Rio de Janeiro,DF,81465397,"600,00",12/04/2025,"600,00",True,Platinum
+724,Carla Ribeiro,carlaribeiro24@outlook.com,91945434590,08/16/1953,Belo Horizonte,MG,88491337,"600,00",21/11/2024,"600,00",True,Gold
+725,Gabriela Uchoa,gabrielauchoa@gmail.com,67967647735,06/04/1970,Brasilia,AM,84858733,"600,00",06/10/2024,"600,00",True,Platinum
+726,Zuleica Esteves,zuleicaesteves@empresa.com.br,47936459410,01/09/1948,Manaus,RJ,84454478,"600,00",12/03/2024,"600,00",True,Gold
+727,Henrique Lima,"henriquelima@gmail,com",92922856439,01/15/1976,Campinas,PA,95225616,"600,00",11/02/2025,"600,00",True,Bronze
+728,Rafael Hernandez,rafaelhernandez@yahoo.com.br,51932853083,02/10/2003,  Campinas  ,SP,94261769,"600,00",18/01/2025,"600,00",False,Platinum
+729,Iara Jardim,iarajardim@gmail.com,47972057864,27/11/1952,Manaus,PR,96115865,"600,00",09/01/2025,"600,00",False,Gold
+730,Nataly Ribeiro,natalyribeiro@outlook.com,85930027459,10/09/2007,Joinville,PE,93394872,"600,00",13/05/2024,"600,00",False,Platinum
+731,Otavio Cardoso,otaviocardoso@empresa.com.br,84917839360,06/02/1973,Londrina,RJ,92399560,"600,00",10/11/2024,"600,00",True,Platinum
+732,Iara Teixeira,iarateixeira@outlook.com,11965485528,07/19/1962,Rio de Janeiro,SP,80082877,"600,00",27/06/2025,"600,00",False,Silver
+733,Quesia Queiroz,quesiaqueiroz@gmail.com,nan,22/04/1961,Curitiba,SP,82695821,"600,00",14/01/2025,"600,00",False,Gold
+734,Tiago Xavier,"tiagoxavier@yahoo,com,br",41982777308,09May1998,Recife,GO,82931826,"600,00",29/08/2025,"600,00",True,Bronze
+735,  Diego Hernandez  ,diegohernandez@yahoo.com.br,92967981746,07/27/1949,Brasilia,RJ,97166336,"600,00",18/08/2025,"600,00",True,Platinum
+736,Karen Hernandez,karenhernandez945@hotmail.com,91972689562,25/12/1986,Porto Alegre,AM,95400999,"600,00",18/04/2024,"600,00",True,Bronze
+737,Ulisses Mendes,ulissesmendes@yahoo.com.br,62906608330,29/01/1994,Belo Horizonte,PR,96400032,"600,00",16/07/2025,"600,00",False,Platinum
+738,Eduarda Goncalves,eduardagoncalves@hotmail.com,21962987265,23/11/1979,Maringa,PA,88057591,"600,00",31/12/2024,"600,00",True,Bronze
+739,Eduarda Cardoso,eduardacardoso@gmail.com,83911911072,17/01/1959,Recife,PR,98936140,"600,00",25/04/2024,nan,True,Silver
+740,Diego Xavier,,nan,25/08/2007,Goiania,GO,90153563,"600,00",07/09/2024,"600,00",False,Silver
+741,Paula Nogueira,paulanogueira@hotmail.com,84920036243,26/12/1993,Belem,DF,87674606,"600,00",19/05/2025,"600,00",False,Silver
+742,  Mariana Uchoa  ,marianauchoa@empresa.com.br,47948435795,06/09/1957,Goiania,PE,86670062,"600,00",28/03/2025,"600,00",True,Platinum
+743,Paula Ribeiro,paularibeiro@hotmail.com,86952106028,24/02/1990,Florianopolis,RS,98436176,"600,00",04/07/2024,"600,00",True,Silver
+744,Otavio Ferreira,otavioferreira@outlook.com,47901688296,09/07/1963,  Recife  ,SP,91735618,"600,00",14/02/2025,"600,00",True,Silver
+745,Bruno Nogueira,brunonogueira@gmail.com,83996884829,17/07/1945,Belem,DF,86554591,"600,00",21/06/2025,"600,00",True,Platinum
+746,  Iara Yamamoto  ,iarayamamoto@hotmail.com,21977609195,23/02/1984,Londrina,SC,84822865,"600,00",29/01/2024,"600,00",True,Gold
+747,  Gabriela Ferreira  ,gabrielaferreira@hotmail.com,41912288615,11/12/1982,Londrina,SP,83736295,"600,00",28/10/2024,"600,00",True,Gold
+748,Diego Nogueira,diegonogueira@gmail.com,nan,06Feb1969,  Curitiba  ,RS,82341461,"600,00",03/03/2024,"600,00",True,Bronze
+749,Mariana Goncalves,,71995564248,31/01/1965,Maringa,RS,94196247,"600,00",27/03/2025,"600,00",True,Platinum
+750,Yasmin Klein,yasminklein@hotmail.com,92953252781,03/02/1961,  Fortaleza  ,GO,87281356,"600,00",12/06/2024,"600,00",False,Platinum
+751,Nataly Watanabe,natalywatanabe@yahoo.com.br,51990595976,06Feb1947,Londrina,GO,80091428,"600,00",01/06/2025,"600,00",True,Gold
+752,  Bruno Ribeiro  ,brunoribeiro@gmail.com,21927184050,28/01/1970,Manaus,MG,85140356,"600,00",05/02/2024,"600,00",False,Silver
+753,Carla Barbosa,carlabarbosa@outlook.com,21918594706,09/27/1994,Sao Paulo,PE,86315896,"600,00",01/08/2024,"600,00",False,Silver
+754,Ana Zanetti,anazanetti@outlook.com,62920063069,11/27/1974,Rio de Janeiro,AM,87953990,"600,00",17/05/2024,"600,00",False,Silver
+755,Felipe Cardoso,felipecardoso@yahoo.com.br,31992794328,27/10/1951,Belo Horizonte,RJ,93878875,"600,00",16/01/2025,"600,00",True,Silver
+756,Mariana Ibrahim,marianaibrahim@hotmail.com,nan,01/05/1957,Florianopolis,BA,91594707,"600,00",19/06/2024,"600,00",False,Bronze
+757,  Yasmin Esteves  ,yasminesteves@gmail.com,85979488552,12/10/1956,Maringa,RJ,90529717,"600,00",28/05/2025,"600,00",False,Gold
+758,Joao Yamamoto,"joaoyamamoto@yahoo,com,br",61934234841,21/11/1959,Campinas,SC,89009058,"600,00",09/07/2025,"600,00",True,Platinum
+759,Quesia Goncalves,quesiagoncalves@empresa.com.br,86922117627,06/02/1960,Joinville,CE,82626804,"600,00",09/08/2024,"600,00",False,Gold
+760,Yasmin Duarte,,nan,18/02/1953,Recife,RS,98668587,"600,00",08/09/2024,"600,00",False,Gold
+761,Felipe Watanabe,felipewatanabe941@hotmail.com,79908626919,10/12/1965,Rio de Janeiro,RS,92148781,"600,00",27/03/2024,"600,00",False,Silver
+762,Carla Silva,,91923528559,04/12/1949,Belem,PE,97226730,"600,00",12/05/2024,"600,00",True,Silver
+763,  Iara Nogueira  ,iaranogueira@yahoo.com.br,61932477723,24/04/1957,Salvador,SP,83811937,"600,00",02/02/2025,"600,00",True,Gold
+764,Lucas Pereira,lucaspereira@gmail.com,71929501737,22May1994,Rio de Janeiro,SC,89823714,"600,00",29/03/2024,"600,00",False,Silver
+765,  Yasmin Ibrahim  ,yasminibrahim@yahoo.com.br,79932179208,04/29/1971,Maringa,PR,98330581,"600,00",18/08/2024,"600,00",True,Platinum
+766,Iara Cardoso,iaracardoso@gmail.com,79978925389,09/06/1946,Salvador,DF,88580688,"600,00",13/08/2024,"600,00",True,Bronze
+767,Joao Hernandez,joaohernandez@empresa.com.br,83913499883,14/10/1956,Goiania,RS,89729903,"600,00",17/02/2025,"600,00",False,Gold
+768,Bruno Esteves,brunoesteves@hotmail.com,71954801671,08/06/1983,  Brasilia  ,MG,88749936,"600,00",07/02/2024,"600,00",False,Platinum
+769,  Vitoria Goncalves  ,vitoriagoncalves@yahoo.com.br,92922223998,04/17/1952,Campinas,CE,90783223,"600,00",08/06/2025,"600,00",True,Platinum
+770,Yasmin Goncalves,yasmingoncalves@hotmail.com,91978907550,05/03/2005,Belem,PA,88597663,"600,00",22/05/2024,"600,00",False,Bronze
+771,Vitoria Xavier,vitoriaxavier@yahoo.com.br,31965893668,11/28/1960,Curitiba,DF,96073122,"600,00",23/03/2024,"600,00",True,Silver
+772,Zuleica Hernandez,zuleicahernandez@yahoo.com.br,nan,19/08/2006,  Florianopolis  ,GO,89911703,"600,00",30/03/2024,"600,00",False,Gold
+773,Tiago Nogueira,tiagonogueira@yahoo.com.br,92971954110,28/12/1990,Joinville,RS,95266742,"600,00",08/09/2024,"600,00",True,Bronze
+774,Mariana Uchoa,marianauchoa@hotmail.com,21916867219,24/06/1974,Porto Alegre,PA,81782959,"600,00",04/04/2025,"600,00",False,Platinum
+775,Gabriela Almeida,"gabrielaalmeida@empresa,com,br",31974423610,07/06/2003,Florianopolis,PE,94996150,"600,00",23/06/2025,"600,00",True,Bronze
+776,Ulisses Oliveira,ulissesoliveira@gmail.com,41998277305,12/21/1947,Londrina,RJ,81861650,"600,00",18/01/2024,"600,00",False,Platinum
+777,Iara Ibrahim,iaraibrahim@outlook.com,67954729551,28/06/1971,Londrina,SP,99187092,"600,00",17/01/2025,nan,True,Bronze
+778,Rafael Ibrahim,rafaelibrahim@yahoo.com.br,83973541012,09/10/1948,Manaus,SC,97458834,"600,00",11/03/2025,"600,00",True,Bronze
+779,Mariana Watanabe,marianawatanabe@empresa.com.br,85981655075,23/05/1983,Brasilia,MG,89296599,"600,00",19/04/2025,"600,00",True,Platinum
+780,  Vitoria Ferreira  ,vitoriaferreira@gmail.com,51927167729,01/25/1996,Curitiba,PE,99267936,"600,00",12/07/2024,"600,00",True,Silver
+781,Rafael Xavier,rafaelxavier@yahoo.com.br,nan,07/25/1967,Fortaleza,RJ,99644086,nan,07/04/2024,"600,00",False,Silver
+782,Joao Barbosa,joaobarbosa@yahoo.com.br,31949964716,05/07/1991,Rio de Janeiro,SP,84338033,"600,00",04/06/2024,"600,00",True,Platinum
+783,Felipe Xavier,felipexavier636@hotmail.com,47909119496,09/08/1999,  Fortaleza  ,CE,98624962,"600,00",24/09/2024,"600,00",True,Silver
+784,Lucas Mendes,lucasmendes@gmail.com,11973497692,18/06/2003,Joinville,SC,96080263,"600,00",07/01/2024,"600,00",False,Gold
+785,Vitoria Teixeira,vitoriateixeira@yahoo.com.br,61927782200,03/07/2004,  Goiania  ,PE,99358203,"600,00",30/05/2024,"600,00",False,Bronze
+786,Zuleica Jardim,zuleicajardim@outlook.com,11944389083,23/11/1950,Campinas,DF,99932073,"600,00",26/04/2025,"600,00",False,Bronze
+787,Lucas Cardoso,lucascardoso@hotmail.com,81912855390,28/08/1990,  Salvador  ,SP,90517916,"600,00",11/07/2025,"600,00",False,Bronze
+788,Henrique Teixeira,,21946701185,29/05/1993,Curitiba,SC,85839083,"600,00",11/09/2024,"600,00",True,Silver
+789,Yasmin Xavier,yasminxavier@hotmail.com,83945661344,09/08/2007,Curitiba,SC,86675739,"600,00",26/01/2025,"600,00",True,Silver
+790,Otavio Jardim,otaviojardim@gmail.com,84979851697,06/09/1948,Londrina,PR,82584094,"600,00",04/04/2024,"600,00",True,Silver
+791,Karen Ribeiro,karenribeiro@outlook.com,62930552954,16/08/1946,  Brasilia  ,CE,95643974,"600,00",26/04/2025,"600,00",True,Platinum
+792,Bruno Ribeiro,brunoribeiro@hotmail.com,nan,05/08/1988,Belem,AM,90705719,"600,00",15/05/2024,nan,True,Silver
+793,  Xavier Mendes  ,xaviermendes@empresa.com.br,92973461097,21/03/1966,Joinville,SC,81442132,"600,00",01/09/2024,"600,00",True,Gold
+794,Ana Teixeira,"anateixeira@gmail,com",41927011961,13/07/1968,  Curitiba  ,RJ,99577375,"600,00",23/07/2024,"600,00",False,Platinum
+795,Bruno Teixeira,"brunoteixeira@yahoo,com,br",86948376270,04/04/1970,  Porto Alegre  ,RS,98266016,"600,00",18/08/2024,"600,00",False,Bronze
+796,Quesia Goncalves,quesiagoncalves@outlook.com,51997837078,31/01/1946,  Londrina  ,GO,90144554,"600,00",22/02/2025,"600,00",True,Silver
+797,  Nataly Mendes  ,natalymendes@hotmail.com,81904452163,05/08/1989,  Curitiba  ,MG,98745063,"600,00",25/02/2024,"600,00",True,Platinum
+798,Joao Oliveira,joaooliveira@gmail.com,81935022590,18/05/1996,Maringa,SC,94245987,"600,00",21/06/2025,"600,00",True,Platinum
+799,Mariana Duarte,marianaduarte@hotmail.com,92975367487,09/04/2007,Goiania,PR,80195825,"600,00",31/03/2024,"600,00",True,Silver
+800,Henrique Goncalves,henriquegoncalves@hotmail.com,47934467633,14/09/1959,Florianopolis,RJ,85417449,"600,00",16/04/2025,"600,00",True,Gold
+801,  Karen Uchoa  ,karenuchoa@hotmail.com,67900022069,27/04/1971,Fortaleza,RJ,99926009,"600,00",31/10/2024,"600,00",False,Silver
+802,Iara Watanabe,iarawatanabe@yahoo.com.br,31933054623,15/07/1961,Brasilia,MG,95317478,"600,00",03/06/2024,"600,00",False,Platinum
+803,Bruno Mendes,brunomendes822@outlook.com,61991506922,02/03/1990,Sao Paulo,SC,89748745,"600,00",21/10/2024,"600,00",True,Platinum
+804,Paula Zanetti,paulazanetti@empresa.com.br,11970403619,27/11/2001,Fortaleza,MG,98798458,"600,00",25/09/2024,"600,00",False,Gold
+805,Gabriela Silva,gabrielasilva@empresa.com.br,67998002267,18/02/1973,Joinville,AM,89718221,"600,00",31/07/2024,"600,00",True,Platinum
+806,Eduarda Duarte,eduardaduarte@empresa.com.br,31917096399,15May1961,Belem,PR,96308307,"600,00",16/06/2024,"600,00",False,Gold
+807,Xavier Queiroz,xavierqueiroz@gmail.com,47933598376,18/01/1951,  Londrina  ,PA,88369589,"600,00",28/01/2025,"600,00",False,Silver
+808,  Iara Mendes  ,iaramendes@outlook.com,83931589873,19/09/1993,Maringa,PE,93132135,"600,00",24/05/2024,"600,00",False,Platinum
+809,Quesia Nogueira,quesianogueira@outlook.com,79953706873,13/08/1945,Florianopolis,PE,97398876,"600,00",02/04/2025,"600,00",True,Platinum
+810,Karen Duarte,karenduarte@outlook.com,86948511080,07/11/1946,Recife,PE,94831020,"600,00",21/11/2024,"600,00",True,Bronze
+811,Iara Esteves,iaraesteves@empresa.com.br,79907949856,28/01/1964,  Fortaleza  ,AM,99903487,"600,00",13/01/2024,"600,00",True,Bronze
+812,Eduarda Ibrahim,,67986281215,11/03/1971,Sao Paulo,SC,87299586,"600,00",15/01/2024,"600,00",False,Platinum
+813,Bruno Esteves,"brunoesteves@yahoo,com,br",47907254821,15/09/1991,Joinville,DF,85032041,"600,00",18/01/2024,"600,00",False,Gold
+814,Nataly Oliveira,natalyoliveira@outlook.com,91969695379,27/05/1999,Florianopolis,BA,83474584,"600,00",16/06/2025,"600,00",True,Gold
+815,Ana Xavier,anaxavier@empresa.com.br,85968818873,13/06/1979,  Recife  ,CE,83023831,"600,00",27/08/2025,"600,00",False,Gold
+816,  Joao Yamamoto  ,joaoyamamoto@yahoo.com.br,84989901383,27/08/2003,  Fortaleza  ,GO,85611233,"600,00",29/05/2025,"600,00",True,Silver
+817,Nataly Klein,natalyklein@empresa.com.br,92945968635,15/07/1989,  Salvador  ,DF,94825766,"600,00",30/08/2025,"600,00",False,Bronze
+818,Bruno Ribeiro,brunoribeiro@outlook.com,83927467635,11/02/1992,Salvador,CE,82597154,"600,00",18/01/2024,"600,00",False,Platinum
+819,  Vitoria Teixeira  ,vitoriateixeira@outlook.com,41925349847,19/08/1945,Belo Horizonte,RJ,99206135,"600,00",07/02/2024,"600,00",True,Platinum
+820,Henrique Hernandez,henriquehernandez@empresa.com.br,85907574974,02/14/1982,Campinas,CE,94617013,"600,00",18/08/2024,"600,00",False,Gold
+821,  Vitoria Goncalves  ,vitoriagoncalves865@outlook.com,85905366856,27/07/1969,Joinville,AM,83429995,"600,00",14/11/2024,"600,00",True,Silver
+822,Wagner Duarte,wagnerduarte@hotmail.com,61965639777,13/09/1951,Brasilia,DF,84657237,"600,00",24/03/2025,"600,00",False,Bronze
+823,Joao Ibrahim,joaoibrahim@yahoo.com.br,62969348000,16/01/1988,Rio de Janeiro,RJ,91634596,"600,00",02/06/2025,"600,00",False,Bronze
+824,Vitoria Esteves,vitoriaesteves@hotmail.com,61906183239,06/05/1965,Belem,GO,98022355,"600,00",02/04/2024,"600,00",False,Bronze
+825,Otavio Goncalves,otaviogoncalves@yahoo.com.br,41956586844,24/04/1955,Rio de Janeiro,CE,85425078,"600,00",04/01/2024,"600,00",True,Silver
+826,Joao Duarte,joaoduarte@outlook.com,21996795180,24/01/1998,Londrina,RS,80939831,"600,00",22/10/2024,"600,00",False,Silver
+827,Sonia Xavier,soniaxavier@yahoo.com.br,61968097178,19/02/1945,Brasilia,PE,81050137,"600,00",07/02/2025,"600,00",True,Silver
+828,Tiago Silva,tiagosilva@gmail.com,84990724616,17/05/1974,  Curitiba  ,CE,89626027,"600,00",09/10/2024,"600,00",False,Gold
+829,Mariana Lima,marianalima@outlook.com,41990047287,01/01/1977,Porto Alegre,SP,95924701,"600,00",08/12/2024,"600,00",True,Silver
+830,Ana Goncalves,anagoncalves@empresa.com.br,79956242041,22/04/2006,Recife,DF,97479932,"600,00",12/02/2025,"600,00",True,Silver
+831,Carla Ibrahim,carlaibrahim@outlook.com,86947904243,03/10/1992,Belo Horizonte,DF,80264296,"600,00",20/11/2024,"600,00",False,Silver
+832,Diego Queiroz,diegoqueiroz@empresa.com.br,92978714984,10/11/1983,Rio de Janeiro,SP,95921817,"600,00",23/06/2024,"600,00",False,Bronze
+833,Quesia Klein,quesiaklein@hotmail.com,92900373339,15/08/1968,Recife,DF,81729189,"600,00",19/07/2024,"600,00",True,Bronze
+834,Wagner Klein,wagnerklein@gmail.com,71915652570,07/04/1973,Curitiba,CE,83127880,"600,00",25/08/2025,"600,00",True,Bronze
+835,Eduarda Esteves,eduardaesteves@gmail.com,47930173885,11/10/1951,Porto Alegre,SP,87327589,"600,00",19/09/2024,"600,00",True,Silver
+836,Diego Zanetti,diegozanetti@hotmail.com,84946416460,19/09/1984,Florianopolis,RS,94070197,"600,00",26/06/2024,"600,00",True,Platinum
+837,Nataly Yamamoto,natalyyamamoto@yahoo.com.br,92959063905,04/10/2006,Fortaleza,DF,88765499,"600,00",17/02/2025,"600,00",False,Bronze
+838,Quesia Barbosa,quesiabarbosa@yahoo.com.br,81935905083,19/12/1983,Goiania,CE,84170780,"600,00",12/12/2024,"600,00",True,Platinum
+839,Joao Goncalves,joaogoncalves@yahoo.com.br,nan,25/01/1974,Campinas,GO,96390767,"600,00",20/10/2024,"600,00",True,Gold
+840,Rafael Esteves,rafaelesteves@yahoo.com.br,92912647803,04/26/1980,Fortaleza,BA,80757509,"600,00",17/04/2025,"600,00",True,Silver
+841,Yasmin Almeida,yasminalmeida@outlook.com,92903123292,08/17/1962,  Recife  ,SP,89108858,"600,00",28/03/2025,"600,00",True,Gold
+842,Joao Lima,joaolima@hotmail.com,nan,15/04/1961,Salvador,PA,82897635,"600,00",27/01/2025,"600,00",True,Platinum
+843,Gabriela Klein,"gabrielaklein@gmail,com",81993581451,18/04/1952,Fortaleza,RS,93738853,"600,00",05/10/2024,"600,00",False,Platinum
+844,Joao Barbosa,joaobarbosa@empresa.com.br,31971139087,05/12/1980,Rio de Janeiro,BA,81558868,"600,00",15/08/2025,"600,00",False,Bronze
+845,Rafael Nogueira,rafaelnogueira@gmail.com,31998661648,12/01/1990,Belo Horizonte,DF,90461202,"600,00",24/09/2024,"600,00",True,Silver
+846,Sonia Duarte,soniaduarte@empresa.com.br,41914159118,16/06/1946,Porto Alegre,SP,97064568,"600,00",20/04/2025,"600,00",True,Silver
+847,Ulisses Jardim,ulissesjardim@yahoo.com.br,61971458805,10/06/1951,Brasilia,PE,83643673,"600,00",22/03/2024,"600,00",False,Gold
+848,Eduarda Duarte,eduardaduarte@gmail.com,61954311842,06/21/1981,Campinas,RJ,85750775,nan,18/12/2024,"600,00",True,Gold
+849,Joao Pereira,joaopereira@gmail.com,67985299613,01/10/1947,Manaus,AM,93169213,"600,00",14/12/2024,"600,00",False,Gold
+850,Otavio Uchoa,otaviouchoa@yahoo.com.br,81966377012,20/05/1971,Curitiba,PA,85899266,"600,00",15/08/2024,"600,00",True,Platinum
+851,Ana Uchoa,anauchoa@yahoo.com.br,41979603221,03/12/1955,Londrina,MG,98094151,"600,00",14/06/2024,"600,00",False,Silver
+852,Eduarda Queiroz,eduardaqueiroz@empresa.com.br,31906395390,04/02/1967,Belo Horizonte,DF,84771168,"600,00",17/11/2024,"600,00",False,Platinum
+853,  Nataly Jardim  ,natalyjardim@outlook.com,85985884936,22/10/2000,Curitiba,PR,90909892,"600,00",03/12/2024,"600,00",True,Bronze
+854,Iara Jardim,iarajardim@yahoo.com.br,47990211596,03/08/1979,Joinville,AM,95225571,"600,00",24/05/2025,"600,00",True,Silver
+855,Xavier Watanabe,xavierwatanabe@hotmail.com,79954386294,18/12/1969,Goiania,RS,89766367,"600,00",01/01/2024,"600,00",True,Bronze
+856,Xavier Barbosa,xavierbarbosa@yahoo.com.br,81972751708,07/24/2004,Porto Alegre,SP,91721225,"600,00",24/08/2025,"600,00",True,Silver
+857,Felipe Uchoa,felipeuchoa@yahoo.com.br,86929546293,28/01/1964,Florianopolis,RJ,84129315,"600,00",02/02/2024,"600,00",False,Platinum
+858,Karen Ribeiro,karenribeiro@yahoo.com.br,83928529175,07/07/1950,Curitiba,RJ,99653298,"600,00",06/08/2024,"600,00",True,Gold
+859,Zuleica Esteves,"zuleicaesteves849@hotmail,com",84964274011,01/31/1959,Rio de Janeiro,SP,93345475,"600,00",14/05/2024,"600,00",True,Bronze
+860,Felipe Mendes,felipemendes@hotmail.com,62920676815,19/01/1949,Belo Horizonte,AM,81477428,"600,00",01/01/2025,"600,00",True,Silver
+861,Lucas Teixeira,lucasteixeira@empresa.com.br,11930116596,21/10/2007,Porto Alegre,SC,94729593,nan,12/01/2025,"600,00",True,Bronze
+862,Lucas Xavier,lucasxavier@hotmail.com,85976269756,29/10/1984,Brasilia,GO,86416693,"600,00",01/05/2024,"600,00",True,Gold
+863,Nataly Nogueira,natalynogueira@outlook.com,84910963048,11/02/1994,Florianopolis,GO,84326251,"600,00",16/03/2024,"600,00",True,Silver
+864,Ana Mendes,anamendes@yahoo.com.br,nan,07/10/1970,  Porto Alegre  ,RJ,89373866,"600,00",13/08/2024,"600,00",False,Bronze
+865,Otavio Klein,otavioklein@hotmail.com,47939862198,02/03/1979,Campinas,PA,96085674,"600,00",05/05/2025,"600,00",True,Bronze
+866,Karen Goncalves,"karengoncalves@hotmail,com",11963546785,01/02/1978,Brasilia,PE,91318225,"600,00",14/05/2025,"600,00",True,Gold
+867,Karen Yamamoto,karenyamamoto@yahoo.com.br,71996447977,30/06/1981,Manaus,SP,90714392,"600,00",27/02/2025,"600,00",True,Platinum
+868,  Nataly Yamamoto  ,natalyyamamoto@yahoo.com.br,62952351356,10/02/1956,Recife,RS,86096150,"600,00",23/03/2025,"600,00",False,Bronze
+869,Wagner Vieira,wagnervieira@gmail.com,85922437120,08/04/1963,Manaus,PR,94836568,"600,00",26/06/2025,"600,00",False,Gold
+870,Otavio Uchoa,otaviouchoa@hotmail.com,67951882049,23/06/1980,Londrina,GO,86568004,"600,00",12/08/2024,"600,00",True,Platinum
+871,Bruno Xavier,,67988984334,01/22/1947,Recife,CE,82811714,"600,00",07/07/2025,"600,00",True,Platinum
+872,Joao Nogueira,joaonogueira@empresa.com.br,84945861851,21/04/1964,Porto Alegre,SC,89560400,"600,00",01/01/2024,"600,00",False,Gold
+873,Ulisses Barbosa,ulissesbarbosa@gmail.com,21946835182,24May1981,  Manaus  ,MG,86256534,"600,00",14/12/2024,"600,00",False,Gold
+874,Karen Lima,"karenlima@hotmail,com",83984596206,28/03/1948,Belo Horizonte,CE,93264918,"600,00",08/02/2024,"600,00",False,Bronze
+875,  Nataly Cardoso  ,natalycardoso@empresa.com.br,84918482395,27/07/2004,Brasilia,AM,80920340,"600,00",08/03/2024,"600,00",True,Gold
+876,Carla Silva,carlasilva@outlook.com,81939225054,01/03/2004,Joinville,RJ,82180697,"600,00",08/05/2025,"600,00",True,Bronze
+877,Gabriela Almeida,"gabrielaalmeida@hotmail,com",51975693928,30/05/1973,Campinas,DF,96969379,nan,03/03/2024,"600,00",False,Silver
+878,Gabriela Almeida,gabrielaalmeida@empresa.com.br,11974824666,25/11/1985,Florianopolis,DF,84203709,"600,00",28/05/2025,"600,00",True,Gold
+879,Bruno Almeida,brunoalmeida145@gmail.com,67923074169,03Feb2004,Londrina,PA,83942694,"600,00",02/04/2025,"600,00",False,Platinum
+880,Lucas Yamamoto,lucasyamamoto625@yahoo.com.br,83985854842,28/06/1959,  Salvador  ,AM,95037639,"600,00",23/01/2025,"600,00",False,Silver
+881,Iara Hernandez,iarahernandez@gmail.com,62969031820,08/12/1948,  Belo Horizonte  ,SC,96512033,"600,00",04/06/2024,"600,00",True,Bronze
+882,Otavio Klein,otavioklein@empresa.com.br,91981984391,23Feb1981,Rio de Janeiro,SP,92692873,"600,00",15/09/2024,"600,00",False,Platinum
+883,  Paula Watanabe  ,paulawatanabe@yahoo.com.br,71964369826,27/03/1945,Florianopolis,CE,81626088,"600,00",24/05/2024,"600,00",True,Platinum
+884,Rafael Yamamoto,rafaelyamamoto@hotmail.com,61909344246,05/01/1963,Campinas,MG,97246840,"600,00",29/02/2024,"600,00",True,Bronze
+885,Zuleica Jardim,zuleicajardim@empresa.com.br,62955035565,06/06/1949,Florianopolis,PR,87944788,"600,00",30/03/2025,"600,00",True,Bronze
+886,Carla Esteves,carlaesteves@yahoo.com.br,71975185201,05/04/1948,Goiania,MG,94177509,"600,00",05/08/2024,"600,00",False,Bronze
+887,Rafael Silva,rafaelsilva@outlook.com,84958321471,07/06/1989,Londrina,GO,93407949,"600,00",08/05/2024,"600,00",True,Silver
+888,Xavier Uchoa,xavieruchoa@hotmail.com,51969658082,27/09/2002,  Joinville  ,GO,98032938,"600,00",08/02/2025,nan,True,Silver
+889,Joao Silva,joaosilva@outlook.com,86978688616,23/12/1994,Londrina,PR,82373940,"600,00",28/06/2025,"600,00",False,Bronze
+890,Yasmin Mendes,yasminmendes@empresa.com.br,47996706775,08/31/1972,Rio de Janeiro,CE,80142735,"600,00",27/02/2024,"600,00",False,Bronze
+891,Otavio Ribeiro,otavioribeiro@yahoo.com.br,62902723314,09/22/1950,  Belo Horizonte  ,RJ,98730772,"600,00",06/02/2024,"600,00",True,Silver
+892,Felipe Hernandez,felipehernandez@yahoo.com.br,11962983754,02/07/1960,Londrina,PR,91910244,"600,00",09/03/2025,"600,00",True,Platinum
+893,Karen Pereira,karenpereira@gmail.com,81966849127,14/12/2002,Brasilia,CE,82149287,"600,00",16/01/2025,"600,00",True,Gold
+894,Lucas Queiroz,lucasqueiroz@outlook.com,62957869962,11/22/1971,Campinas,MG,91957537,"600,00",06/06/2024,"600,00",False,Platinum
+895,Ulisses Nogueira,ulissesnogueira@empresa.com.br,71939958055,07/05/1950,Sao Paulo,DF,93136474,"600,00",02/02/2024,"600,00",True,Gold
+896,Yasmin Teixeira,"yasminteixeira@empresa,com,br",86923246156,11/06/1995,Goiania,PA,83602362,nan,21/05/2024,"600,00",True,Gold
+897,Ana Vieira,anavieira@empresa.com.br,31922818602,30/08/1974,Fortaleza,DF,91553589,"600,00",12/04/2024,"600,00",True,Silver
+898,Iara Esteves,iaraesteves@yahoo.com.br,21985786955,01/04/1971,Recife,PA,99779843,"600,00",22/09/2024,"600,00",True,Bronze
+899,Joao Lima,joaolima@outlook.com,21968463223,12/06/1967,Belo Horizonte,MG,92273986,"600,00",23/05/2024,"600,00",False,Platinum
+900,Diego Ferreira,diegoferreira@gmail.com,85964263617,17/09/1983,Sao Paulo,MG,94281762,"600,00",28/08/2024,"600,00",False,Bronze
+901,  Sonia Ribeiro  ,soniaribeiro@hotmail.com,62916373838,14/06/1948,Fortaleza,BA,81873148,"600,00",02/04/2024,"600,00",True,Silver
+902,Eduarda Ribeiro,eduardaribeiro@hotmail.com,81972347202,07/03/1947,  Rio de Janeiro  ,SC,89802254,"600,00",17/07/2024,"600,00",True,Silver
+903,Vitoria Uchoa,vitoriauchoa@empresa.com.br,79902587684,22/12/1979,Belo Horizonte,CE,94003144,"600,00",07/04/2025,"600,00",True,Bronze
+904,Tiago Esteves,tiagoesteves@empresa.com.br,79972524568,09/05/1995,  Londrina  ,PR,91346870,"600,00",14/05/2025,"600,00",False,Gold
+905,Iara Ibrahim,iaraibrahim@gmail.com,nan,17/12/1949,Sao Paulo,GO,81547243,"600,00",30/05/2025,"600,00",False,Platinum
+906,Iara Nogueira,iaranogueira@yahoo.com.br,47939337946,18/01/1985,  Sao Paulo  ,MG,89201384,nan,17/11/2024,"600,00",False,Silver
+907,Vitoria Ribeiro,vitoriaribeiro@hotmail.com,31963369568,21/09/1995,Campinas,PR,95265767,"600,00",05/05/2025,"600,00",True,Bronze
+908,Bruno Almeida,brunoalmeida@gmail.com,86901448483,05/06/1999,Salvador,DF,82651783,"600,00",09/08/2024,"600,00",True,Gold
+909,Joao Lima,joaolima@outlook.com,81955447381,10/01/1985,Maringa,SP,93947246,"600,00",28/05/2025,"600,00",True,Silver
+910,Yasmin Oliveira,yasminoliveira@gmail.com,nan,10/11/2004,Sao Paulo,RJ,85764506,"600,00",05/11/2024,"600,00",True,Platinum
+911,Zuleica Oliveira,zuleicaoliveira@gmail.com,81930405841,17/04/1982,Brasilia,GO,97650578,"600,00",13/09/2024,"600,00",False,Platinum
+912,Rafael Yamamoto,"rafaelyamamoto@gmail,com",62965794719,12/03/1955,Goiania,RJ,89180065,"600,00",29/02/2024,"600,00",False,Silver
+913,Diego Cardoso,diegocardoso@hotmail.com,91931551334,08/02/1988,Maringa,DF,98892488,"600,00",22/06/2025,"600,00",True,Gold
+914,Eduarda Duarte,eduardaduarte@gmail.com,84958319466,09/03/1989,Belo Horizonte,PR,93367204,"600,00",16/11/2024,"600,00",False,Bronze
+915,Otavio Ferreira,otavioferreira@yahoo.com.br,61979959308,04/07/1997,Recife,GO,86788658,"600,00",19/06/2024,"600,00",True,Bronze
+916,Vitoria Watanabe,vitoriawatanabe@yahoo.com.br,41939662259,11/08/1972,Joinville,AM,89694380,"600,00",05/09/2024,"600,00",True,Gold
+917,Henrique Vieira,henriquevieira@empresa.com.br,67935683525,06/11/1998,  Belem  ,DF,93794919,"600,00",09/03/2024,"600,00",True,Platinum
+918,  Mariana Zanetti  ,marianazanetti@empresa.com.br,67916004406,11/07/1964,Salvador,SP,81511666,"600,00",09/01/2024,"600,00",True,Gold
+919,Otavio Esteves,otavioesteves@gmail.com,51917638551,12/05/1980,Recife,DF,94050463,"600,00",30/07/2024,"600,00",False,Silver
+920,Ana Watanabe,anawatanabe@outlook.com,67915419605,05/12/1983,Sao Paulo,MG,90158297,"600,00",15/01/2024,"600,00",True,Bronze
+921,  Vitoria Vieira  ,vitoriavieira@outlook.com,71971967739,23/12/2003,  Rio de Janeiro  ,GO,83376316,"600,00",02/03/2025,"600,00",True,Gold
+922,Otavio Barbosa,otaviobarbosa@hotmail.com,21983323934,09/01/1973,  Rio de Janeiro  ,MG,85718247,"600,00",14/08/2025,"600,00",True,Bronze
+923,Tiago Ferreira,tiagoferreira@empresa.com.br,67915212071,31/05/1972,Recife,PR,93914689,"600,00",01/06/2024,"600,00",True,Platinum
+924,Vitoria Queiroz,vitoriaqueiroz@hotmail.com,41986317246,02/11/1970,Salvador,BA,98169337,"600,00",29/07/2025,"600,00",True,Silver
+925,Lucas Ferreira,lucasferreira@empresa.com.br,81999745456,04/06/1970,Curitiba,PE,81468264,nan,08/04/2024,"600,00",True,Gold
+926,Zuleica Silva,zuleicasilva@hotmail.com,67946667585,24/12/1996,Campinas,AM,80729893,"600,00",22/02/2025,"600,00",False,Platinum
+927,  Otavio Cardoso  ,otaviocardoso@hotmail.com,85916816516,21/07/2003,Goiania,GO,92594503,"600,00",01/06/2025,"600,00",True,Bronze
+928,Wagner Goncalves,wagnergoncalves@outlook.com,91953681305,24/09/1996,Curitiba,DF,85830814,"600,00",14/11/2024,"600,00",True,Gold
+929,Karen Zanetti,karenzanetti@outlook.com,62988296303,17/02/1991,Campinas,DF,93343880,"600,00",12/09/2024,"600,00",True,Silver
+930,Ana Xavier,anaxavier@gmail.com,92994717182,24/03/1958,  Recife  ,RS,87085396,"600,00",20/06/2025,"600,00",False,Bronze
+931,Joao Vieira,joaovieira@empresa.com.br,62938112719,19/12/1952,Porto Alegre,SC,94630308,"600,00",18/02/2024,"600,00",False,Bronze
+932,Eduarda Mendes,eduardamendes@yahoo.com.br,92999199001,18/05/2006,Londrina,SC,99249362,"600,00",19/10/2024,"600,00",False,Silver
+933,Ana Yamamoto,anayamamoto@yahoo.com.br,11943443462,17/07/1998,Londrina,SC,95439784,"600,00",01/11/2024,"600,00",False,Gold
+934,  Ulisses Watanabe  ,ulisseswatanabe@outlook.com,81982943457,15/10/1977,Salvador,BA,94084032,nan,03/07/2024,"600,00",True,Platinum
+935,  Iara Oliveira  ,iaraoliveira@empresa.com.br,71995836925,17/03/1952,Joinville,GO,89066411,"600,00",21/11/2024,"600,00",False,Platinum
+936,Quesia Uchoa,quesiauchoa@yahoo.com.br,85995607743,15/06/1978,Brasilia,RJ,97260657,"600,00",17/12/2024,"600,00",False,Bronze
+937,Xavier Ferreira,xavierferreira@hotmail.com,79945588883,01/12/1949,Campinas,RJ,81056315,"600,00",31/03/2024,"600,00",True,Platinum
+938,Iara Oliveira,iaraoliveira@empresa.com.br,71921001043,08/04/1990,Salvador,PR,93553317,"600,00",31/12/2024,"600,00",True,Platinum
+939,  Gabriela Lima  ,"gabrielalima@hotmail,com",67968556214,19/09/1977,Goiania,AM,81896828,"600,00",15/05/2025,"600,00",False,Gold
+940,Felipe Ribeiro,feliperibeiro@outlook.com,41961738548,08/10/1964,Florianopolis,MG,81818200,"600,00",08/08/2025,"600,00",True,Bronze
+941,Wagner Teixeira,wagnerteixeira@hotmail.com,81994088590,09/06/1950,Sao Paulo,GO,82855302,"600,00",28/04/2025,"600,00",True,Bronze
+942,Lucas Goncalves,lucasgoncalves61@gmail.com,71901688369,01/29/2000,Belo Horizonte,AM,94160243,"600,00",16/11/2024,"600,00",False,Platinum
+943,Xavier Ferreira,xavierferreira@gmail.com,67955903501,16/08/1982,Rio de Janeiro,GO,80565060,"600,00",26/01/2025,"600,00",True,Bronze
+944,Felipe Vieira,felipevieira@gmail.com,47924892371,06/20/2000,Goiania,PE,88879508,nan,29/05/2024,"600,00",True,Silver
+945,Henrique Esteves,henriqueesteves@outlook.com,85908054297,20/02/1995,Sao Paulo,PA,84000148,"600,00",11/05/2024,"600,00",False,Platinum
+946,Karen Vieira,karenvieira@gmail.com,nan,19/07/1982,Curitiba,RJ,99889989,"600,00",03/05/2025,"600,00",False,Platinum
+947,Xavier Silva,xaviersilva@yahoo.com.br,41963726394,02/25/1989,Campinas,MG,93945713,"600,00",06/06/2025,"600,00",True,Gold
+948,Vitoria Barbosa,vitoriabarbosa@hotmail.com,31916004170,02/23/1952,Salvador,AM,90789124,"600,00",07/08/2024,"600,00",True,Silver
+949,Yasmin Klein,yasminklein@empresa.com.br,31996522999,07/01/1956,Sao Paulo,MG,87046654,"600,00",02/01/2025,"600,00",True,Platinum
+950,Paula Almeida,paulaalmeida@outlook.com,91967806435,13/07/2004,Porto Alegre,RJ,83630539,"600,00",11/06/2024,"600,00",True,Bronze
+951,Karen Nogueira,karennogueira@outlook.com,84981139231,12/01/1988,Brasilia,DF,84802081,"600,00",11/08/2025,"600,00",False,Gold
+952,Vitoria Zanetti,vitoriazanetti@empresa.com.br,86944989805,29/03/1992,  Salvador  ,PA,83942859,"600,00",09/06/2024,"600,00",False,Gold
+953,Henrique Ibrahim,henriqueibrahim@outlook.com,84950902828,03/10/1995,Joinville,MG,92976803,"600,00",31/05/2025,"600,00",True,Bronze
+954,Ulisses Esteves,ulissesesteves@outlook.com,61950023742,03/10/2003,Sao Paulo,BA,86684201,"600,00",02/06/2025,"600,00",True,Bronze
+955,Otavio Xavier,otavioxavier@empresa.com.br,81953465279,09/02/1948,Curitiba,AM,96245139,"600,00",11/05/2025,"600,00",True,Silver
+956,Joao Teixeira,joaoteixeira@gmail.com,81966978281,02/09/1952,Porto Alegre,SC,96289464,"600,00",10/08/2024,"600,00",False,Bronze
+957,Nataly Ibrahim,natalyibrahim@empresa.com.br,71964781041,07/13/2007,Curitiba,SC,92276379,"600,00",31/05/2025,"600,00",False,Platinum
+958,Tiago Yamamoto,tiagoyamamoto@hotmail.com,92929139519,31May1969,Joinville,SC,95774019,"600,00",24/12/2024,"600,00",False,Bronze
+959,Ulisses Jardim,ulissesjardim@yahoo.com.br,84992353862,04/04/2007,Salvador,PR,99455474,"600,00",25/04/2024,"600,00",False,Gold
+960,Ulisses Ibrahim,ulissesibrahim@hotmail.com,31942999790,01/01/1981,Goiania,CE,83120402,"600,00",16/12/2024,"600,00",False,Gold
+961,Eduarda Hernandez,eduardahernandez@empresa.com.br,81979625938,12/10/1958,  Joinville  ,PE,93452171,"600,00",25/09/2024,"600,00",False,Silver
+962,  Ana Jardim  ,anajardim@gmail.com,85915735169,03/03/1956,Londrina,DF,96980729,"600,00",23/11/2024,"600,00",False,Bronze
+963,Otavio Almeida,otavioalmeida@yahoo.com.br,11906442718,01/01/1948,Brasilia,DF,83206407,"600,00",01/07/2024,"600,00",False,Gold
+964,Henrique Vieira,henriquevieira@empresa.com.br,61970198975,16/11/1988,Goiania,AM,88850797,"600,00",16/05/2024,"600,00",True,Silver
+965,  Tiago Almeida  ,"tiagoalmeida@hotmail,com",51980696075,09/12/1995,Brasilia,MG,86423720,"600,00",05/03/2024,"600,00",True,Bronze
+966,Vitoria Xavier,vitoriaxavier@outlook.com,47963871412,03/31/1987,Belem,PA,94062961,"600,00",10/03/2024,"600,00",True,Platinum
+967,  Zuleica Ferreira  ,zuleicaferreira@hotmail.com,41995949015,17/05/1980,Porto Alegre,DF,92199716,"600,00",27/09/2024,"600,00",True,Platinum
+968,  Diego Queiroz  ,diegoqueiroz@empresa.com.br,31935037259,07/31/1994,Curitiba,RJ,96809308,"600,00",30/08/2025,"600,00",False,Platinum
+969,Iara Mendes,"iaramendes@hotmail,com",62932494980,02/29/1960,Sao Paulo,SP,96651493,"600,00",02/02/2025,"600,00",False,Bronze
+970,Sonia Almeida,soniaalmeida@yahoo.com.br,85961803365,08Feb2002,Curitiba,PA,89238558,"600,00",06/04/2024,"600,00",True,Bronze
+971,Mariana Silva,marianasilva@hotmail.com,71953827563,01/01/1981,Maringa,AM,88197815,"600,00",24/08/2024,"600,00",True,Platinum
+972,Ana Hernandez,anahernandez@outlook.com,85908693021,17/11/1993,Goiania,SP,85739120,"600,00",20/04/2025,"600,00",False,Gold
+973,Xavier Esteves,xavieresteves@outlook.com,51918527937,10/17/1969,Curitiba,BA,96498847,"600,00",25/08/2024,"600,00",False,Silver
+974,Otavio Hernandez,otaviohernandez@outlook.com,67961834566,23/03/1949,  Belo Horizonte  ,RJ,98722338,"600,00",10/07/2025,"600,00",False,Bronze
+975,Henrique Klein,henriqueklein@empresa.com.br,86904394149,13/08/1951,Joinville,PR,92850259,"600,00",26/01/2025,"600,00",False,Bronze
+976,Henrique Oliveira,henriqueoliveira@outlook.com,83974958615,02/14/1974,  Sao Paulo  ,RS,95480778,"600,00",10/04/2025,"600,00",False,Bronze
+977,Xavier Xavier,xavierxavier@yahoo.com.br,41900055951,07/04/1955,Sao Paulo,GO,89486166,"600,00",18/12/2024,"600,00",True,Gold
+978,Sonia Watanabe,soniawatanabe@yahoo.com.br,86994398744,19/08/1975,Maringa,PA,92694699,"600,00",01/08/2025,"600,00",True,Silver
+979,Yasmin Goncalves,yasmingoncalves@empresa.com.br,81968291186,08/08/1964,Florianopolis,PA,94511904,"600,00",23/02/2025,"600,00",False,Bronze
+980,Gabriela Silva,gabrielasilva@yahoo.com.br,51972752142,21/01/1956,Sao Paulo,DF,93332552,"600,00",05/03/2025,"600,00",True,Bronze
+981,Vitoria Yamamoto,vitoriayamamoto@hotmail.com,67962101369,30/04/1965,Curitiba,PE,91174448,"600,00",18/12/2024,"600,00",True,Silver
+982,Quesia Klein,"quesiaklein@gmail,com",67987006510,18/11/1945,Belem,SP,90616253,"600,00",24/12/2024,"600,00",True,Bronze
+983,Zuleica Almeida,zuleicaalmeida@yahoo.com.br,83904493956,26/01/1948,Porto Alegre,MG,86843974,"600,00",29/11/2024,"600,00",True,Platinum
+984,Yasmin Pereira,,nan,12/03/1980,Campinas,SP,85988554,"600,00",13/03/2025,"600,00",False,Silver
+985,Felipe Queiroz,felipequeiroz@outlook.com,51900592347,09/17/1969,Goiania,RS,88816415,"600,00",20/05/2024,"600,00",False,Bronze
+986,Lucas Ferreira,lucasferreira@empresa.com.br,nan,03/15/1946,Belem,BA,98199221,"600,00",03/06/2025,"600,00",True,Silver
+987,Iara Klein,iaraklein@empresa.com.br,67987086607,26/09/1995,  Maringa  ,SC,84231358,"600,00",09/05/2025,"600,00",True,Bronze
+988,  Xavier Lima  ,xavierlima@hotmail.com,11944014239,01/09/2001,Joinville,SP,99803661,nan,07/05/2024,"600,00",True,Silver
+989,Karen Oliveira,karenoliveira@gmail.com,71991968663,05/25/1991,Florianopolis,SC,94730241,"600,00",12/03/2024,"600,00",True,Platinum
+990,Yasmin Ibrahim,,85985019116,30/07/1972,Brasilia,SP,88854950,"600,00",14/02/2024,"600,00",True,Silver
+991,Nataly Barbosa,natalybarbosa68@gmail.com,81979124736,18/04/1956,Manaus,PE,99647236,"600,00",06/06/2024,"600,00",False,Platinum
+992,Bruno Duarte,brunoduarte@hotmail.com,85930203986,22/02/1946,Rio de Janeiro,SC,87124337,"600,00",18/06/2025,"600,00",True,Silver
+993,Sonia Ribeiro,soniaribeiro@outlook.com,nan,09/01/1972,Curitiba,RJ,81399736,"600,00",29/08/2024,"600,00",False,Bronze
+994,Bruno Nogueira,brunonogueira@yahoo.com.br,71923868399,17/10/1960,Belem,PA,94184453,"600,00",19/05/2025,"600,00",True,Bronze
+995,Joao Hernandez,joaohernandez@yahoo.com.br,51956813859,06/11/1953,Fortaleza,MG,88144644,"600,00",07/05/2025,"600,00",True,Gold
+996,Diego Ferreira,diegoferreira584@yahoo.com.br,61975143576,05/04/1956,  Goiania  ,SP,82941374,"600,00",30/11/2024,"600,00",True,Platinum
+997,Iara Uchoa,iarauchoa@gmail.com,71955857443,11/10/1973,Florianopolis,SC,99214093,"600,00",06/02/2024,"600,00",True,Bronze
+998,Lucas Watanabe,lucaswatanabe@outlook.com,31977072803,09/09/1965,Belem,SP,80571860,"600,00",14/05/2024,"600,00",True,Silver
+999,Vitoria Ribeiro,vitoriaribeiro@yahoo.com.br,11975078140,03/03/2004,Manaus,SC,95092898,"600,00",02/01/2025,"600,00",True,Platinum
+1000,Quesia Barbosa,"quesiabarbosa939@empresa,com,br",84915731820,30/12/1994,Porto Alegre,BA,83754395,"600,00",31/07/2024,"600,00",True,Platinum
