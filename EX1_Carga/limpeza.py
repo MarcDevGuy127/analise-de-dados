@@ -71,6 +71,54 @@ df_csv["telefone"] = df_csv["telefone"].str.replace(r"^\+?55", "", regex=True)
 # Formatar a exibição (ex: DD/MM/AAAA)
 #df_csv["data_nascimento"] = df_csv["data_nascimento"].dt.strftime("%d/%m/%Y")
 
+meses = {
+    "Jan": "01",
+    "Fev": "02",
+    "Mar": "03",
+    "Abr": "04",
+    "Mai": "05",
+    "Jun": "06",
+    "Jul": "07",
+    "Ago": "08",
+    "Set": "09",
+    "Out": "10",
+    "Nov": "11",
+    "Dez": "12",
+    "Sep": "09",  # inglês
+    "Apr": "04",
+    "Aug": "08",
+    "Oct": "10",
+    "Dec": "12"
+}
+
+# Substituir os nomes dos meses por números
+for mes, num in meses.items():
+    df_csv["data_nascimento"] = df_csv["data_nascimento"].astype(str).str.replace(mes, f"/{num}/", regex=True)
+
+# Corrigir separadores, se necessário
+df_csv["data_nascimento"] = (
+    df_csv["data_nascimento"]
+    .str.replace("-", "/")
+    .str.replace(" ", "")
+)
+
+# Função para inverter manualmente as datas
+def inverter_data(data):
+    partes = str(data).split("/")
+    if len(partes) == 3:
+        # Detecta se o formato é AAAA/MM/DD (ano vem primeiro)
+        if len(partes[0]) == 4:
+            ano, mes, dia = partes
+            return f"{dia}/{mes}/{ano}"
+        # Caso contrário, já está no formato DD/MM/AAAA
+        else:
+            dia, mes, ano = partes
+            return f"{dia}/{mes}/{ano}"
+    return data  # Se não tiver 3 partes, deixa como está
+
+# Aplicar a função a toda a coluna
+df_csv["data_nascimento"] = df_csv["data_nascimento"].apply(inverter_data)
+
 print(df_csv)
 print(df_csv['data_nascimento'])
 
