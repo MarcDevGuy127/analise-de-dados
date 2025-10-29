@@ -123,7 +123,28 @@ df_csv["cep"] = (
     .str.replace("-", "")   # tira traços
 )
 
-print(df_csv)
-print(df_csv['cep'])
+# remover espaços e - dentro de cada célula
+df_csv["renda_mensal"] = (
+    df_csv["renda_mensal"]
+    .astype(str)
+    .str.replace(" ", "")   # tira espaços
+    .str.replace("R$", "")   # tira R$
+)
 
-df_csv['cep'].dtype
+# Garantir que tudo é texto e remover espaços
+df_csv["renda_mensal"] = df_csv["renda_mensal"].astype(str).str.strip()
+
+# Substituir vírgula por ponto para poder converter em número
+df_csv["renda_mensal"] = df_csv["renda_mensal"].str.replace(",", ".", regex=False)
+
+# Converter para número (float)
+df_csv["renda_mensal"] = pd.to_numeric(df_csv["renda_mensal"], errors="coerce")
+
+# Formatar novamente com vírgula e duas casas decimais
+df_csv["renda_mensal"] = df_csv["renda_mensal"].map(lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
+
+
+print(df_csv)
+print(df_csv['renda_mensal'])
+
+df_csv['renda_mensal'].dtype
