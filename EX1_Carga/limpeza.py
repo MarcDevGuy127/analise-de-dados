@@ -131,17 +131,25 @@ df_csv["renda_mensal"] = (
     .str.replace("R$", "")   # tira R$
 )
 
+df_csv["valor_compra_mais_recente"] = (
+    df_csv["valor_compra_mais_recente"]
+    .astype(str)
+    .str.replace(" ", "")   # tira espaços
+    .str.replace("R$", "")   # tira R$
+)
+
 # Garantir que tudo é texto e remover espaços
 df_csv["renda_mensal"] = df_csv["renda_mensal"].astype(str).str.strip()
-
+df_csv["valor_compra_mais_recente"] = df_csv["valor_compra_mais_recente"].astype(str).str.strip()
 # Substituir vírgula por ponto para poder converter em número
 df_csv["renda_mensal"] = df_csv["renda_mensal"].str.replace(",", ".", regex=False)
-
+df_csv["valor_compra_mais_recente"] = df_csv["valor_compra_mais_recente"].str.replace(",", ".", regex=False)
 # Converter para número (float)
 df_csv["renda_mensal"] = pd.to_numeric(df_csv["renda_mensal"], errors="coerce")
-
+df_csv["valor_compra_mais_recente"] = pd.to_numeric(df_csv["valor_compra_mais_recente"], errors="coerce")
 # Formatar novamente com vírgula e duas casas decimais
 df_csv["renda_mensal"] = df_csv["renda_mensal"].map(lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
+df_csv["valor_compra_mais_recente"] = df_csv["valor_compra_mais_recente"].map(lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
 
 
 meses = {
@@ -178,10 +186,24 @@ df_csv["data_compra_mais_recente"] = (
 # Aplicar a função a toda a coluna
 df_csv["data_compra_mais_recente"] = df_csv["data_compra_mais_recente"].apply(inverter_data)
 
+# Garantir que tudo é texto e remover espaços
+df_csv["renda_mensal"] = df_csv["renda_mensal"].astype(str).str.strip()
+df_csv["valor_compra_mais_recente"] = df_csv["valor_compra_mais_recente"].astype(str).str.strip()
 
+# Substituir vírgula por ponto para poder converter em número
+df_csv["renda_mensal"] = df_csv["renda_mensal"].str.replace(",", ".", regex=False)
+df_csv["valor_compra_mais_recente"] = df_csv["valor_compra_mais_recente"].str.replace(",", ".", regex=False)
+
+# Converter para número (float)
+df_csv["renda_mensal"] = pd.to_numeric(df_csv["renda_mensal"], errors="coerce")
+df_csv["valor_compra_mais_recente"] = pd.to_numeric(df_csv["valor_compra_mais_recente"], errors="coerce")
+
+# Formatar novamente com vírgula e duas casas decimais
+df_csv["renda_mensal"] = df_csv["renda_mensal"].map(lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
+df_csv["valor_compra_mais_recente"] = df_csv["valor_compra_mais_recente"].map(lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
 
 
 print(df_csv)
-print(df_csv['data_compra_mais_recente'])
+print(df_csv['valor_compra_mais_recente'])
 
-df_csv['data_compra_mais_recente'].dtype
+df_csv['valor_compra_mais_recente'].dtype
