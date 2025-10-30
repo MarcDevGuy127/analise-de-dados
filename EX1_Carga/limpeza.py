@@ -208,7 +208,10 @@ df_csv["valor_compra_mais_recente"] = pd.to_numeric(df_csv["valor_compra_mais_re
 df_csv["renda_mensal"] = df_csv["renda_mensal"].map(lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
 df_csv["valor_compra_mais_recente"] = df_csv["valor_compra_mais_recente"].map(lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
 
-
+df_csv['ativo'] = df_csv['ativo'].replace({ # substitui e formata valores para True ou False
+    True: 'SIM',
+    False: 'NAO'
+})
 print(df_csv.head())
 #print(df_csv['valor_compra_mais_recente'])
 
@@ -217,3 +220,5 @@ print(df_csv.head())
 
 # Salvar o DataFrame formatado em um novo arquivo CSV
 df_csv.to_csv("modelo_resultado_limpeza.csv", index=False, encoding="utf-8-sig")
+
+print("The file modelo_resultado_limpeza.csv is updated!")
