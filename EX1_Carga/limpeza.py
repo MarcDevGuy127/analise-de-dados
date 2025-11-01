@@ -6,6 +6,8 @@ df_csv = pd.read_csv('dados_clientes_sujos.csv') # le o arquivo .csv
 print(df_csv.head()) # acessa cabecalho das tabelas
 
 df_csv['nome'] = df_csv['nome'].apply(unidecode) # remove acentos
+df_csv['nome'] = df_csv['nome'].str.strip() # remove espacos da coluna nome
+
 df_csv.columns = df_csv.columns.str.strip() # remove espacos de todas as colunas
 
 df_csv['ativo'] = df_csv['ativo'].str.strip() # remove espacos da coluna ativo
