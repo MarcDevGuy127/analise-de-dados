@@ -1,0 +1,601 @@
+order_id,order_date,customer_id,city,state,channel,product_category,unit_price,quantity,discount_pct,shipping_cost,carrier,payment_method,declared_weight,actual_weight,days_in_transit,delivered_on,returned,rating,total_value,month,ticket,out_unit_price,out_total_value,out_ticket
+ORD100000,2024-04-12,C7731,Niterói,RJ,Mobile App,Sports,956.08,1,0.111,51.79,Correios,Boleto,1.251,1.311,4,2024-04-16,0,5,1007.87,2024-04,1007.87,False,False,False
+ORD100001,2024-12-14,C2810,São Paulo,SP,Marketplace,Fashion,278.91,1,0.103,44.76,Total Express,Debit Card,0.295,0.287,3,2024-12-17,0,3,323.67,2024-12,323.67,False,False,False
+ORD100002,2024-09-27,C1133,Curitiba,PR,Marketplace,Beauty,337.18,1,0.047,17.67,Jadlog,Cash,0.337,0.365,2,2024-09-29,0,5,354.85,2024-09,354.85,False,False,False
+ORD100003,2024-04-16,C6063,Guarulhos,SP,Web,Electronics,927.93,1,0.045,16.79,Loggi,Credit Card,0.883,0.824,4,2024-04-20,0,5,944.72,2024-04,944.72,False,False,False
+ORD100004,2024-03-12,C8026,Porto Alegre,RS,Marketplace,Fashion,50.16,4,0.101,22.85,Jadlog,Cash,0.063,0.064,1,2024-03-13,0,3,223.49,2024-03,55.8725,False,False,False
+ORD100005,2024-07-07,C9175,Belo Horizonte,MG,Web,Fashion,351.16,1,0.034,16.48,Sequoia,Credit Card,0.401,0.366,3,2024-07-10,0,1,367.64,2024-07,367.64,False,False,False
+ORD100006,2024-01-21,C1249,Belo Horizonte,MG,Mobile App,Toys,309.46,1,0.125,42.24,Correios,Credit Card,0.285,0.281,7,2024-01-28,0,4,351.7,2024-01,351.7,False,False,False
+ORD100007,2024-04-12,C8002,Rio de Janeiro,RJ,Web,Fashion,177.4,1,0.112,3.97,Loggi,Credit Card,0.188,0.179,7,2024-04-19,0,4,181.37,2024-04,181.37,False,False,False
+ORD100008,2024-05-01,C7254,Guarulhos,SP,Web,Electronics,522.6,2,0.049,2.45,Correios,Credit Card,0.478,0.441,4,2024-05-05,0,4,1047.65,2024-05,523.825,False,False,False
+ORD100009,2024-08-02,C3393,São Paulo,SP,Marketplace,Electronics,870.3,1,0.093,59.18,Sequoia,Debit Card,0.858,0.935,3,2024-08-05,0,5,929.48,2024-08,929.48,False,False,False
+ORD100010,2024-11-26,C7809,Niterói,RJ,Web,Home,701.89,1,0.027,1.2,Correios,Credit Card,0.672,0.625,4,2024-11-30,0,4,703.09,2024-11,703.09,False,False,False
+ORD100011,2024-03-28,C8561,Guarulhos,SP,Marketplace,Books,105.67,1,0.145,21.37,Loggi,Cash,0.111,0.103,7,2024-04-04,0,3,127.04,2024-03,127.04,False,False,False
+ORD100012,2024-04-09,C7986,Foz do Iguaçu,PR,Web,Toys,263.63,2,0.079,43.37,Jadlog,Pix,0.29,0.296,3,2024-04-12,0,3,570.63,2024-04,285.315,False,False,False
+ORD100013,2024-12-25,C9915,Campinas,SP,Mobile App,Electronics,454.95,1,0.02,3.8,Correios,Cash,0.522,0.503,4,2024-12-29,0,5,458.75,2024-12,458.75,False,False,False
+ORD100014,2024-05-31,C2994,São Paulo,SP,Mobile App,Fashion,397.5,1,0.127,43.3,Jadlog,Credit Card,0.515,0.56,4,2024-06-04,0,5,440.8,2024-05,440.8,False,False,False
+ORD100015,2024-05-10,C3898,Santos,SP,Mobile App,Books,80.48,1,0.081,13.93,Correios,Boleto,0.089,0.1,7,2024-05-17,0,2,94.41,2024-05,94.41,False,False,False
+ORD100016,2024-05-29,C6765,Londrina,PR,Web,Toys,258.23,2,0.148,8.59,Jadlog,Credit Card,0.302,0.329,4,2024-06-02,0,4,525.05,2024-05,262.525,False,False,False
+ORD100017,2024-11-04,C7371,Curitiba,PR,Mobile App,Fashion,228.83,2,0.13,49.61,Correios,Cash,0.234,0.235,5,2024-11-09,0,4,507.27,2024-11,253.635,False,False,False
+ORD100018,2024-09-14,C8783,Curitiba,PR,Mobile App,Fashion,277.57,1,0.212,25.45,Sequoia,Pix,0.412,0.417,5,2024-09-19,0,5,303.02,2024-09,303.02,False,False,False
+ORD100019,2024-12-09,C2645,São Paulo,SP,Web,Sports,891.45,2,0.016,24.87,Sequoia,Pix,0.893,0.911,5,2024-12-14,0,4,1807.77,2024-12,903.885,False,False,False
+ORD100020,2024-10-20,C5971,Belo Horizonte,MG,Physical Store,Electronics,1358.61,1,0.111,27.54,Sequoia,Debit Card,1.55,1.466,5,2024-10-25,0,3,1386.15,2024-10,1386.15,False,False,False
+ORD100021,2024-07-10,C3482,Belo Horizonte,MG,Web,Sports,125.56,1,0.0,24.05,Correios,Debit Card,0.11,0.123,6,2024-07-16,1,4,149.61,2024-07,149.61,False,False,False
+ORD100022,2024-10-03,C2481,Campinas,SP,Marketplace,Books,126.07,1,0.26,20.36,Sequoia,Debit Card,0.174,0.188,5,2024-10-08,0,5,146.43,2024-10,146.43,False,False,False
+ORD100023,2024-06-09,C3538,Santos,SP,Physical Store,Beauty,383.06,1,0.103,42.24,Loggi,Boleto,0.399,0.441,6,2024-06-15,0,1,425.3,2024-06,425.3,False,False,False
+ORD100024,2024-11-09,C2555,Curitiba,PR,Mobile App,Home,343.91,1,0.088,25.51,Correios,Credit Card,0.383,0.405,3,2024-11-12,0,3,369.42,2024-11,369.42,False,False,False
+ORD100025,2024-01-22,C3541,Campinas,SP,Physical Store,Books,15.6,2,0.152,12.39,Correios,Credit Card,0.05,0.056,5,2024-01-27,0,4,43.59,2024-01,21.795,False,False,False
+ORD100026,2024-09-09,C7136,Belo Horizonte,MG,Mobile App,Fashion,253.18,1,0.064,54.93,Loggi,Pix,0.319,0.319,6,2024-09-15,1,3,308.11,2024-09,308.11,False,False,False
+ORD100027,2024-08-23,C8479,Guarulhos,SP,Web,Electronics,728.84,1,0.093,29.73,Correios,Pix,0.722,0.798,4,2024-08-27,0,5,758.57,2024-08,758.57,False,False,False
+ORD100028,2024-12-10,C4549,Niterói,RJ,Web,Electronics,804.97,3,0.128,45.54,Loggi,Pix,1.101,1.24,8,2024-12-18,0,5,2460.45,2024-12,820.15,False,True,False
+ORD100029,2024-02-18,C9680,Guarulhos,SP,Physical Store,Electronics,1682.04,1,0.077,51.72,Correios,Pix,2.063,1.876,6,2024-02-24,0,3,1733.76,2024-02,1733.76,True,False,True
+ORD100030,2024-02-28,C8980,Campinas,SP,Web,Fashion,189.02,2,0.099,13.98,Sequoia,Credit Card,0.17,0.19,6,2024-03-05,0,5,392.02,2024-02,196.01,False,False,False
+ORD100031,2024-06-18,C4810,Londrina,PR,Web,Electronics,289.03,1,0.1,43.94,Correios,Credit Card,0.295,0.328,1,2024-06-19,0,4,332.97,2024-06,332.97,False,False,False
+ORD100032,2024-07-06,C9623,Belo Horizonte,MG,Web,Beauty,47.71,1,0.242,10.02,Correios,Cash,0.074,0.079,4,2024-07-10,0,4,57.73,2024-07,57.73,False,False,False
+ORD100033,2024-09-27,C8274,Maringá,PR,Web,Electronics,594.94,4,0.054,45.49,Correios,Pix,0.708,0.677,1,2024-09-28,0,4,2425.25,2024-09,606.3125,False,False,False
+ORD100034,2024-07-08,C5675,Santos,SP,Mobile App,Electronics,2172.77,2,0.02,24.51,Correios,Credit Card,2.416,2.474,5,2024-07-13,0,3,4370.05,2024-07,2185.025,True,True,True
+ORD100035,2024-06-23,C4020,Porto Alegre,RS,Marketplace,Beauty,255.44,2,0.091,52.09,Correios,Credit Card,0.243,0.239,5,2024-06-28,0,5,562.97,2024-06,281.485,False,False,False
+ORD100036,2024-02-20,C5286,Joinville,SC,Mobile App,Electronics,2175.98,2,0.023,11.59,Correios,Credit Card,2.281,2.119,4,2024-02-24,0,1,4363.55,2024-02,2181.775,True,True,True
+ORD100037,2024-12-29,C2007,Cascavel,PR,Web,Toys,349.44,2,0.067,42.49,Loggi,Credit Card,0.351,0.37,2,2024-12-31,0,5,741.37,2024-12,370.685,False,False,False
+ORD100038,2024-02-24,C5799,Curitiba,PR,Mobile App,Books,75.01,1,0.127,6.13,Loggi,Pix,0.097,0.095,2,2024-02-26,0,5,81.14,2024-02,81.14,False,False,False
+ORD100039,2024-08-31,C4155,Joinville,SC,Mobile App,Home,150.75,1,0.077,53.65,Correios,Credit Card,0.133,0.141,3,2024-09-03,0,5,204.4,2024-08,204.4,False,False,False
+ORD100040,2024-11-15,C3255,Joinville,SC,Mobile App,Electronics,622.6,1,0.069,0.07,Loggi,Debit Card,0.601,0.625,1,2024-11-16,0,3,622.67,2024-11,622.67,False,False,False
+ORD100041,2024-05-10,C6109,Rio de Janeiro,RJ,Web,Fashion,246.16,2,0.165,57.16,Jadlog,Boleto,0.324,0.303,8,2024-05-18,0,4,549.48,2024-05,274.74,False,False,False
+ORD100042,2024-11-02,C9783,Guarulhos,SP,Mobile App,Electronics,995.84,2,0.0,58.65,Jadlog,Credit Card,1.124,1.023,3,2024-11-05,0,5,2050.33,2024-11,1025.165,False,False,False
+ORD100043,2024-05-14,C9508,Londrina,PR,Marketplace,Electronics,2146.16,1,0.088,49.04,Loggi,Credit Card,2.378,2.575,4,2024-05-18,0,2,2195.2,2024-05,2195.2,True,False,True
+ORD100044,2024-01-21,C2560,Florianópolis,SC,Marketplace,Electronics,2242.43,2,0.083,11.97,Correios,Pix,1.986,1.915,3,2024-01-24,0,5,4496.83,2024-01,2248.415,True,True,True
+ORD100045,2024-11-24,C1158,Porto Alegre,RS,Web,Sports,519.41,1,0.19,35.86,Jadlog,Pix,0.767,0.745,1,2024-11-25,0,4,555.27,2024-11,555.27,False,False,False
+ORD100046,2024-06-15,C1529,Rio de Janeiro,RJ,Mobile App,Toys,114.08,2,0.0,52.24,Loggi,Credit Card,0.108,0.113,6,2024-06-21,0,4,280.4,2024-06,140.2,False,False,False
+ORD100047,2024-09-30,C9219,Belo Horizonte,MG,Web,Fashion,582.8,1,0.0,49.73,Correios,Credit Card,0.61,0.657,5,2024-10-05,0,3,632.53,2024-09,632.53,False,False,False
+ORD100048,2024-03-29,C4192,Joinville,SC,Mobile App,Home,636.34,1,0.0,10.8,Correios,Credit Card,0.658,0.705,3,2024-04-01,0,4,647.14,2024-03,647.14,False,False,False
+ORD100049,2024-11-11,C6370,Florianópolis,SC,Web,Beauty,73.32,1,0.158,12.11,Total Express,Pix,0.073,0.078,1,2024-11-12,0,5,85.43,2024-11,85.43,False,False,False
+ORD100050,2024-01-14,C2198,São Paulo,SP,Mobile App,Sports,595.05,3,0.157,12.94,Correios,Pix,0.749,0.694,6,2024-01-20,0,5,1798.09,2024-01,599.3633333333333,False,False,False
+ORD100051,2024-08-29,C9133,São Paulo,SP,Web,Sports,683.88,3,0.143,52.67,Sequoia,Credit Card,0.758,0.738,4,2024-09-02,0,3,2104.31,2024-08,701.4366666666666,False,False,False
+ORD100052,2024-09-21,C8232,Londrina,PR,Web,Home,288.06,2,0.156,27.81,Sequoia,Credit Card,0.344,0.351,5,2024-09-26,0,4,603.93,2024-09,301.965,False,False,False
+ORD100053,2024-12-11,C1011,São Paulo,SP,Web,Books,75.28,2,0.144,4.28,Jadlog,Cash,0.084,0.08,4,2024-12-15,0,3,154.84,2024-12,77.42,False,False,False
+ORD100054,2024-02-22,C7012,Florianópolis,SC,Mobile App,Books,103.66,3,0.086,7.39,Jadlog,Pix,0.099,0.096,4,2024-02-26,0,3,318.37,2024-02,106.12333333333333,False,False,False
+ORD100055,2024-12-05,C6047,Cascavel,PR,Physical Store,Books,22.32,2,0.031,36.66,Jadlog,Credit Card,0.05,0.05,2,2024-12-07,0,5,81.3,2024-12,40.65,False,False,False
+ORD100056,2024-04-01,C7807,Florianópolis,SC,Marketplace,Home,113.5,2,0.067,1.42,Loggi,Pix,0.124,0.119,2,2024-04-03,0,4,228.42,2024-04,114.21,False,False,False
+ORD100057,2024-09-20,C8421,Santos,SP,Web,Home,556.88,2,0.0,54.33,Correios,Pix,0.589,0.618,6,2024-09-26,0,4,1168.09,2024-09,584.045,False,False,False
+ORD100058,2024-02-04,C6189,Porto Alegre,RS,Web,Electronics,1393.84,1,0.0,40.17,Jadlog,Cash,1.426,1.544,1,2024-02-05,0,2,1434.01,2024-02,1434.01,False,False,False
+ORD100059,2024-07-24,C4374,Joinville,SC,Web,Fashion,227.31,1,0.004,59.55,Loggi,Boleto,0.259,0.267,2,2024-07-26,0,2,286.86,2024-07,286.86,False,False,False
+ORD100060,2024-03-21,C5895,Curitiba,PR,Web,Sports,464.16,3,0.0,23.82,Loggi,Credit Card,0.467,0.528,3,2024-03-24,0,5,1416.3,2024-03,472.09999999999997,False,False,False
+ORD100061,2024-02-19,C9435,Guarulhos,SP,Web,Beauty,372.17,1,0.068,10.41,Correios,Pix,0.475,0.504,3,2024-02-22,0,3,382.58,2024-02,382.58,False,False,False
+ORD100062,2024-12-25,C5259,Maringá,PR,Mobile App,Electronics,2266.0,1,0.0,4.8,Correios,Pix,2.351,2.666,3,2024-12-28,0,3,2270.8,2024-12,2270.8,True,False,True
+ORD100063,2024-01-02,C3494,Campinas,SP,Mobile App,Electronics,1478.14,4,0.09,59.02,Correios,Credit Card,1.379,1.346,4,2024-01-06,0,5,5971.58,2024-01,1492.895,True,True,True
+ORD100064,2024-02-23,C7907,São Paulo,SP,Mobile App,Fashion,103.23,2,0.2,21.25,Correios,Debit Card,0.112,0.112,3,2024-02-26,1,3,227.71,2024-02,113.855,False,False,False
+ORD100065,2024-04-15,C8898,Foz do Iguaçu,PR,Web,Toys,146.31,1,0.0,38.77,Correios,Credit Card,0.126,0.117,1,2024-04-16,0,3,185.08,2024-04,185.08,False,False,False
+ORD100066,2024-09-16,C1593,Londrina,PR,Mobile App,Home,394.59,2,0.0,50.45,Sequoia,Credit Card,0.389,0.412,2,2024-09-18,0,5,839.63,2024-09,419.815,False,False,False
+ORD100067,2024-11-05,C3247,São Paulo,SP,Web,Sports,88.57,2,0.157,6.32,Loggi,Credit Card,0.1,0.102,5,2024-11-10,1,5,183.46,2024-11,91.73,False,False,False
+ORD100068,2024-07-09,C6330,Campinas,SP,Mobile App,Electronics,510.55,3,0.15,37.48,Correios,Credit Card,0.51,0.537,3,2024-07-12,0,4,1569.13,2024-07,523.0433333333334,False,False,False
+ORD100069,2024-08-05,C9569,Porto Alegre,RS,Mobile App,Sports,1001.83,2,0.096,5.7,Loggi,Credit Card,1.059,0.996,1,2024-08-06,0,5,2009.36,2024-08,1004.68,False,False,False
+ORD100070,2024-02-13,C1685,Cascavel,PR,Web,Beauty,112.73,3,0.106,10.84,Correios,Credit Card,0.139,0.134,5,2024-02-18,0,5,349.03,2024-02,116.34333333333332,False,False,False
+ORD100071,2024-06-10,C5558,Niterói,RJ,Web,Beauty,266.63,1,0.15,26.03,Loggi,Credit Card,0.353,0.383,7,2024-06-17,0,3,292.66,2024-06,292.66,False,False,False
+ORD100072,2024-07-20,C6343,Santos,SP,Marketplace,Fashion,343.94,1,0.096,49.96,Jadlog,Credit Card,0.42,0.449,5,2024-07-25,0,5,393.9,2024-07,393.9,False,False,False
+ORD100073,2024-09-26,C6189,Foz do Iguaçu,PR,Marketplace,Beauty,182.81,2,0.162,5.58,Correios,Debit Card,0.23,0.211,2,2024-09-28,0,4,371.2,2024-09,185.6,False,False,False
+ORD100074,2024-12-16,C4959,Cascavel,PR,Mobile App,Fashion,268.05,2,0.146,31.04,Correios,Credit Card,0.292,0.294,4,2024-12-20,0,3,567.14,2024-12,283.57,False,False,False
+ORD100075,2024-10-30,C3810,Florianópolis,SC,Marketplace,Toys,181.62,4,0.14,57.02,Loggi,Credit Card,0.252,0.237,4,2024-11-03,0,4,783.5,2024-10,195.875,False,False,False
+ORD100076,2024-09-27,C3757,Santos,SP,Mobile App,Home,243.93,1,0.002,4.84,Correios,Pix,0.238,0.258,4,2024-10-01,0,3,248.77,2024-09,248.77,False,False,False
+ORD100077,2024-08-02,C8531,Belo Horizonte,MG,Web,Toys,128.05,2,0.021,45.56,Jadlog,Credit Card,0.108,0.11,3,2024-08-05,0,2,301.66,2024-08,150.83,False,False,False
+ORD100078,2024-09-08,C3297,Guarulhos,SP,Mobile App,Home,527.52,2,0.161,47.26,Correios,Pix,0.75,0.702,4,2024-09-12,0,3,1102.3,2024-09,551.15,False,False,False
+ORD100079,2024-07-08,C2938,São Paulo,SP,Web,Beauty,295.68,1,0.151,47.5,Loggi,Debit Card,0.31,0.345,1,2024-07-09,0,3,343.18,2024-07,343.18,False,False,False
+ORD100080,2024-10-22,C4137,Curitiba,PR,Web,Sports,459.37,2,0.0,52.33,Jadlog,Debit Card,0.506,0.458,2,2024-10-24,0,4,971.07,2024-10,485.535,False,False,False
+ORD100081,2024-07-31,C1781,Niterói,RJ,Web,Books,18.01,1,0.101,49.33,Jadlog,Credit Card,0.05,0.05,5,2024-08-05,0,3,67.34,2024-07,67.34,False,False,False
+ORD100082,2024-07-26,C1475,Belo Horizonte,MG,Marketplace,Home,532.01,1,0.0,53.83,Loggi,Credit Card,0.553,0.502,6,2024-08-01,0,5,585.84,2024-07,585.84,False,False,False
+ORD100083,2024-08-24,C1687,Joinville,SC,Web,Books,149.65,4,0.16,9.96,Correios,Boleto,0.154,0.139,5,2024-08-29,0,4,608.56,2024-08,152.14,False,False,False
+ORD100084,2024-12-03,C4864,Porto Alegre,RS,Marketplace,Electronics,965.26,4,0.099,18.84,Jadlog,Credit Card,1.235,1.274,4,2024-12-07,0,2,3879.88,2024-12,969.97,False,True,False
+ORD100085,2024-02-22,C9381,São Paulo,SP,Marketplace,Home,576.57,2,0.047,1.87,Correios,Pix,0.56,0.505,5,2024-02-27,0,3,1155.01,2024-02,577.505,False,False,False
+ORD100086,2024-10-06,C6779,Cascavel,PR,Web,Sports,260.38,1,0.116,52.27,Jadlog,Pix,0.314,0.303,3,2024-10-09,0,4,312.65,2024-10,312.65,False,False,False
+ORD100087,2024-08-04,C3454,Belo Horizonte,MG,Web,Home,208.69,1,0.052,57.97,Jadlog,Credit Card,0.262,0.29,4,2024-08-08,0,5,266.66,2024-08,266.66,False,False,False
+ORD100088,2024-09-08,C8230,Cascavel,PR,Mobile App,Fashion,154.51,1,0.0,49.47,Correios,Credit Card,0.169,0.177,3,2024-09-11,0,5,203.98,2024-09,203.98,False,False,False
+ORD100089,2024-07-06,C8804,São Paulo,SP,Mobile App,Sports,699.6,2,0.029,49.88,Correios,Debit Card,0.603,0.68,5,2024-07-11,0,5,1449.08,2024-07,724.54,False,False,False
+ORD100090,2024-02-10,C1727,Londrina,PR,Physical Store,Electronics,1663.21,1,0.075,47.33,Jadlog,Pix,1.532,1.468,3,2024-02-13,0,5,1710.54,2024-02,1710.54,True,False,True
+ORD100091,2024-06-05,C1193,Porto Alegre,RS,Web,Books,84.24,2,0.067,27.03,Loggi,Credit Card,0.089,0.09,1,2024-06-06,0,4,195.51,2024-06,97.755,False,False,False
+ORD100092,2024-01-15,C5796,Maringá,PR,Web,Electronics,655.44,1,0.069,5.23,Correios,Debit Card,0.66,0.678,4,2024-01-19,0,4,660.67,2024-01,660.67,False,False,False
+ORD100093,2024-10-27,C2517,Niterói,RJ,Physical Store,Electronics,793.46,1,0.046,15.46,Loggi,Credit Card,0.894,0.83,7,2024-11-03,0,4,808.92,2024-10,808.92,False,False,False
+ORD100094,2024-03-05,C1593,Cascavel,PR,Web,Fashion,192.51,2,0.096,30.13,Correios,Credit Card,0.184,0.174,4,2024-03-09,0,5,415.15,2024-03,207.575,False,False,False
+ORD100095,2024-12-10,C2628,Florianópolis,SC,Web,Fashion,198.17,1,0.0,43.75,Jadlog,Pix,0.213,0.215,4,2024-12-14,0,3,241.92,2024-12,241.92,False,False,False
+ORD100096,2024-11-22,C5020,Rio de Janeiro,RJ,Marketplace,Fashion,338.24,1,0.061,23.58,Loggi,Debit Card,0.312,0.331,6,2024-11-28,0,5,361.82,2024-11,361.82,False,False,False
+ORD100097,2024-01-09,C3606,Florianópolis,SC,Web,Electronics,1685.39,2,0.0,59.28,Jadlog,Credit Card,1.443,1.474,2,2024-01-11,0,4,3430.06,2024-01,1715.03,True,True,True
+ORD100098,2024-12-09,C7218,Florianópolis,SC,Web,Electronics,645.66,1,0.051,22.49,Correios,Credit Card,0.815,0.845,4,2024-12-13,0,4,668.15,2024-12,668.15,False,False,False
+ORD100099,2024-05-08,C6619,Belo Horizonte,MG,Web,Beauty,372.65,1,0.118,10.63,Jadlog,Debit Card,0.378,0.419,6,2024-05-14,0,3,383.28,2024-05,383.28,False,False,False
+ORD100100,2024-05-15,C7626,Niterói,RJ,Web,Sports,878.78,2,0.086,42.65,Correios,Boleto,0.997,1.047,6,2024-05-21,0,4,1800.21,2024-05,900.105,False,False,False
+ORD100101,2024-03-03,C7538,Porto Alegre,RS,Mobile App,Electronics,1765.74,2,0.0,29.49,Loggi,Debit Card,1.724,1.813,2,2024-03-05,0,4,3560.97,2024-03,1780.485,True,True,True
+ORD100102,2024-05-18,C4536,Guarulhos,SP,Marketplace,Beauty,60.74,2,0.162,53.59,Sequoia,Credit Card,0.071,0.073,4,2024-05-22,0,5,175.07,2024-05,87.535,False,False,False
+ORD100103,2024-03-21,C3767,Foz do Iguaçu,PR,Marketplace,Beauty,147.4,2,0.181,59.43,Total Express,Credit Card,0.15,0.135,3,2024-03-24,0,4,354.23,2024-03,177.115,False,False,False
+ORD100104,2024-06-11,C7144,Niterói,RJ,Web,Electronics,2008.3,2,0.147,1.47,Loggi,Credit Card,2.48,2.59,5,2024-06-16,0,1,4018.07,2024-06,2009.035,True,True,True
+ORD100105,2024-10-15,C3130,Niterói,RJ,Mobile App,Home,414.34,1,0.026,48.21,Correios,Boleto,0.495,0.485,5,2024-10-20,0,3,462.55,2024-10,462.55,False,False,False
+ORD100106,2024-09-17,C6789,São Paulo,SP,Physical Store,Fashion,485.74,2,0.095,14.52,Jadlog,Pix,0.602,0.625,4,2024-09-21,0,3,986.0,2024-09,493.0,False,False,False
+ORD100107,2024-08-18,C6590,Santos,SP,Marketplace,Home,619.37,1,0.129,35.61,Loggi,Boleto,0.702,0.692,6,2024-08-24,1,2,654.98,2024-08,654.98,False,False,False
+ORD100108,2024-02-10,C9859,Niterói,RJ,Web,Home,630.6,1,0.075,23.26,Jadlog,Pix,0.547,0.515,9,2024-02-19,0,4,653.86,2024-02,653.86,False,False,False
+ORD100109,2024-01-28,C4607,Rio de Janeiro,RJ,Marketplace,Beauty,192.82,3,0.0,27.46,Correios,Credit Card,0.183,0.167,7,2024-02-04,0,4,605.92,2024-01,201.97333333333333,False,False,False
+ORD100110,2024-05-14,C9588,Campinas,SP,Web,Fashion,363.4,1,0.09,28.09,Correios,Debit Card,0.326,0.348,4,2024-05-18,0,5,391.49,2024-05,391.49,False,False,False
+ORD100111,2024-07-19,C7708,Guarulhos,SP,Web,Sports,394.85,1,0.249,0.6,Total Express,Credit Card,0.53,0.567,6,2024-07-25,0,5,395.45,2024-07,395.45,False,False,False
+ORD100112,2024-11-23,C3745,Belo Horizonte,MG,Marketplace,Fashion,117.02,2,0.124,34.24,Jadlog,Debit Card,0.136,0.152,3,2024-11-26,0,4,268.28,2024-11,134.14,False,False,False
+ORD100113,2024-09-24,C7919,Rio de Janeiro,RJ,Marketplace,Toys,107.12,2,0.031,57.47,Jadlog,Boleto,0.132,0.137,6,2024-09-30,1,2,271.71,2024-09,135.855,False,False,False
+ORD100114,2024-02-02,C1232,Maringá,PR,Web,Fashion,186.43,2,0.111,48.59,Correios,Boleto,0.228,0.236,1,2024-02-03,0,5,421.45,2024-02,210.725,False,False,False
+ORD100115,2024-02-17,C8763,Londrina,PR,Mobile App,Books,105.37,1,0.067,32.79,Correios,Credit Card,0.098,0.099,5,2024-02-22,0,1,138.16,2024-02,138.16,False,False,False
+ORD100116,2024-03-02,C8888,Porto Alegre,RS,Physical Store,Toys,381.79,4,0.0,26.22,Correios,Debit Card,0.4,0.458,3,2024-03-05,0,5,1553.38,2024-03,388.345,False,False,False
+ORD100117,2024-08-03,C4642,Foz do Iguaçu,PR,Web,Fashion,207.17,1,0.184,57.61,Sequoia,Pix,0.264,0.293,2,2024-08-05,0,4,264.78,2024-08,264.78,False,False,False
+ORD100118,2024-10-19,C5009,Niterói,RJ,Marketplace,Electronics,1894.93,2,0.079,30.76,Loggi,Credit Card,1.722,1.564,7,2024-10-26,0,4,3820.62,2024-10,1910.31,True,True,True
+ORD100119,2024-04-08,C4929,Guarulhos,SP,Web,Toys,115.15,1,0.0,2.34,Correios,Credit Card,0.132,0.128,5,2024-04-13,1,4,117.49,2024-04,117.49,False,False,False
+ORD100120,2024-06-20,C3871,Campinas,SP,Mobile App,Books,75.92,2,0.055,12.28,Correios,Debit Card,0.075,0.084,1,2024-06-21,0,2,164.12,2024-06,82.06,False,False,False
+ORD100121,2024-12-25,C1270,Belo Horizonte,MG,Marketplace,Books,22.92,1,0.038,17.4,Correios,Boleto,0.05,0.052,4,2024-12-29,0,2,40.32,2024-12,40.32,False,False,False
+ORD100122,2024-08-01,C6445,Niterói,RJ,Web,Beauty,404.11,1,0.165,50.91,Correios,Credit Card,0.45,0.485,8,2024-08-09,0,3,455.02,2024-08,455.02,False,False,False
+ORD100123,2024-02-04,C5591,Florianópolis,SC,Physical Store,Toys,241.88,2,0.114,35.03,Correios,Cash,0.247,0.259,2,2024-02-06,0,5,518.79,2024-02,259.395,False,False,False
+ORD100124,2024-08-14,C3800,Cascavel,PR,Mobile App,Books,146.81,2,0.127,16.44,Correios,Pix,0.158,0.155,3,2024-08-17,1,5,310.06,2024-08,155.03,False,False,False
+ORD100125,2024-04-10,C8742,Joinville,SC,Marketplace,Fashion,289.15,1,0.052,47.85,Jadlog,Debit Card,0.256,0.266,3,2024-04-13,0,5,337.0,2024-04,337.0,False,False,False
+ORD100126,2024-05-10,C1992,Joinville,SC,Physical Store,Electronics,1358.58,1,0.002,52.28,Jadlog,Pix,1.225,1.294,1,2024-05-11,0,5,1410.86,2024-05,1410.86,False,False,False
+ORD100127,2024-09-13,C5690,Curitiba,PR,Mobile App,Electronics,517.87,1,0.099,14.83,Correios,Credit Card,0.536,0.573,4,2024-09-17,0,3,532.7,2024-09,532.7,False,False,False
+ORD100128,2024-01-05,C8846,Belo Horizonte,MG,Physical Store,Fashion,240.51,1,0.104,4.05,Correios,Debit Card,0.319,0.296,4,2024-01-09,0,5,244.56,2024-01,244.56,False,False,False
+ORD100129,2024-08-05,C4802,Cascavel,PR,Mobile App,Electronics,1478.2,2,0.072,41.75,Correios,Credit Card,1.627,1.725,1,2024-08-06,0,4,2998.15,2024-08,1499.075,True,True,True
+ORD100130,2024-09-11,C2306,Curitiba,PR,Mobile App,Fashion,346.59,1,0.065,35.26,Jadlog,Pix,0.357,0.323,3,2024-09-14,0,3,381.85,2024-09,381.85,False,False,False
+ORD100131,2024-12-24,C8331,Joinville,SC,Physical Store,Electronics,1673.8,1,0.105,49.04,Correios,Debit Card,2.24,2.144,3,2024-12-27,0,4,1722.84,2024-12,1722.84,True,False,True
+ORD100132,2024-10-09,C5017,Florianópolis,SC,Marketplace,Electronics,608.75,1,0.075,43.96,Jadlog,Debit Card,0.548,0.624,1,2024-10-10,0,5,652.71,2024-10,652.71,False,False,False
+ORD100133,2024-07-25,C5370,Londrina,PR,Mobile App,Home,305.68,1,0.122,20.02,Sequoia,Pix,0.398,0.362,2,2024-07-27,0,4,325.7,2024-07,325.7,False,False,False
+ORD100134,2024-01-15,C4641,Porto Alegre,RS,Web,Fashion,545.83,1,0.032,29.47,Correios,Boleto,0.623,0.625,3,2024-01-18,0,3,575.3,2024-01,575.3,False,False,False
+ORD100135,2024-12-11,C6103,São Paulo,SP,Mobile App,Toys,151.77,3,0.211,15.29,Correios,Pix,0.221,0.245,2,2024-12-13,0,5,470.6,2024-12,156.86666666666667,False,False,False
+ORD100136,2024-02-11,C7121,Belo Horizonte,MG,Web,Home,272.4,2,0.057,27.71,Correios,Credit Card,0.265,0.269,6,2024-02-17,0,5,572.51,2024-02,286.255,False,False,False
+ORD100137,2024-06-27,C2647,Foz do Iguaçu,PR,Web,Electronics,192.24,1,0.06,21.26,Correios,Credit Card,0.206,0.217,3,2024-06-30,0,2,213.5,2024-06,213.5,False,False,False
+ORD100138,2024-03-03,C1146,Santos,SP,Web,Toys,338.87,2,0.037,32.8,Correios,Debit Card,0.414,0.445,3,2024-03-06,0,5,710.54,2024-03,355.27,False,False,False
+ORD100139,2024-12-17,C5390,Foz do Iguaçu,PR,Web,Fashion,135.21,2,0.077,33.64,Jadlog,Pix,0.132,0.119,1,2024-12-18,0,4,304.06,2024-12,152.03,False,False,False
+ORD100140,2024-08-18,C4904,Guarulhos,SP,Mobile App,Sports,916.75,1,0.077,38.87,Correios,Credit Card,0.878,0.799,4,2024-08-22,0,3,955.62,2024-08,955.62,False,False,False
+ORD100141,2024-08-28,C6991,Florianópolis,SC,Physical Store,Electronics,1631.05,1,0.036,22.35,Correios,Credit Card,1.667,1.802,1,2024-08-29,0,5,1653.4,2024-08,1653.4,True,False,True
+ORD100142,2024-02-21,C9026,Belo Horizonte,MG,Web,Sports,88.53,1,0.164,21.01,Jadlog,Pix,0.085,0.081,9,2024-03-01,0,4,109.54,2024-02,109.54,False,False,False
+ORD100143,2024-04-05,C4163,Niterói,RJ,Web,Sports,993.63,2,0.074,42.98,Correios,Credit Card,0.993,0.954,5,2024-04-10,0,4,2030.24,2024-04,1015.12,False,False,False
+ORD100144,2024-08-09,C7859,Maringá,PR,Marketplace,Toys,148.8,1,0.233,44.89,Loggi,Credit Card,0.219,0.222,3,2024-08-12,0,4,193.69,2024-08,193.69,False,False,False
+ORD100145,2024-08-18,C8957,Londrina,PR,Web,Toys,315.12,1,0.0,24.91,Jadlog,Boleto,0.332,0.37,2,2024-08-20,0,4,340.03,2024-08,340.03,False,False,False
+ORD100146,2024-08-24,C1365,Foz do Iguaçu,PR,Marketplace,Home,691.12,1,0.133,51.48,Correios,Cash,0.651,0.653,3,2024-08-27,0,1,742.6,2024-08,742.6,False,False,False
+ORD100147,2024-05-22,C3964,Foz do Iguaçu,PR,Marketplace,Fashion,34.11,1,0.107,33.8,Sequoia,Pix,0.05,0.052,4,2024-05-26,1,5,67.91,2024-05,67.91,False,False,False
+ORD100148,2024-06-19,C4521,Niterói,RJ,Marketplace,Home,436.04,4,0.124,35.59,Correios,Credit Card,0.532,0.569,8,2024-06-27,0,5,1779.75,2024-06,444.9375,False,False,False
+ORD100149,2024-01-29,C4716,Maringá,PR,Web,Fashion,456.24,1,0.0,56.92,Jadlog,Credit Card,0.37,0.349,6,2024-02-04,0,4,513.16,2024-01,513.16,False,False,False
+ORD100150,2024-02-05,C5627,Rio de Janeiro,RJ,Physical Store,Fashion,339.5,2,0.047,1.9,Correios,Credit Card,0.372,0.417,6,2024-02-11,0,4,680.9,2024-02,340.45,False,False,False
+ORD100151,2024-01-13,C3566,Porto Alegre,RS,Mobile App,Beauty,99.8,2,0.194,56.45,Correios,Pix,0.116,0.117,5,2024-01-18,0,4,256.05,2024-01,128.025,False,False,False
+ORD100152,2024-06-08,C7953,Rio de Janeiro,RJ,Physical Store,Electronics,1086.87,1,0.0,47.9,Correios,Credit Card,0.971,0.905,6,2024-06-14,0,4,1134.77,2024-06,1134.77,False,False,False
+ORD100153,2024-11-22,C9828,Belo Horizonte,MG,Web,Beauty,57.92,2,0.14,9.36,Jadlog,Credit Card,0.062,0.061,7,2024-11-29,0,3,125.2,2024-11,62.6,False,False,False
+ORD100154,2024-07-05,C6462,Guarulhos,SP,Web,Books,22.64,2,0.114,18.83,Jadlog,Debit Card,0.05,0.056,5,2024-07-10,0,3,64.11,2024-07,32.055,False,False,False
+ORD100155,2024-08-30,C6201,Campinas,SP,Mobile App,Fashion,82.7,1,0.145,53.39,Loggi,Pix,0.106,0.109,5,2024-09-04,0,4,136.09,2024-08,136.09,False,False,False
+ORD100156,2024-03-26,C7139,Campinas,SP,Mobile App,Home,139.29,2,0.107,58.2,Correios,Debit Card,0.148,0.163,4,2024-03-30,0,2,336.78,2024-03,168.39,False,False,False
+ORD100157,2024-10-10,C6918,Porto Alegre,RS,Mobile App,Home,66.22,2,0.039,22.59,Correios,Credit Card,0.07,0.066,3,2024-10-13,0,3,155.03,2024-10,77.515,False,False,False
+ORD100158,2024-03-06,C6850,Guarulhos,SP,Web,Home,179.29,1,0.216,59.97,Correios,Pix,0.259,0.244,2,2024-03-08,0,3,239.26,2024-03,239.26,False,False,False
+ORD100159,2024-06-18,C7992,Santos,SP,Mobile App,Fashion,58.64,2,0.0,2.98,Correios,Pix,0.061,0.059,4,2024-06-22,0,4,120.26,2024-06,60.13,False,False,False
+ORD100160,2024-02-14,C4303,Londrina,PR,Web,Electronics,1268.49,1,0.159,25.87,Correios,Credit Card,1.458,1.419,1,2024-02-15,0,3,1294.36,2024-02,1294.36,False,False,False
+ORD100161,2024-03-02,C2874,Foz do Iguaçu,PR,Mobile App,Fashion,367.55,2,0.041,40.69,Correios,Debit Card,0.373,0.41,1,2024-03-03,0,3,775.79,2024-03,387.895,False,False,False
+ORD100162,2024-05-13,C5891,Santos,SP,Web,Home,749.12,1,0.003,58.08,Loggi,Credit Card,0.675,0.687,5,2024-05-18,0,5,807.2,2024-05,807.2,False,False,False
+ORD100163,2024-10-10,C9002,Londrina,PR,Web,Electronics,2309.68,1,0.024,17.93,Correios,Credit Card,2.583,2.932,4,2024-10-14,0,5,2327.61,2024-10,2327.61,True,False,True
+ORD100164,2024-01-28,C1627,Florianópolis,SC,Web,Toys,212.79,1,0.144,20.64,Jadlog,Pix,0.291,0.322,3,2024-01-31,0,4,233.43,2024-01,233.43,False,False,False
+ORD100165,2024-04-17,C8409,Belo Horizonte,MG,Mobile App,Beauty,57.65,2,0.103,47.01,Loggi,Pix,0.074,0.071,4,2024-04-21,0,5,162.31,2024-04,81.155,False,False,False
+ORD100166,2024-02-13,C7078,Rio de Janeiro,RJ,Mobile App,Electronics,1174.16,1,0.0,59.37,Correios,Debit Card,1.263,1.42,7,2024-02-20,0,2,1233.53,2024-02,1233.53,False,False,False
+ORD100167,2024-12-05,C3028,Campinas,SP,Marketplace,Electronics,288.45,1,0.096,45.71,Correios,Pix,0.281,0.254,3,2024-12-08,0,2,334.16,2024-12,334.16,False,False,False
+ORD100168,2024-10-12,C1406,Maringá,PR,Mobile App,Electronics,1277.56,1,0.013,36.77,Jadlog,Boleto,1.075,1.063,2,2024-10-14,0,4,1314.33,2024-10,1314.33,False,False,False
+ORD100169,2024-11-26,C2895,São Paulo,SP,Web,Books,86.22,1,0.113,1.75,Correios,Boleto,0.086,0.089,2,2024-11-28,0,2,87.97,2024-11,87.97,False,False,False
+ORD100170,2024-05-07,C5887,Joinville,SC,Physical Store,Home,633.59,1,0.065,46.86,Correios,Credit Card,0.784,0.835,2,2024-05-09,0,5,680.45,2024-05,680.45,False,False,False
+ORD100171,2024-12-13,C3541,Curitiba,PR,Web,Toys,106.46,2,0.168,42.77,Correios,Pix,0.114,0.109,3,2024-12-16,0,5,255.69,2024-12,127.845,False,False,False
+ORD100172,2024-08-18,C8701,Cascavel,PR,Web,Home,364.91,1,0.066,29.81,Jadlog,Boleto,0.333,0.347,4,2024-08-22,0,5,394.72,2024-08,394.72,False,False,False
+ORD100173,2024-07-08,C4561,São Paulo,SP,Web,Home,55.3,2,0.114,55.59,Correios,Credit Card,0.051,0.053,4,2024-07-12,0,1,166.19,2024-07,83.095,False,False,False
+ORD100174,2024-08-12,C2881,Rio de Janeiro,RJ,Physical Store,Toys,192.36,1,0.189,7.92,Correios,Debit Card,0.199,0.2,7,2024-08-19,0,3,200.28,2024-08,200.28,False,False,False
+ORD100175,2024-10-09,C1464,Niterói,RJ,Web,Sports,134.48,2,0.079,26.53,Correios,Credit Card,0.148,0.139,6,2024-10-15,0,5,295.49,2024-10,147.745,False,False,False
+ORD100176,2024-04-30,C8478,Rio de Janeiro,RJ,Web,Electronics,721.43,2,0.117,15.59,Sequoia,Boleto,0.751,0.719,5,2024-05-05,0,3,1458.45,2024-04,729.225,False,False,False
+ORD100177,2024-04-25,C7382,Joinville,SC,Marketplace,Electronics,1344.05,4,0.076,30.28,Correios,Credit Card,1.369,1.493,2,2024-04-27,0,4,5406.48,2024-04,1351.62,False,True,False
+ORD100178,2024-08-20,C1287,Niterói,RJ,Mobile App,Home,243.27,2,0.183,0.97,Correios,Pix,0.344,0.395,7,2024-08-27,0,3,487.51,2024-08,243.755,False,False,False
+ORD100179,2024-09-15,C7761,Londrina,PR,Marketplace,Fashion,82.37,2,0.01,1.1,Sequoia,Credit Card,0.077,0.082,2,2024-09-17,0,3,165.84,2024-09,82.92,False,False,False
+ORD100180,2024-12-24,C2269,Santos,SP,Web,Fashion,223.42,1,0.005,32.89,Correios,Credit Card,0.239,0.273,7,2024-12-31,0,5,256.31,2024-12,256.31,False,False,False
+ORD100181,2024-07-16,C3172,São Paulo,SP,Web,Home,583.54,4,0.142,59.66,Correios,Debit Card,0.772,0.813,6,2024-07-22,0,3,2393.82,2024-07,598.455,False,False,False
+ORD100182,2024-05-16,C9044,Londrina,PR,Web,Electronics,1690.33,2,0.019,5.67,Sequoia,Pix,1.825,1.69,2,2024-05-18,0,5,3386.33,2024-05,1693.165,True,True,True
+ORD100183,2024-11-13,C7010,Londrina,PR,Web,Sports,900.05,2,0.089,48.74,Jadlog,Credit Card,1.181,1.13,4,2024-11-17,0,4,1848.84,2024-11,924.42,False,False,False
+ORD100184,2024-06-13,C8754,Santos,SP,Marketplace,Beauty,208.84,1,0.16,35.54,Correios,Pix,0.272,0.29,4,2024-06-17,0,4,244.38,2024-06,244.38,False,False,False
+ORD100185,2024-08-12,C4144,Maringá,PR,Marketplace,Home,116.0,2,0.028,33.06,Correios,Debit Card,0.11,0.107,1,2024-08-13,0,4,265.06,2024-08,132.53,False,False,False
+ORD100186,2024-11-02,C3799,Campinas,SP,Web,Fashion,425.83,1,0.144,53.88,Loggi,Pix,0.543,0.538,2,2024-11-04,0,4,479.71,2024-11,479.71,False,False,False
+ORD100187,2024-08-21,C8833,Porto Alegre,RS,Marketplace,Home,391.88,3,0.124,40.57,Correios,Credit Card,0.456,0.5,3,2024-08-24,0,4,1216.21,2024-08,405.40333333333336,False,False,False
+ORD100188,2024-06-20,C9504,Campinas,SP,Web,Electronics,980.4,1,0.0,39.58,Loggi,Credit Card,0.808,0.892,2,2024-06-22,1,4,1019.98,2024-06,1019.98,False,False,False
+ORD100189,2024-05-31,C2192,Cascavel,PR,Web,Home,131.99,2,0.011,2.52,Correios,Credit Card,0.113,0.109,4,2024-06-04,0,4,266.5,2024-05,133.25,False,False,False
+ORD100190,2024-11-10,C6930,Curitiba,PR,Mobile App,Sports,650.22,3,0.115,49.71,Correios,Credit Card,0.773,0.856,5,2024-11-15,0,3,2000.37,2024-11,666.79,False,False,False
+ORD100191,2024-06-08,C2478,Niterói,RJ,Mobile App,Home,262.51,4,0.108,37.08,Sequoia,Credit Card,0.237,0.227,6,2024-06-14,0,4,1087.12,2024-06,271.78,False,False,False
+ORD100192,2024-04-05,C6811,Guarulhos,SP,Web,Electronics,475.01,1,0.035,30.21,Correios,Credit Card,0.578,0.588,3,2024-04-08,0,1,505.22,2024-04,505.22,False,False,False
+ORD100193,2024-08-20,C6882,São Paulo,SP,Physical Store,Fashion,355.82,2,0.0,39.99,Correios,Credit Card,0.308,0.291,5,2024-08-25,0,4,751.63,2024-08,375.815,False,False,False
+ORD100194,2024-06-28,C6515,Niterói,RJ,Web,Books,144.55,2,0.151,33.47,Correios,Cash,0.143,0.13,7,2024-07-05,0,4,322.57,2024-06,161.285,False,False,False
+ORD100195,2024-04-22,C3313,Foz do Iguaçu,PR,Physical Store,Sports,550.4,1,0.148,4.61,Jadlog,Credit Card,0.683,0.685,1,2024-04-23,0,4,555.01,2024-04,555.01,False,False,False
+ORD100196,2024-11-13,C8235,Campinas,SP,Web,Electronics,2104.11,1,0.123,32.82,Sequoia,Credit Card,1.99,1.931,6,2024-11-19,0,5,2136.93,2024-11,2136.93,True,False,True
+ORD100197,2024-02-21,C6428,Joinville,SC,Mobile App,Beauty,96.96,2,0.146,22.33,Correios,Debit Card,0.099,0.113,1,2024-02-22,0,4,216.25,2024-02,108.125,False,False,False
+ORD100198,2024-09-24,C2191,Porto Alegre,RS,Mobile App,Home,657.24,3,0.176,29.03,Correios,Credit Card,0.827,0.863,1,2024-09-25,0,4,2000.75,2024-09,666.9166666666666,False,False,False
+ORD100199,2024-10-21,C6014,Joinville,SC,Web,Electronics,359.05,2,0.0,30.79,Correios,Credit Card,0.333,0.376,2,2024-10-23,0,5,748.89,2024-10,374.445,False,False,False
+ORD100200,2024-04-22,C2985,Niterói,RJ,Web,Electronics,1212.18,1,0.096,33.03,Loggi,Credit Card,1.554,1.475,5,2024-04-27,0,5,1245.21,2024-04,1245.21,False,False,False
+ORD100201,2024-04-10,C4553,Florianópolis,SC,Marketplace,Fashion,537.82,1,0.023,33.31,Correios,Debit Card,0.576,0.53,1,2024-04-11,0,3,571.13,2024-04,571.13,False,False,False
+ORD100202,2024-04-22,C7899,São Paulo,SP,Mobile App,Electronics,818.98,1,0.204,39.75,Sequoia,Pix,1.159,1.049,5,2024-04-27,0,3,858.73,2024-04,858.73,False,False,False
+ORD100203,2024-03-21,C5712,Porto Alegre,RS,Marketplace,Electronics,632.92,2,0.135,45.6,Correios,Credit Card,0.647,0.74,1,2024-03-22,0,5,1311.44,2024-03,655.72,False,False,False
+ORD100204,2024-07-05,C1178,Londrina,PR,Marketplace,Electronics,543.62,2,0.01,12.39,Loggi,Credit Card,0.527,0.475,2,2024-07-07,0,5,1099.63,2024-07,549.815,False,False,False
+ORD100205,2024-04-22,C5479,Rio de Janeiro,RJ,Physical Store,Home,715.01,1,0.011,14.91,Jadlog,Credit Card,0.831,0.811,6,2024-04-28,0,5,729.92,2024-04,729.92,False,False,False
+ORD100206,2024-01-02,C7691,Maringá,PR,Web,Fashion,281.86,1,0.106,8.24,Correios,Cash,0.336,0.366,3,2024-01-05,0,5,290.1,2024-01,290.1,False,False,False
+ORD100207,2024-05-09,C4797,Curitiba,PR,Marketplace,Electronics,1523.91,2,0.163,23.0,Jadlog,Credit Card,1.857,1.759,2,2024-05-11,0,4,3070.82,2024-05,1535.41,True,True,True
+ORD100208,2024-08-07,C1382,Guarulhos,SP,Mobile App,Toys,195.71,1,0.025,36.72,Correios,Credit Card,0.166,0.164,4,2024-08-11,0,3,232.43,2024-08,232.43,False,False,False
+ORD100209,2024-02-23,C4662,Foz do Iguaçu,PR,Web,Beauty,488.37,1,0.0,31.23,Sequoia,Credit Card,0.489,0.502,1,2024-02-24,0,5,519.6,2024-02,519.6,False,False,False
+ORD100210,2024-12-08,C5435,Guarulhos,SP,Web,Toys,168.67,1,0.143,59.74,Sequoia,Credit Card,0.185,0.169,2,2024-12-10,0,4,228.41,2024-12,228.41,False,False,False
+ORD100211,2024-08-11,C6953,Porto Alegre,RS,Web,Beauty,427.46,1,0.082,20.93,Loggi,Credit Card,0.507,0.47,1,2024-08-12,0,5,448.39,2024-08,448.39,False,False,False
+ORD100212,2024-08-12,C6583,Campinas,SP,Web,Toys,263.09,2,0.129,1.9,Correios,Debit Card,0.339,0.332,6,2024-08-18,0,3,528.08,2024-08,264.04,False,False,False
+ORD100213,2024-05-05,C1192,Joinville,SC,Marketplace,Home,228.26,1,0.088,11.1,Correios,Credit Card,0.223,0.221,1,2024-05-06,0,5,239.36,2024-05,239.36,False,False,False
+ORD100214,2024-05-09,C3173,Rio de Janeiro,RJ,Mobile App,Home,686.91,2,0.102,7.43,Sequoia,Credit Card,0.67,0.741,5,2024-05-14,0,2,1381.25,2024-05,690.625,False,False,False
+ORD100215,2024-02-22,C1178,Campinas,SP,Mobile App,Toys,62.45,1,0.086,52.7,Jadlog,Cash,0.067,0.07,8,2024-03-01,0,3,115.15,2024-02,115.15,False,False,False
+ORD100216,2024-06-20,C2104,Foz do Iguaçu,PR,Mobile App,Toys,53.71,1,0.071,2.59,Correios,Credit Card,0.068,0.064,3,2024-06-23,0,2,56.3,2024-06,56.3,False,False,False
+ORD100217,2024-08-05,C9997,São Paulo,SP,Web,Toys,376.77,2,0.0,38.14,Correios,Credit Card,0.391,0.432,3,2024-08-08,0,3,791.68,2024-08,395.84,False,False,False
+ORD100218,2024-06-08,C5078,Cascavel,PR,Web,Fashion,414.37,1,0.171,1.52,Correios,Pix,0.411,0.433,1,2024-06-09,0,4,415.89,2024-06,415.89,False,False,False
+ORD100219,2024-07-16,C1343,Niterói,RJ,Web,Home,658.07,1,0.102,53.07,Loggi,Debit Card,0.644,0.606,9,2024-07-25,0,3,711.14,2024-07,711.14,False,False,False
+ORD100220,2024-09-03,C3120,Porto Alegre,RS,Marketplace,Electronics,163.57,1,0.217,15.71,Jadlog,Pix,0.183,0.207,2,2024-09-05,0,3,179.28,2024-09,179.28,False,False,False
+ORD100221,2024-11-19,C5272,Cascavel,PR,Web,Fashion,454.61,1,0.055,1.2,Correios,Credit Card,0.497,0.505,5,2024-11-24,0,4,455.81,2024-11,455.81,False,False,False
+ORD100222,2024-07-21,C3713,Niterói,RJ,Web,Home,377.27,1,0.084,42.44,Correios,Credit Card,0.35,0.333,8,2024-07-29,0,1,419.71,2024-07,419.71,False,False,False
+ORD100223,2024-07-02,C2480,Campinas,SP,Web,Home,153.78,2,0.0,56.2,Correios,Debit Card,0.134,0.124,3,2024-07-05,0,4,363.76,2024-07,181.88,False,False,False
+ORD100224,2024-05-02,C4122,Santos,SP,Web,Fashion,67.29,2,0.138,7.15,Correios,Credit Card,0.079,0.086,6,2024-05-08,0,5,141.73,2024-05,70.865,False,False,False
+ORD100225,2024-09-11,C2641,Belo Horizonte,MG,Mobile App,Books,168.04,1,0.102,33.86,Correios,Debit Card,0.178,0.188,2,2024-09-13,1,5,201.9,2024-09,201.9,False,False,False
+ORD100226,2024-10-20,C1641,Rio de Janeiro,RJ,Web,Fashion,38.06,1,0.137,15.45,Correios,Pix,0.05,0.056,7,2024-10-27,0,5,53.51,2024-10,53.51,False,False,False
+ORD100227,2024-10-06,C3283,Florianópolis,SC,Web,Beauty,166.55,3,0.082,44.44,Correios,Credit Card,0.216,0.222,2,2024-10-08,0,3,544.09,2024-10,181.36333333333334,False,False,False
+ORD100228,2024-11-20,C3007,Joinville,SC,Mobile App,Toys,98.85,4,0.181,24.14,Correios,Credit Card,0.131,0.136,2,2024-11-22,1,3,419.54,2024-11,104.885,False,False,False
+ORD100229,2024-04-07,C8072,Rio de Janeiro,RJ,Web,Fashion,199.88,1,0.129,17.08,Jadlog,Debit Card,0.247,0.24,11,2024-04-18,0,3,216.96,2024-04,216.96,False,False,False
+ORD100230,2024-07-16,C6839,Campinas,SP,Web,Beauty,160.93,2,0.129,5.97,Total Express,Credit Card,0.176,0.185,9,2024-07-25,0,5,327.83,2024-07,163.915,False,False,False
+ORD100231,2024-08-27,C4159,Joinville,SC,Web,Electronics,1774.07,1,0.074,40.19,Correios,Credit Card,2.012,1.889,4,2024-08-31,0,3,1814.26,2024-08,1814.26,True,False,True
+ORD100232,2024-05-23,C8787,Foz do Iguaçu,PR,Mobile App,Electronics,762.52,2,0.198,1.26,Correios,Credit Card,1.071,1.201,1,2024-05-24,0,4,1526.3,2024-05,763.15,False,False,False
+ORD100233,2024-04-06,C3803,Campinas,SP,Web,Sports,390.04,1,0.166,45.92,Correios,Boleto,0.524,0.568,3,2024-04-09,0,4,435.96,2024-04,435.96,False,False,False
+ORD100234,2024-07-19,C5402,Foz do Iguaçu,PR,Web,Beauty,294.45,2,0.101,39.22,Loggi,Credit Card,0.326,0.304,5,2024-07-24,0,3,628.12,2024-07,314.06,False,False,False
+ORD100235,2024-05-03,C4407,Curitiba,PR,Web,Home,141.18,1,0.198,25.16,Correios,Pix,0.176,0.159,4,2024-05-07,0,4,166.34,2024-05,166.34,False,False,False
+ORD100236,2024-07-05,C6287,Santos,SP,Web,Books,65.78,1,0.193,41.35,Total Express,Pix,0.079,0.073,4,2024-07-09,0,5,107.13,2024-07,107.13,False,False,False
+ORD100237,2024-11-21,C8211,Florianópolis,SC,Web,Sports,554.91,1,0.059,17.87,Correios,Pix,0.526,0.495,2,2024-11-23,0,5,572.78,2024-11,572.78,False,False,False
+ORD100238,2024-12-14,C7468,Maringá,PR,Web,Books,89.67,1,0.088,45.95,Correios,Credit Card,0.079,0.075,3,2024-12-17,0,5,135.62,2024-12,135.62,False,False,False
+ORD100239,2024-09-15,C8338,Curitiba,PR,Web,Toys,212.6,2,0.059,36.9,Total Express,Boleto,0.227,0.23,4,2024-09-19,0,5,462.1,2024-09,231.05,False,False,False
+ORD100240,2024-05-27,C2812,São Paulo,SP,Mobile App,Home,353.73,1,0.0,18.99,Correios,Credit Card,0.42,0.477,5,2024-06-01,0,4,372.72,2024-05,372.72,False,False,False
+ORD100241,2024-09-08,C3248,Foz do Iguaçu,PR,Web,Sports,55.95,1,0.156,59.73,Loggi,Credit Card,0.067,0.067,4,2024-09-12,0,5,115.68,2024-09,115.68,False,False,False
+ORD100242,2024-12-11,C8837,Florianópolis,SC,Mobile App,Fashion,306.73,2,0.052,20.82,Jadlog,Credit Card,0.322,0.354,1,2024-12-12,0,4,634.28,2024-12,317.14,False,False,False
+ORD100243,2024-05-26,C2099,Foz do Iguaçu,PR,Marketplace,Electronics,1641.18,1,0.148,52.35,Correios,Credit Card,2.254,2.401,4,2024-05-30,0,3,1693.53,2024-05,1693.53,True,False,True
+ORD100244,2024-05-27,C7654,Cascavel,PR,Mobile App,Fashion,304.75,2,0.056,16.01,Correios,Credit Card,0.272,0.301,2,2024-05-29,0,5,625.51,2024-05,312.755,False,False,False
+ORD100245,2024-12-17,C6470,Joinville,SC,Mobile App,Home,236.64,1,0.161,36.44,Jadlog,Credit Card,0.233,0.244,4,2024-12-21,0,3,273.08,2024-12,273.08,False,False,False
+ORD100246,2024-07-17,C3603,Porto Alegre,RS,Mobile App,Sports,114.04,1,0.118,5.37,Correios,Pix,0.143,0.155,2,2024-07-19,0,4,119.41,2024-07,119.41,False,False,False
+ORD100247,2024-11-03,C4557,Belo Horizonte,MG,Physical Store,Beauty,373.11,2,0.051,41.23,Correios,Credit Card,0.425,0.384,6,2024-11-09,0,3,787.45,2024-11,393.725,False,False,False
+ORD100248,2024-05-07,C3581,Curitiba,PR,Web,Sports,275.09,2,0.11,16.48,Correios,Credit Card,0.319,0.358,5,2024-05-12,0,4,566.66,2024-05,283.33,False,False,False
+ORD100249,2024-02-08,C8746,Belo Horizonte,MG,Web,Electronics,1281.28,1,0.038,46.55,Jadlog,Pix,1.126,1.195,5,2024-02-13,0,4,1327.83,2024-02,1327.83,False,False,False
+ORD100250,2024-12-03,C6408,Foz do Iguaçu,PR,Mobile App,Books,28.72,2,0.045,6.26,Sequoia,Credit Card,0.05,0.051,3,2024-12-06,0,4,63.7,2024-12,31.85,False,False,False
+ORD100251,2024-12-25,C3790,Santos,SP,Marketplace,Fashion,148.74,3,0.159,42.62,Jadlog,Credit Card,0.161,0.171,5,2024-12-30,0,5,488.84,2024-12,162.94666666666666,False,False,False
+ORD100252,2024-05-08,C8170,São Paulo,SP,Marketplace,Fashion,136.27,1,0.133,30.85,Correios,Debit Card,0.174,0.189,5,2024-05-13,0,3,167.12,2024-05,167.12,False,False,False
+ORD100253,2024-09-23,C5305,São Paulo,SP,Web,Fashion,417.51,3,0.125,58.86,Jadlog,Pix,0.525,0.564,4,2024-09-27,0,2,1311.39,2024-09,437.13000000000005,False,False,False
+ORD100254,2024-05-30,C5366,Guarulhos,SP,Mobile App,Electronics,1500.1,2,0.047,50.33,Correios,Boleto,1.607,1.524,2,2024-06-01,0,5,3050.53,2024-05,1525.265,True,True,True
+ORD100255,2024-10-24,C2982,Maringá,PR,Web,Fashion,309.56,2,0.063,24.07,Correios,Boleto,0.281,0.29,3,2024-10-27,0,3,643.19,2024-10,321.595,False,False,False
+ORD100256,2024-04-08,C5468,Cascavel,PR,Web,Home,245.59,2,0.039,7.57,Jadlog,Credit Card,0.292,0.333,1,2024-04-09,0,3,498.75,2024-04,249.375,False,False,False
+ORD100257,2024-09-19,C1066,São Paulo,SP,Mobile App,Home,95.19,1,0.077,1.98,Correios,Cash,0.115,0.126,4,2024-09-23,0,4,97.17,2024-09,97.17,False,False,False
+ORD100258,2024-09-08,C9089,Joinville,SC,Mobile App,Electronics,1966.72,2,0.152,29.6,Sequoia,Boleto,2.008,1.808,2,2024-09-10,1,5,3963.04,2024-09,1981.52,True,True,True
+ORD100259,2024-05-23,C4787,Campinas,SP,Web,Sports,562.23,2,0.015,18.22,Correios,Credit Card,0.481,0.484,4,2024-05-27,0,3,1142.68,2024-05,571.34,False,False,False
+ORD100260,2024-12-11,C4799,Joinville,SC,Mobile App,Electronics,359.82,2,0.152,15.97,Correios,Credit Card,0.491,0.512,5,2024-12-16,0,5,735.61,2024-12,367.805,False,False,False
+ORD100261,2024-04-21,C1100,Rio de Janeiro,RJ,Web,Electronics,1191.28,2,0.065,29.35,Correios,Credit Card,1.312,1.213,8,2024-04-29,0,5,2411.91,2024-04,1205.955,False,False,False
+ORD100262,2024-02-29,C9553,Rio de Janeiro,RJ,Marketplace,Home,205.44,1,0.181,8.77,Correios,Pix,0.266,0.266,4,2024-03-04,0,2,214.21,2024-02,214.21,False,False,False
+ORD100263,2024-01-02,C7713,Niterói,RJ,Web,Toys,53.97,4,0.044,44.06,Correios,Debit Card,0.063,0.06,6,2024-01-08,0,2,259.94,2024-01,64.985,False,False,False
+ORD100264,2024-10-30,C5675,Maringá,PR,Web,Electronics,2058.59,3,0.166,26.75,Jadlog,Pix,2.146,2.125,2,2024-11-01,0,2,6202.52,2024-10,2067.5066666666667,True,True,True
+ORD100265,2024-09-10,C1885,Campinas,SP,Mobile App,Beauty,217.25,2,0.0,8.66,Correios,Credit Card,0.25,0.24,7,2024-09-17,0,5,443.16,2024-09,221.58,False,False,False
+ORD100266,2024-05-19,C5987,Rio de Janeiro,RJ,Mobile App,Sports,71.11,3,0.012,31.51,Jadlog,Credit Card,0.079,0.074,9,2024-05-28,0,3,244.84,2024-05,81.61333333333333,False,False,False
+ORD100267,2024-02-06,C9719,Porto Alegre,RS,Marketplace,Fashion,486.74,2,0.032,12.26,Correios,Pix,0.603,0.615,1,2024-02-07,0,4,985.74,2024-02,492.87,False,False,False
+ORD100268,2024-06-08,C2392,Campinas,SP,Marketplace,Sports,298.98,2,0.005,56.09,Sequoia,Pix,0.295,0.277,1,2024-06-09,0,4,654.05,2024-06,327.025,False,False,False
+ORD100269,2024-01-09,C2524,Cascavel,PR,Web,Electronics,1056.15,2,0.173,42.89,Correios,Credit Card,1.513,1.727,1,2024-01-10,0,4,2155.19,2024-01,1077.595,False,False,False
+ORD100270,2024-08-20,C5224,Santos,SP,Mobile App,Fashion,165.9,2,0.033,16.88,Correios,Credit Card,0.139,0.156,3,2024-08-23,1,4,348.68,2024-08,174.34,False,False,False
+ORD100271,2024-04-08,C9961,Londrina,PR,Web,Beauty,70.72,2,0.098,8.04,Jadlog,Credit Card,0.067,0.069,4,2024-04-12,0,2,149.48,2024-04,74.74,False,False,False
+ORD100272,2024-05-26,C2040,Belo Horizonte,MG,Physical Store,Electronics,1772.07,3,0.247,38.71,Total Express,Credit Card,1.925,1.801,6,2024-06-01,0,4,5354.92,2024-05,1784.9733333333334,True,True,True
+ORD100273,2024-10-30,C3786,Foz do Iguaçu,PR,Web,Fashion,421.67,2,0.035,49.15,Sequoia,Debit Card,0.387,0.407,1,2024-10-31,0,4,892.49,2024-10,446.245,False,False,False
+ORD100274,2024-07-26,C3017,Campinas,SP,Mobile App,Home,650.62,1,0.019,25.08,Sequoia,Pix,0.557,0.514,5,2024-07-31,0,5,675.7,2024-07,675.7,False,False,False
+ORD100275,2024-05-10,C1648,Joinville,SC,Web,Electronics,1540.96,2,0.047,25.07,Correios,Credit Card,1.586,1.474,4,2024-05-14,0,5,3106.99,2024-05,1553.495,True,True,True
+ORD100276,2024-05-31,C9624,Guarulhos,SP,Web,Electronics,1228.21,2,0.049,33.25,Sequoia,Debit Card,1.408,1.59,4,2024-06-04,0,4,2489.67,2024-05,1244.835,False,True,False
+ORD100277,2024-02-23,C1595,Guarulhos,SP,Mobile App,Beauty,334.29,2,0.048,17.91,Correios,Pix,0.32,0.303,4,2024-02-27,0,3,686.49,2024-02,343.245,False,False,False
+ORD100278,2024-04-29,C2672,Belo Horizonte,MG,Marketplace,Electronics,1045.43,2,0.102,21.15,Correios,Pix,1.352,1.26,4,2024-05-03,0,4,2112.01,2024-04,1056.005,False,False,False
+ORD100279,2024-06-09,C4513,Guarulhos,SP,Web,Beauty,288.92,4,0.141,3.12,Correios,Credit Card,0.403,0.444,3,2024-06-12,0,4,1158.8,2024-06,289.7,False,False,False
+ORD100280,2024-04-25,C7546,Porto Alegre,RS,Web,Home,517.46,3,0.162,27.98,Correios,Credit Card,0.71,0.778,3,2024-04-28,0,4,1580.36,2024-04,526.7866666666666,False,False,False
+ORD100281,2024-03-15,C7261,Londrina,PR,Web,Beauty,101.28,2,0.137,0.95,Sequoia,Pix,0.097,0.098,2,2024-03-17,0,4,203.51,2024-03,101.755,False,False,False
+ORD100282,2024-04-22,C8111,Niterói,RJ,Mobile App,Electronics,2000.77,2,0.058,58.21,Jadlog,Credit Card,2.369,2.308,6,2024-04-28,0,3,4059.75,2024-04,2029.875,True,True,True
+ORD100283,2024-04-13,C9420,Niterói,RJ,Web,Electronics,2499.65,2,0.0,46.04,Correios,Boleto,2.315,2.54,7,2024-04-20,0,5,5045.34,2024-04,2522.67,True,True,True
+ORD100284,2024-12-05,C7452,Florianópolis,SC,Web,Home,622.86,2,0.045,6.35,Correios,Pix,0.779,0.853,1,2024-12-06,0,4,1252.07,2024-12,626.035,False,False,False
+ORD100285,2024-09-10,C2220,Maringá,PR,Mobile App,Electronics,860.6,1,0.196,45.42,Correios,Debit Card,1.198,1.294,3,2024-09-13,0,4,906.02,2024-09,906.02,False,False,False
+ORD100286,2024-08-14,C3166,Foz do Iguaçu,PR,Web,Home,341.47,1,0.0,27.72,Correios,Boleto,0.391,0.385,3,2024-08-17,0,5,369.19,2024-08,369.19,False,False,False
+ORD100287,2024-04-21,C4329,Campinas,SP,Physical Store,Electronics,1189.91,2,0.187,42.82,Loggi,Credit Card,1.679,1.692,5,2024-04-26,1,4,2422.64,2024-04,1211.32,False,False,False
+ORD100288,2024-04-08,C7519,Maringá,PR,Marketplace,Beauty,197.32,1,0.006,33.94,Correios,Debit Card,0.188,0.197,3,2024-04-11,0,5,231.26,2024-04,231.26,False,False,False
+ORD100289,2024-06-01,C6997,São Paulo,SP,Mobile App,Home,750.06,1,0.0,4.89,Total Express,Credit Card,0.723,0.735,6,2024-06-07,0,1,754.95,2024-06,754.95,False,False,False
+ORD100290,2024-12-14,C2469,Belo Horizonte,MG,Mobile App,Books,39.05,2,0.153,25.06,Correios,Credit Card,0.055,0.058,5,2024-12-19,0,1,103.16,2024-12,51.58,False,False,False
+ORD100291,2024-12-03,C9587,Belo Horizonte,MG,Web,Electronics,1812.99,2,0.086,37.77,Jadlog,Credit Card,2.089,2.143,6,2024-12-09,0,5,3663.75,2024-12,1831.875,True,True,True
+ORD100292,2024-07-12,C2736,São Paulo,SP,Web,Fashion,306.12,1,0.153,53.52,Loggi,Pix,0.433,0.419,7,2024-07-19,0,4,359.64,2024-07,359.64,False,False,False
+ORD100293,2024-11-05,C1391,Florianópolis,SC,Web,Toys,138.99,2,0.064,52.4,Sequoia,Credit Card,0.138,0.135,3,2024-11-08,0,5,330.38,2024-11,165.19,False,False,False
+ORD100294,2024-06-11,C4883,Curitiba,PR,Web,Electronics,463.26,2,0.052,35.2,Jadlog,Credit Card,0.467,0.512,1,2024-06-12,0,3,961.72,2024-06,480.86,False,False,False
+ORD100295,2024-07-26,C7558,Santos,SP,Physical Store,Sports,178.27,1,0.086,32.35,Correios,Cash,0.161,0.167,4,2024-07-30,0,5,210.62,2024-07,210.62,False,False,False
+ORD100296,2024-06-17,C4061,Campinas,SP,Web,Sports,306.57,3,0.136,3.32,Correios,Debit Card,0.417,0.455,4,2024-06-21,0,5,923.03,2024-06,307.6766666666667,False,False,False
+ORD100297,2024-06-09,C8013,Belo Horizonte,MG,Marketplace,Fashion,301.39,1,0.108,6.74,Correios,Credit Card,0.383,0.36,4,2024-06-13,0,2,308.13,2024-06,308.13,False,False,False
+ORD100298,2024-03-08,C1877,Santos,SP,Web,Home,718.49,4,0.0,33.58,Correios,Credit Card,0.84,0.799,6,2024-03-14,0,1,2907.54,2024-03,726.885,False,True,False
+ORD100299,2024-10-15,C8869,Belo Horizonte,MG,Marketplace,Fashion,127.76,4,0.152,33.28,Sequoia,Boleto,0.121,0.111,4,2024-10-19,0,4,544.32,2024-10,136.08,False,False,False
+ORD100300,2024-10-03,C4740,Curitiba,PR,Web,Fashion,191.61,2,0.136,45.02,Correios,Credit Card,0.204,0.197,1,2024-10-04,0,3,428.24,2024-10,214.12,False,False,False
+ORD100301,2024-10-30,C1604,São Paulo,SP,Web,Sports,827.13,2,0.166,32.99,Correios,Credit Card,1.046,1.196,3,2024-11-02,0,2,1687.25,2024-10,843.625,False,False,False
+ORD100302,2024-05-14,C5508,Guarulhos,SP,Web,Fashion,69.93,1,0.119,27.24,Correios,Credit Card,0.091,0.099,4,2024-05-18,0,2,97.17,2024-05,97.17,False,False,False
+ORD100303,2024-07-13,C3986,Niterói,RJ,Mobile App,Fashion,284.55,3,0.133,45.85,Correios,Credit Card,0.276,0.299,6,2024-07-19,0,4,899.5,2024-07,299.8333333333333,False,False,False
+ORD100304,2024-05-07,C8001,Curitiba,PR,Web,Home,511.23,1,0.051,49.07,Sequoia,Debit Card,0.635,0.583,5,2024-05-12,0,4,560.3,2024-05,560.3,False,False,False
+ORD100305,2024-02-02,C8420,Belo Horizonte,MG,Web,Books,91.87,2,0.137,5.33,Correios,Pix,0.093,0.089,5,2024-02-07,0,3,189.07,2024-02,94.535,False,False,False
+ORD100306,2024-06-24,C3653,São Paulo,SP,Web,Home,321.72,2,0.156,14.78,Correios,Credit Card,0.436,0.461,4,2024-06-28,0,4,658.22,2024-06,329.11,False,False,False
+ORD100307,2024-01-22,C1421,Foz do Iguaçu,PR,Mobile App,Electronics,2111.27,1,0.035,40.62,Loggi,Pix,2.399,2.556,3,2024-01-25,0,5,2151.89,2024-01,2151.89,True,False,True
+ORD100308,2024-08-25,C4201,Curitiba,PR,Web,Electronics,192.63,1,0.078,26.32,Correios,Credit Card,0.168,0.158,1,2024-08-26,0,3,218.95,2024-08,218.95,False,False,False
+ORD100309,2024-06-06,C3511,Cascavel,PR,Web,Toys,54.67,3,0.067,13.42,Correios,Boleto,0.051,0.053,5,2024-06-11,1,1,177.43,2024-06,59.14333333333334,False,False,False
+ORD100310,2024-02-07,C9023,Florianópolis,SC,Physical Store,Electronics,460.46,4,0.0,33.47,Correios,Credit Card,0.369,0.374,1,2024-02-08,0,4,1875.31,2024-02,468.8275,False,False,False
+ORD100311,2024-08-17,C4262,São Paulo,SP,Mobile App,Electronics,1549.38,2,0.017,30.68,Correios,Pix,1.641,1.808,3,2024-08-20,0,1,3129.44,2024-08,1564.72,True,True,True
+ORD100312,2024-12-30,C6641,Campinas,SP,Web,Home,355.02,2,0.169,18.21,Correios,Credit Card,0.422,0.41,5,2025-01-04,1,3,728.25,2024-12,364.125,False,False,False
+ORD100313,2024-02-20,C3956,Belo Horizonte,MG,Mobile App,Fashion,420.08,1,0.154,30.52,Loggi,Credit Card,0.583,0.612,5,2024-02-25,0,5,450.6,2024-02,450.6,False,False,False
+ORD100314,2024-09-20,C1801,Porto Alegre,RS,Physical Store,Beauty,402.23,1,0.139,54.25,Correios,Credit Card,0.489,0.46,3,2024-09-23,1,5,456.48,2024-09,456.48,False,False,False
+ORD100315,2024-10-09,C3889,Niterói,RJ,Marketplace,Books,62.13,1,0.141,6.43,Jadlog,Debit Card,0.087,0.092,9,2024-10-18,0,3,68.56,2024-10,68.56,False,False,False
+ORD100316,2024-01-27,C4416,Maringá,PR,Physical Store,Electronics,1424.43,1,0.0,51.36,Correios,Credit Card,1.248,1.363,4,2024-01-31,0,5,1475.79,2024-01,1475.79,True,False,True
+ORD100317,2024-08-13,C3024,Belo Horizonte,MG,Web,Fashion,75.35,1,0.168,45.35,Correios,Credit Card,0.077,0.085,4,2024-08-17,0,4,120.7,2024-08,120.7,False,False,False
+ORD100318,2024-10-03,C9444,Campinas,SP,Web,Electronics,1627.4,1,0.031,10.37,Sequoia,Credit Card,1.757,1.762,3,2024-10-06,0,1,1637.77,2024-10,1637.77,True,False,True
+ORD100319,2024-10-12,C9627,Rio de Janeiro,RJ,Mobile App,Fashion,427.9,1,0.0,45.98,Correios,Credit Card,0.481,0.537,6,2024-10-18,0,1,473.88,2024-10,473.88,False,False,False
+ORD100320,2024-04-06,C3399,Guarulhos,SP,Web,Sports,984.03,1,0.101,24.82,Correios,Credit Card,1.099,1.077,6,2024-04-12,1,5,1008.85,2024-04,1008.85,False,False,False
+ORD100321,2024-10-10,C5945,Foz do Iguaçu,PR,Web,Electronics,2137.88,1,0.0,44.92,Jadlog,Pix,1.743,1.653,5,2024-10-15,0,5,2182.8,2024-10,2182.8,True,False,True
+ORD100322,2024-11-12,C6985,Foz do Iguaçu,PR,Mobile App,Sports,421.68,1,0.065,27.34,Jadlog,Pix,0.404,0.43,4,2024-11-16,0,4,449.02,2024-11,449.02,False,False,False
+ORD100323,2024-10-30,C3130,Santos,SP,Web,Home,42.24,1,0.158,14.48,Correios,Credit Card,0.055,0.057,5,2024-11-04,0,5,56.72,2024-10,56.72,False,False,False
+ORD100324,2024-05-26,C1652,Santos,SP,Mobile App,Books,71.71,2,0.166,15.9,Loggi,Credit Card,0.092,0.101,4,2024-05-30,0,4,159.32,2024-05,79.66,False,False,False
+ORD100325,2024-01-04,C7449,Maringá,PR,Physical Store,Home,64.81,1,0.007,48.16,Sequoia,Credit Card,0.076,0.086,2,2024-01-06,0,4,112.97,2024-01,112.97,False,False,False
+ORD100326,2024-02-04,C5365,Belo Horizonte,MG,Mobile App,Books,52.34,3,0.125,3.5,Sequoia,Boleto,0.062,0.056,4,2024-02-08,0,4,160.52,2024-02,53.50666666666667,False,False,False
+ORD100327,2024-07-10,C1780,Joinville,SC,Mobile App,Fashion,195.0,2,0.056,35.55,Correios,Pix,0.185,0.208,1,2024-07-11,0,3,425.55,2024-07,212.775,False,False,False
+ORD100328,2024-02-18,C8083,Maringá,PR,Physical Store,Electronics,901.92,1,0.019,47.26,Correios,Credit Card,0.739,0.795,3,2024-02-21,0,5,949.18,2024-02,949.18,False,False,False
+ORD100329,2024-01-17,C4239,Joinville,SC,Mobile App,Sports,1120.74,1,0.014,29.19,Sequoia,Pix,1.194,1.274,3,2024-01-20,0,5,1149.93,2024-01,1149.93,False,False,False
+ORD100330,2024-06-20,C9160,Londrina,PR,Mobile App,Fashion,524.97,2,0.024,49.23,Loggi,Debit Card,0.499,0.54,1,2024-06-21,0,5,1099.17,2024-06,549.585,False,False,False
+ORD100331,2024-08-07,C6329,Belo Horizonte,MG,Mobile App,Fashion,239.81,2,0.176,5.81,Total Express,Credit Card,0.323,0.308,3,2024-08-10,0,3,485.43,2024-08,242.715,False,False,False
+ORD100332,2024-06-06,C4052,São Paulo,SP,Marketplace,Toys,213.23,1,0.0,48.76,Correios,Debit Card,0.236,0.267,5,2024-06-11,1,4,261.99,2024-06,261.99,False,False,False
+ORD100333,2024-02-15,C6769,São Paulo,SP,Web,Beauty,425.57,2,0.061,6.44,Correios,Credit Card,0.462,0.528,5,2024-02-20,0,4,857.58,2024-02,428.79,False,False,False
+ORD100334,2024-01-06,C8769,Niterói,RJ,Marketplace,Beauty,39.76,1,0.056,36.79,Jadlog,Pix,0.05,0.055,3,2024-01-09,0,2,76.55,2024-01,76.55,False,False,False
+ORD100335,2024-04-08,C1625,Londrina,PR,Mobile App,Sports,556.25,3,0.0,15.24,Total Express,Cash,0.651,0.714,5,2024-04-13,0,5,1683.99,2024-04,561.33,False,False,False
+ORD100336,2024-08-20,C5300,Florianópolis,SC,Web,Toys,352.42,1,0.023,45.82,Jadlog,Cash,0.296,0.274,5,2024-08-25,0,4,398.24,2024-08,398.24,False,False,False
+ORD100337,2024-02-06,C2832,Londrina,PR,Mobile App,Fashion,441.75,1,0.0,38.36,Correios,Credit Card,0.402,0.451,2,2024-02-08,0,5,480.11,2024-02,480.11,False,False,False
+ORD100338,2024-10-06,C7786,Londrina,PR,Marketplace,Books,95.34,3,0.014,19.24,Correios,Pix,0.101,0.101,3,2024-10-09,0,5,305.26,2024-10,101.75333333333333,False,False,False
+ORD100339,2024-12-14,C3108,Maringá,PR,Marketplace,Electronics,1307.22,1,0.139,32.02,Correios,Boleto,1.637,1.674,1,2024-12-15,0,3,1339.24,2024-12,1339.24,False,False,False
+ORD100340,2024-10-28,C2509,Cascavel,PR,Mobile App,Fashion,279.56,4,0.107,27.23,Jadlog,Debit Card,0.31,0.308,4,2024-11-01,0,4,1145.47,2024-10,286.3675,False,False,False
+ORD100341,2024-06-29,C2025,Guarulhos,SP,Mobile App,Home,222.49,2,0.187,50.48,Loggi,Debit Card,0.25,0.281,5,2024-07-04,0,4,495.46,2024-06,247.73,False,False,False
+ORD100342,2024-04-04,C5092,Curitiba,PR,Web,Fashion,95.79,2,0.073,30.27,Loggi,Debit Card,0.103,0.101,1,2024-04-05,0,2,221.85,2024-04,110.925,False,False,False
+ORD100343,2024-04-08,C7083,Niterói,RJ,Web,Home,407.1,1,0.017,24.95,Correios,Credit Card,0.348,0.34,9,2024-04-17,0,4,432.05,2024-04,432.05,False,False,False
+ORD100344,2024-07-06,C3176,Niterói,RJ,Mobile App,Electronics,683.86,2,0.0,42.48,Correios,Debit Card,0.725,0.674,8,2024-07-14,0,4,1410.2,2024-07,705.1,False,False,False
+ORD100345,2024-04-25,C8394,Niterói,RJ,Mobile App,Books,166.48,2,0.155,50.07,Jadlog,Pix,0.181,0.178,7,2024-05-02,0,1,383.03,2024-04,191.515,False,False,False
+ORD100346,2024-07-09,C1864,São Paulo,SP,Mobile App,Fashion,219.84,1,0.025,57.69,Jadlog,Debit Card,0.19,0.19,7,2024-07-16,0,4,277.53,2024-07,277.53,False,False,False
+ORD100347,2024-09-09,C2631,Curitiba,PR,Web,Electronics,2000.73,2,0.072,19.62,Sequoia,Debit Card,2.446,2.81,3,2024-09-12,0,2,4021.08,2024-09,2010.54,True,True,True
+ORD100348,2024-06-09,C6206,Londrina,PR,Mobile App,Home,533.11,3,0.128,16.44,Correios,Pix,0.556,0.554,4,2024-06-13,0,3,1615.77,2024-06,538.59,False,False,False
+ORD100349,2024-09-12,C5512,Guarulhos,SP,Marketplace,Fashion,246.81,4,0.03,49.78,Sequoia,Pix,0.245,0.261,6,2024-09-18,0,4,1037.02,2024-09,259.255,False,False,False
+ORD100350,2024-11-18,C1632,Florianópolis,SC,Web,Books,131.73,2,0.128,8.89,Correios,Pix,0.131,0.137,1,2024-11-19,0,5,272.35,2024-11,136.175,False,False,False
+ORD100351,2024-05-07,C1096,Joinville,SC,Mobile App,Home,124.64,1,0.11,43.49,Correios,Boleto,0.168,0.16,2,2024-05-09,0,5,168.13,2024-05,168.13,False,False,False
+ORD100352,2024-01-18,C5775,Cascavel,PR,Web,Toys,275.1,2,0.125,50.44,Correios,Credit Card,0.332,0.303,2,2024-01-20,0,5,600.64,2024-01,300.32,False,False,False
+ORD100353,2024-10-07,C7839,São Paulo,SP,Mobile App,Electronics,1788.43,1,0.0,59.02,Correios,Pix,1.664,1.757,6,2024-10-13,0,1,1847.45,2024-10,1847.45,True,False,True
+ORD100354,2024-08-10,C3520,Belo Horizonte,MG,Physical Store,Electronics,843.69,2,0.171,48.48,Correios,Credit Card,1.108,1.041,5,2024-08-15,0,5,1735.86,2024-08,867.93,False,False,False
+ORD100355,2024-02-23,C8678,Belo Horizonte,MG,Marketplace,Books,122.51,2,0.085,31.06,Jadlog,Debit Card,0.159,0.146,6,2024-02-29,0,5,276.08,2024-02,138.04,False,False,False
+ORD100356,2024-02-27,C3787,Belo Horizonte,MG,Mobile App,Books,134.79,2,0.12,56.16,Correios,Pix,0.165,0.163,2,2024-02-29,0,5,325.74,2024-02,162.87,False,False,False
+ORD100357,2024-11-18,C3532,Campinas,SP,Web,Fashion,33.72,1,0.0,34.91,Correios,Credit Card,0.05,0.05,4,2024-11-22,0,2,68.63,2024-11,68.63,False,False,False
+ORD100358,2024-12-25,C5114,Maringá,PR,Web,Electronics,1395.7,1,0.072,20.49,Loggi,Boleto,1.514,1.638,3,2024-12-28,0,3,1416.19,2024-12,1416.19,True,False,False
+ORD100359,2024-06-22,C2079,Rio de Janeiro,RJ,Marketplace,Home,466.85,2,0.066,14.83,Correios,Pix,0.576,0.647,5,2024-06-27,0,4,948.53,2024-06,474.265,False,False,False
+ORD100360,2024-10-06,C2292,Londrina,PR,Web,Fashion,239.62,2,0.024,20.05,Correios,Credit Card,0.275,0.309,1,2024-10-07,0,4,499.29,2024-10,249.645,False,False,False
+ORD100361,2024-04-23,C9007,Rio de Janeiro,RJ,Web,Fashion,470.38,1,0.088,56.04,Correios,Credit Card,0.589,0.63,7,2024-04-30,0,3,526.42,2024-04,526.42,False,False,False
+ORD100362,2024-10-14,C5094,Porto Alegre,RS,Web,Beauty,30.04,1,0.0,30.96,Sequoia,Credit Card,0.05,0.052,2,2024-10-16,0,4,61.0,2024-10,61.0,False,False,False
+ORD100363,2024-12-07,C1565,Maringá,PR,Mobile App,Sports,489.22,2,0.069,36.34,Correios,Pix,0.603,0.628,1,2024-12-08,0,2,1014.78,2024-12,507.39,False,False,False
+ORD100364,2024-05-30,C5023,Belo Horizonte,MG,Marketplace,Fashion,37.77,1,0.0,24.63,Correios,Credit Card,0.05,0.05,4,2024-06-03,0,1,62.4,2024-05,62.4,False,False,False
+ORD100365,2024-05-06,C1427,Cascavel,PR,Web,Home,317.5,1,0.148,0.93,Correios,Credit Card,0.356,0.357,3,2024-05-09,0,2,318.43,2024-05,318.43,False,False,False
+ORD100366,2024-06-03,C2115,Foz do Iguaçu,PR,Mobile App,Books,176.66,1,0.069,53.79,Correios,Cash,0.183,0.183,5,2024-06-08,0,5,230.45,2024-06,230.45,False,False,False
+ORD100367,2024-09-29,C4030,São Paulo,SP,Marketplace,Electronics,2145.74,1,0.135,7.28,Correios,Credit Card,2.629,2.834,3,2024-10-02,0,2,2153.02,2024-09,2153.02,True,False,True
+ORD100368,2024-04-13,C8218,Maringá,PR,Web,Fashion,83.18,1,0.011,21.08,Sequoia,Cash,0.069,0.072,2,2024-04-15,0,3,104.26,2024-04,104.26,False,False,False
+ORD100369,2024-10-25,C1496,Joinville,SC,Physical Store,Beauty,304.88,2,0.136,35.19,Total Express,Credit Card,0.409,0.381,1,2024-10-26,0,5,644.95,2024-10,322.475,False,False,False
+ORD100370,2024-09-02,C4612,Cascavel,PR,Web,Sports,194.06,2,0.144,12.02,Jadlog,Credit Card,0.201,0.203,4,2024-09-06,0,5,400.14,2024-09,200.07,False,False,False
+ORD100371,2024-06-24,C7204,Cascavel,PR,Marketplace,Sports,310.56,1,0.147,5.75,Loggi,Boleto,0.344,0.375,4,2024-06-28,0,5,316.31,2024-06,316.31,False,False,False
+ORD100372,2024-02-08,C1922,Campinas,SP,Web,Fashion,250.13,2,0.034,20.19,Correios,Debit Card,0.284,0.271,3,2024-02-11,0,5,520.45,2024-02,260.225,False,False,False
+ORD100373,2024-06-18,C8238,São Paulo,SP,Marketplace,Home,222.57,1,0.05,6.05,Correios,Pix,0.269,0.251,7,2024-06-25,0,3,228.62,2024-06,228.62,False,False,False
+ORD100374,2024-09-03,C2055,Curitiba,PR,Physical Store,Fashion,347.15,1,0.124,9.19,Correios,Credit Card,0.447,0.426,2,2024-09-05,0,2,356.34,2024-09,356.34,False,False,False
+ORD100375,2024-01-26,C6024,Niterói,RJ,Marketplace,Fashion,341.07,1,0.062,40.98,Total Express,Pix,0.397,0.362,6,2024-02-01,0,5,382.05,2024-01,382.05,False,False,False
+ORD100376,2024-12-20,C8933,Campinas,SP,Mobile App,Electronics,829.04,2,0.115,54.64,Correios,Cash,0.823,0.87,4,2024-12-24,0,2,1712.72,2024-12,856.36,False,False,False
+ORD100377,2024-11-01,C7185,Cascavel,PR,Mobile App,Home,598.33,1,0.0,0.01,Sequoia,Credit Card,0.686,0.657,4,2024-11-05,0,4,598.34,2024-11,598.34,False,False,False
+ORD100378,2024-01-13,C5541,Curitiba,PR,Web,Fashion,298.59,2,0.115,1.33,Sequoia,Credit Card,0.313,0.301,2,2024-01-15,0,5,598.51,2024-01,299.255,False,False,False
+ORD100379,2024-11-11,C5967,São Paulo,SP,Marketplace,Electronics,1648.02,1,0.097,5.48,Jadlog,Credit Card,1.539,1.765,5,2024-11-16,0,4,1653.5,2024-11,1653.5,True,False,True
+ORD100380,2024-11-08,C5377,Foz do Iguaçu,PR,Mobile App,Home,259.09,1,0.026,14.46,Loggi,Boleto,0.252,0.282,2,2024-11-10,0,4,273.55,2024-11,273.55,False,False,False
+ORD100381,2024-02-05,C3800,Joinville,SC,Web,Toys,24.63,1,0.055,56.81,Sequoia,Credit Card,0.05,0.057,5,2024-02-10,0,5,81.44,2024-02,81.44,False,False,False
+ORD100382,2024-06-21,C9592,Cascavel,PR,Web,Electronics,1604.34,1,0.101,58.53,Correios,Pix,1.43,1.399,1,2024-06-22,0,3,1662.87,2024-06,1662.87,True,False,True
+ORD100383,2024-01-20,C3303,Belo Horizonte,MG,Web,Fashion,97.6,1,0.166,12.97,Sequoia,Debit Card,0.131,0.148,3,2024-01-23,1,1,110.57,2024-01,110.57,False,False,False
+ORD100384,2024-11-16,C6539,Rio de Janeiro,RJ,Web,Sports,260.98,1,0.0,36.69,Correios,Pix,0.22,0.202,9,2024-11-25,0,4,297.67,2024-11,297.67,False,False,False
+ORD100385,2024-09-20,C9879,Londrina,PR,Web,Electronics,457.08,2,0.129,26.83,Jadlog,Credit Card,0.439,0.452,3,2024-09-23,0,5,940.99,2024-09,470.495,False,False,False
+ORD100386,2024-05-21,C9060,Maringá,PR,Mobile App,Electronics,2070.4,1,0.017,30.51,Correios,Credit Card,1.709,1.797,1,2024-05-22,0,3,2100.91,2024-05,2100.91,True,False,True
+ORD100387,2024-05-22,C7454,Maringá,PR,Web,Electronics,297.31,2,0.116,54.22,Correios,Credit Card,0.327,0.305,5,2024-05-27,0,4,648.84,2024-05,324.42,False,False,False
+ORD100388,2024-04-01,C2283,Belo Horizonte,MG,Physical Store,Books,128.58,2,0.23,49.8,Sequoia,Credit Card,0.17,0.161,4,2024-04-05,0,3,306.96,2024-04,153.48,False,False,False
+ORD100389,2024-12-19,C9372,Cascavel,PR,Mobile App,Books,76.27,3,0.069,3.77,Jadlog,Credit Card,0.085,0.088,4,2024-12-23,0,3,232.58,2024-12,77.52666666666667,False,False,False
+ORD100390,2024-11-17,C3274,Londrina,PR,Web,Home,430.63,1,0.122,46.0,Jadlog,Cash,0.427,0.391,2,2024-11-19,0,4,476.63,2024-11,476.63,False,False,False
+ORD100391,2024-10-14,C8063,Foz do Iguaçu,PR,Marketplace,Home,632.29,1,0.08,20.64,Jadlog,Cash,0.759,0.864,2,2024-10-16,0,3,652.93,2024-10,652.93,False,False,False
+ORD100392,2024-08-02,C4279,Curitiba,PR,Marketplace,Home,481.74,1,0.079,25.2,Correios,Credit Card,0.57,0.608,1,2024-08-03,0,5,506.94,2024-08,506.94,False,False,False
+ORD100393,2024-12-07,C4688,Rio de Janeiro,RJ,Mobile App,Home,219.84,2,0.106,54.71,Correios,Pix,0.28,0.266,7,2024-12-14,0,5,494.39,2024-12,247.195,False,False,False
+ORD100394,2024-02-20,C3599,Londrina,PR,Web,Toys,135.6,1,0.0,52.4,Correios,Pix,0.144,0.153,2,2024-02-22,1,1,188.0,2024-02,188.0,False,False,False
+ORD100395,2024-06-01,C1076,Curitiba,PR,Web,Home,72.73,2,0.052,19.99,Correios,Credit Card,0.062,0.069,4,2024-06-05,0,4,165.45,2024-06,82.725,False,False,False
+ORD100396,2024-07-04,C8631,Londrina,PR,Physical Store,Electronics,1883.38,2,0.002,15.13,Sequoia,Cash,1.854,2.061,4,2024-07-08,0,4,3781.89,2024-07,1890.945,True,True,True
+ORD100397,2024-03-03,C8636,Porto Alegre,RS,Mobile App,Electronics,1075.59,1,0.186,9.13,Correios,Credit Card,1.562,1.692,1,2024-03-04,0,5,1084.72,2024-03,1084.72,False,False,False
+ORD100398,2024-07-08,C7629,Foz do Iguaçu,PR,Marketplace,Fashion,241.31,1,0.007,24.34,Correios,Pix,0.252,0.275,5,2024-07-13,0,3,265.65,2024-07,265.65,False,False,False
+ORD100399,2024-05-04,C1318,Joinville,SC,Physical Store,Fashion,293.57,1,0.047,16.84,Correios,Cash,0.287,0.306,2,2024-05-06,0,3,310.41,2024-05,310.41,False,False,False
+ORD100400,2024-05-29,C8496,Joinville,SC,Web,Electronics,1647.23,2,0.197,0.52,Correios,Boleto,1.941,1.942,4,2024-06-02,0,4,3294.98,2024-05,1647.49,True,True,True
+ORD100401,2024-11-09,C6913,Maringá,PR,Marketplace,Electronics,1035.27,2,0.164,1.22,Correios,Debit Card,1.418,1.377,3,2024-11-12,0,4,2071.76,2024-11,1035.88,False,False,False
+ORD100402,2024-02-27,C4349,Porto Alegre,RS,Marketplace,Fashion,473.23,1,0.17,33.21,Correios,Credit Card,0.667,0.698,1,2024-02-28,0,4,506.44,2024-02,506.44,False,False,False
+ORD100403,2024-12-07,C2906,Londrina,PR,Physical Store,Books,95.99,3,0.074,3.82,Loggi,Credit Card,0.106,0.096,3,2024-12-10,0,4,291.79,2024-12,97.26333333333334,False,False,False
+ORD100404,2024-10-31,C6604,Guarulhos,SP,Physical Store,Beauty,160.26,2,0.049,47.44,Correios,Credit Card,0.135,0.134,5,2024-11-05,0,5,367.96,2024-10,183.98,False,False,False
+ORD100405,2024-06-28,C1976,Guarulhos,SP,Physical Store,Sports,605.61,2,0.037,39.85,Sequoia,Credit Card,0.716,0.738,6,2024-07-04,0,5,1251.07,2024-06,625.535,False,False,False
+ORD100406,2024-06-18,C4928,Joinville,SC,Marketplace,Fashion,504.35,2,0.0,48.38,Total Express,Debit Card,0.46,0.469,2,2024-06-20,0,2,1057.08,2024-06,528.54,False,False,False
+ORD100407,2024-11-21,C9916,Campinas,SP,Web,Electronics,720.95,3,0.151,11.82,Jadlog,Pix,0.802,0.765,6,2024-11-27,0,5,2174.67,2024-11,724.89,False,False,False
+ORD100408,2024-09-27,C6423,Niterói,RJ,Marketplace,Electronics,1969.18,1,0.041,32.12,Correios,Pix,1.734,1.681,6,2024-10-03,0,4,2001.3,2024-09,2001.3,True,False,True
+ORD100409,2024-02-23,C2245,Guarulhos,SP,Marketplace,Home,453.34,2,0.045,24.21,Loggi,Credit Card,0.404,0.412,7,2024-03-01,0,3,930.89,2024-02,465.445,False,False,False
+ORD100410,2024-04-10,C4435,Maringá,PR,Web,Fashion,298.91,1,0.087,17.66,Jadlog,Credit Card,0.303,0.308,2,2024-04-12,0,4,316.57,2024-04,316.57,False,False,False
+ORD100411,2024-09-20,C7213,Rio de Janeiro,RJ,Web,Electronics,2028.28,1,0.087,56.61,Loggi,Credit Card,2.295,2.593,9,2024-09-29,0,4,2084.89,2024-09,2084.89,True,False,True
+ORD100412,2024-02-22,C1124,Belo Horizonte,MG,Marketplace,Electronics,1758.55,1,0.067,7.46,Correios,Credit Card,1.941,2.049,7,2024-02-29,0,5,1766.01,2024-02,1766.01,True,False,True
+ORD100413,2024-02-29,C5839,Porto Alegre,RS,Marketplace,Sports,783.0,1,0.0,47.61,Correios,Boleto,0.882,1.0,3,2024-03-03,0,5,830.61,2024-02,830.61,False,False,False
+ORD100414,2024-04-17,C3063,Belo Horizonte,MG,Web,Electronics,311.14,1,0.085,3.11,Loggi,Boleto,0.316,0.297,8,2024-04-25,0,1,314.25,2024-04,314.25,False,False,False
+ORD100415,2024-01-05,C9269,Curitiba,PR,Mobile App,Fashion,392.32,1,0.17,26.63,Loggi,Debit Card,0.386,0.407,3,2024-01-08,0,3,418.95,2024-01,418.95,False,False,False
+ORD100416,2024-04-12,C9176,Santos,SP,Web,Fashion,267.72,1,0.008,45.35,Correios,Cash,0.25,0.276,7,2024-04-19,0,3,313.07,2024-04,313.07,False,False,False
+ORD100417,2024-07-14,C7227,Guarulhos,SP,Web,Home,598.44,1,0.037,38.3,Total Express,Pix,0.69,0.76,5,2024-07-19,0,3,636.74,2024-07,636.74,False,False,False
+ORD100418,2024-09-18,C3922,Campinas,SP,Mobile App,Fashion,108.12,1,0.141,46.42,Loggi,Credit Card,0.12,0.129,3,2024-09-21,0,5,154.54,2024-09,154.54,False,False,False
+ORD100419,2024-12-30,C8540,Curitiba,PR,Mobile App,Home,243.05,1,0.204,26.16,Correios,Pix,0.281,0.294,3,2025-01-02,0,4,269.21,2024-12,269.21,False,False,False
+ORD100420,2024-12-15,C6733,Guarulhos,SP,Physical Store,Books,29.72,2,0.062,32.01,Sequoia,Credit Card,0.05,0.055,5,2024-12-20,0,2,91.45,2024-12,45.725,False,False,False
+ORD100421,2024-02-16,C1947,Florianópolis,SC,Marketplace,Home,367.6,1,0.059,1.8,Loggi,Credit Card,0.462,0.475,1,2024-02-17,0,4,369.4,2024-02,369.4,False,False,False
+ORD100422,2024-12-20,C9945,Curitiba,PR,Marketplace,Beauty,406.42,2,0.141,10.68,Correios,Pix,0.555,0.55,4,2024-12-24,0,3,823.52,2024-12,411.76,False,False,False
+ORD100423,2024-11-06,C3460,Curitiba,PR,Web,Books,134.18,1,0.162,19.76,Correios,Credit Card,0.191,0.183,1,2024-11-07,0,4,153.94,2024-11,153.94,False,False,False
+ORD100424,2024-11-03,C6396,Santos,SP,Mobile App,Fashion,66.25,2,0.163,8.13,Correios,Credit Card,0.089,0.085,3,2024-11-06,0,5,140.63,2024-11,70.315,False,False,False
+ORD100425,2024-05-23,C6212,Maringá,PR,Marketplace,Electronics,251.87,1,0.15,57.65,Jadlog,Boleto,0.306,0.328,2,2024-05-25,0,3,309.52,2024-05,309.52,False,False,False
+ORD100426,2024-09-25,C9621,Campinas,SP,Web,Toys,204.75,3,0.202,24.66,Correios,Credit Card,0.247,0.256,5,2024-09-30,0,4,638.91,2024-09,212.97,False,False,False
+ORD100427,2024-05-03,C5649,Foz do Iguaçu,PR,Marketplace,Fashion,211.11,3,0.001,29.79,Loggi,Credit Card,0.199,0.186,2,2024-05-05,0,4,663.12,2024-05,221.04,False,False,False
+ORD100428,2024-04-15,C4095,Cascavel,PR,Web,Electronics,744.07,1,0.104,42.13,Jadlog,Pix,0.664,0.756,1,2024-04-16,0,5,786.2,2024-04,786.2,False,False,False
+ORD100429,2024-06-06,C5030,Campinas,SP,Physical Store,Toys,268.53,1,0.039,55.97,Loggi,Credit Card,0.3,0.329,8,2024-06-14,0,5,324.5,2024-06,324.5,False,False,False
+ORD100430,2024-05-26,C7632,Rio de Janeiro,RJ,Marketplace,Electronics,1652.17,1,0.0,49.36,Loggi,Credit Card,1.666,1.686,5,2024-05-31,0,2,1701.53,2024-05,1701.53,True,False,True
+ORD100431,2024-05-24,C8170,Curitiba,PR,Marketplace,Electronics,300.68,1,0.083,8.35,Correios,Credit Card,0.287,0.278,4,2024-05-28,0,5,309.03,2024-05,309.03,False,False,False
+ORD100432,2024-04-29,C8803,Campinas,SP,Marketplace,Sports,351.96,2,0.0,10.72,Jadlog,Pix,0.361,0.411,3,2024-05-02,0,3,714.64,2024-04,357.32,False,False,False
+ORD100433,2024-11-14,C5486,São Paulo,SP,Mobile App,Home,287.59,3,0.048,50.78,Loggi,Pix,0.341,0.341,5,2024-11-19,0,4,913.55,2024-11,304.51666666666665,False,False,False
+ORD100434,2024-10-01,C1465,Cascavel,PR,Mobile App,Books,17.49,1,0.044,10.77,Correios,Pix,0.05,0.05,2,2024-10-03,0,4,28.26,2024-10,28.26,False,False,False
+ORD100435,2024-04-01,C7656,Rio de Janeiro,RJ,Web,Fashion,399.66,2,0.0,56.54,Correios,Pix,0.374,0.412,6,2024-04-07,0,5,855.86,2024-04,427.93,False,False,False
+ORD100436,2024-02-27,C4626,São Paulo,SP,Mobile App,Electronics,1048.83,2,0.0,15.07,Sequoia,Debit Card,0.975,0.974,4,2024-03-02,0,4,2112.73,2024-02,1056.365,False,False,False
+ORD100437,2024-12-11,C1615,Santos,SP,Marketplace,Electronics,379.96,2,0.0,17.09,Loggi,Debit Card,0.426,0.468,4,2024-12-15,0,5,777.01,2024-12,388.505,False,False,False
+ORD100438,2024-08-16,C5263,São Paulo,SP,Marketplace,Electronics,1900.5,1,0.045,52.75,Jadlog,Pix,1.861,1.708,5,2024-08-21,0,5,1953.25,2024-08,1953.25,True,False,True
+ORD100439,2024-04-26,C9888,Niterói,RJ,Marketplace,Home,55.83,2,0.019,24.43,Loggi,Credit Card,0.05,0.051,6,2024-05-02,0,4,136.09,2024-04,68.045,False,False,False
+ORD100440,2024-11-13,C4952,Cascavel,PR,Web,Home,452.26,2,0.148,3.57,Sequoia,Credit Card,0.5,0.533,6,2024-11-19,1,3,908.09,2024-11,454.045,False,False,False
+ORD100441,2024-10-05,C3389,Belo Horizonte,MG,Marketplace,Electronics,202.08,1,0.0,26.91,Correios,Pix,0.177,0.197,3,2024-10-08,0,4,228.99,2024-10,228.99,False,False,False
+ORD100442,2024-05-06,C5826,Londrina,PR,Mobile App,Home,64.76,2,0.0,27.9,Sequoia,Pix,0.057,0.064,3,2024-05-09,0,5,157.42,2024-05,78.71,False,False,False
+ORD100443,2024-05-08,C2088,São Paulo,SP,Web,Electronics,429.98,1,0.061,30.08,Correios,Credit Card,0.399,0.424,3,2024-05-11,0,4,460.06,2024-05,460.06,False,False,False
+ORD100444,2024-02-27,C3666,Foz do Iguaçu,PR,Physical Store,Electronics,1355.04,2,0.024,32.67,Correios,Debit Card,1.498,1.582,2,2024-02-29,0,4,2742.75,2024-02,1371.375,False,True,False
+ORD100445,2024-05-01,C6423,Santos,SP,Web,Electronics,747.24,3,0.048,43.77,Correios,Cash,0.699,0.669,3,2024-05-04,0,4,2285.49,2024-05,761.8299999999999,False,False,False
+ORD100446,2024-01-01,C9968,Belo Horizonte,MG,Web,Fashion,260.88,1,0.123,6.94,Jadlog,Boleto,0.314,0.333,4,2024-01-05,0,2,267.82,2024-01,267.82,False,False,False
+ORD100447,2024-08-26,C6213,Santos,SP,Mobile App,Toys,251.84,1,0.077,18.68,Correios,Boleto,0.241,0.258,6,2024-09-01,0,5,270.52,2024-08,270.52,False,False,False
+ORD100448,2024-10-16,C1942,Santos,SP,Marketplace,Electronics,708.58,1,0.0,47.46,Correios,Debit Card,0.776,0.775,3,2024-10-19,0,4,756.04,2024-10,756.04,False,False,False
+ORD100449,2024-04-05,C7804,Curitiba,PR,Web,Electronics,1116.55,2,0.0,44.23,Correios,Pix,1.297,1.201,2,2024-04-07,1,5,2277.33,2024-04,1138.665,False,False,False
+ORD100450,2024-05-05,C9253,Santos,SP,Web,Electronics,2319.3,2,0.0,59.67,Jadlog,Cash,2.494,2.428,4,2024-05-09,0,3,4698.27,2024-05,2349.135,True,True,True
+ORD100451,2024-04-27,C7596,São Paulo,SP,Physical Store,Electronics,1096.58,2,0.091,35.39,Correios,Credit Card,1.044,1.005,7,2024-05-04,0,4,2228.55,2024-04,1114.275,False,False,False
+ORD100452,2024-02-17,C8897,Londrina,PR,Web,Sports,429.98,1,0.071,34.73,Loggi,Credit Card,0.466,0.499,2,2024-02-19,0,4,464.71,2024-02,464.71,False,False,False
+ORD100453,2024-03-29,C2399,Niterói,RJ,Web,Books,75.26,3,0.0,15.39,Correios,Credit Card,0.063,0.067,5,2024-04-03,0,5,241.17,2024-03,80.39,False,False,False
+ORD100454,2024-08-24,C5098,Santos,SP,Physical Store,Books,48.99,1,0.08,8.45,Loggi,Credit Card,0.052,0.05,6,2024-08-30,0,1,57.44,2024-08,57.44,False,False,False
+ORD100455,2024-09-28,C5402,Santos,SP,Web,Electronics,1776.98,2,0.041,7.54,Jadlog,Credit Card,1.83,2.005,4,2024-10-02,0,4,3561.5,2024-09,1780.75,True,True,True
+ORD100456,2024-07-07,C4754,Campinas,SP,Web,Home,53.23,2,0.066,6.39,Jadlog,Credit Card,0.051,0.05,5,2024-07-12,0,5,112.85,2024-07,56.425,False,False,False
+ORD100457,2024-07-10,C4343,Florianópolis,SC,Mobile App,Beauty,38.64,2,0.068,49.36,Correios,Credit Card,0.05,0.052,1,2024-07-11,0,3,126.64,2024-07,63.32,False,False,False
+ORD100458,2024-03-09,C2780,Foz do Iguaçu,PR,Web,Electronics,2025.68,1,0.113,2.29,Jadlog,Credit Card,2.621,2.971,5,2024-03-14,0,3,2027.97,2024-03,2027.97,True,False,True
+ORD100459,2024-10-04,C6965,Porto Alegre,RS,Marketplace,Beauty,25.72,1,0.067,4.99,Sequoia,Credit Card,0.05,0.05,3,2024-10-07,0,3,30.71,2024-10,30.71,False,False,False
+ORD100460,2024-12-14,C5703,Belo Horizonte,MG,Marketplace,Sports,437.28,1,0.139,36.22,Correios,Boleto,0.438,0.481,3,2024-12-17,0,2,473.5,2024-12,473.5,False,False,False
+ORD100461,2024-09-03,C9527,Niterói,RJ,Marketplace,Beauty,275.32,1,0.094,3.34,Sequoia,Debit Card,0.301,0.277,7,2024-09-10,0,4,278.66,2024-09,278.66,False,False,False
+ORD100462,2024-03-16,C1965,Guarulhos,SP,Web,Home,532.25,1,0.031,42.73,Correios,Debit Card,0.497,0.509,5,2024-03-21,0,5,574.98,2024-03,574.98,False,False,False
+ORD100463,2024-06-02,C5289,Florianópolis,SC,Mobile App,Sports,357.58,2,0.036,59.43,Jadlog,Pix,0.414,0.473,2,2024-06-04,0,3,774.59,2024-06,387.295,False,False,False
+ORD100464,2024-05-23,C2384,Belo Horizonte,MG,Web,Electronics,1047.33,1,0.01,56.31,Correios,Credit Card,0.859,0.866,8,2024-05-31,0,5,1103.64,2024-05,1103.64,False,False,False
+ORD100465,2024-03-26,C8008,Porto Alegre,RS,Mobile App,Fashion,468.01,1,0.075,40.63,Jadlog,Boleto,0.595,0.544,1,2024-03-27,0,4,508.64,2024-03,508.64,False,False,False
+ORD100466,2024-07-03,C9503,Londrina,PR,Web,Home,326.81,1,0.14,40.01,Loggi,Credit Card,0.391,0.399,4,2024-07-07,0,4,366.82,2024-07,366.82,False,False,False
+ORD100467,2024-10-11,C4700,Rio de Janeiro,RJ,Marketplace,Electronics,1597.05,1,0.17,57.04,Correios,Pix,2.004,1.96,6,2024-10-17,0,5,1654.09,2024-10,1654.09,True,False,True
+ORD100468,2024-08-07,C2711,Niterói,RJ,Web,Books,26.41,2,0.112,26.13,Jadlog,Credit Card,0.05,0.05,5,2024-08-12,0,5,78.95,2024-08,39.475,False,False,False
+ORD100469,2024-03-09,C6278,Niterói,RJ,Web,Beauty,28.94,2,0.183,25.76,Loggi,Cash,0.05,0.057,3,2024-03-12,0,1,83.64,2024-03,41.82,False,False,False
+ORD100470,2024-02-16,C6882,Porto Alegre,RS,Web,Beauty,389.75,2,0.133,17.49,Correios,Debit Card,0.526,0.492,2,2024-02-18,0,4,796.99,2024-02,398.495,False,False,False
+ORD100471,2024-04-03,C7471,Maringá,PR,Mobile App,Electronics,990.54,1,0.053,11.26,Sequoia,Pix,1.061,1.148,1,2024-04-04,0,4,1001.8,2024-04,1001.8,False,False,False
+ORD100472,2024-08-25,C8386,Florianópolis,SC,Web,Fashion,506.65,1,0.061,3.41,Loggi,Cash,0.552,0.587,1,2024-08-26,0,1,510.06,2024-08,510.06,False,False,False
+ORD100473,2024-07-22,C8248,Foz do Iguaçu,PR,Web,Toys,337.86,2,0.014,10.09,Loggi,Cash,0.409,0.403,4,2024-07-26,0,3,685.81,2024-07,342.905,False,False,False
+ORD100474,2024-08-05,C1947,Joinville,SC,Mobile App,Fashion,172.77,2,0.102,57.49,Total Express,Credit Card,0.206,0.219,3,2024-08-08,0,5,403.03,2024-08,201.515,False,False,False
+ORD100475,2024-12-06,C4255,Foz do Iguaçu,PR,Marketplace,Electronics,1489.65,2,0.116,3.91,Correios,Credit Card,1.966,2.196,4,2024-12-10,0,2,2983.21,2024-12,1491.605,True,True,True
+ORD100476,2024-02-08,C6051,São Paulo,SP,Marketplace,Sports,606.06,1,0.012,7.87,Jadlog,Credit Card,0.694,0.696,2,2024-02-10,0,1,613.93,2024-02,613.93,False,False,False
+ORD100477,2024-04-09,C8344,Curitiba,PR,Web,Home,373.19,1,0.051,37.6,Jadlog,Pix,0.389,0.388,5,2024-04-14,0,4,410.79,2024-04,410.79,False,False,False
+ORD100478,2024-10-15,C7083,Maringá,PR,Web,Electronics,230.87,1,0.0,42.99,Correios,Debit Card,0.263,0.265,4,2024-10-19,1,5,273.86,2024-10,273.86,False,False,False
+ORD100479,2024-09-10,C6967,Santos,SP,Web,Electronics,1465.56,2,0.11,5.47,Jadlog,Pix,1.954,1.886,2,2024-09-12,0,4,2936.59,2024-09,1468.295,True,True,True
+ORD100480,2024-08-09,C9172,Santos,SP,Web,Home,450.87,1,0.083,20.18,Loggi,Pix,0.419,0.456,2,2024-08-11,0,5,471.05,2024-08,471.05,False,False,False
+ORD100481,2024-12-22,C2620,São Paulo,SP,Web,Electronics,945.87,2,0.16,56.54,Correios,Pix,1.114,1.113,6,2024-12-28,0,4,1948.28,2024-12,974.14,False,False,False
+ORD100482,2024-01-23,C4291,São Paulo,SP,Mobile App,Toys,39.78,2,0.079,44.93,Total Express,Pix,0.05,0.05,5,2024-01-28,1,4,124.49,2024-01,62.245,False,False,False
+ORD100483,2024-09-06,C3646,Campinas,SP,Mobile App,Electronics,796.81,2,0.142,54.48,Sequoia,Credit Card,0.857,0.98,3,2024-09-09,0,5,1648.1,2024-09,824.05,False,False,False
+ORD100484,2024-01-10,C7704,Belo Horizonte,MG,Web,Beauty,125.86,1,0.113,17.41,Correios,Debit Card,0.132,0.12,2,2024-01-12,0,5,143.27,2024-01,143.27,False,False,False
+ORD100485,2024-09-02,C8181,Campinas,SP,Web,Home,132.92,1,0.083,29.26,Jadlog,Debit Card,0.122,0.135,6,2024-09-08,0,2,162.18,2024-09,162.18,False,False,False
+ORD100486,2024-11-20,C2125,Porto Alegre,RS,Mobile App,Toys,316.54,1,0.0,48.48,Total Express,Credit Card,0.323,0.305,1,2024-11-21,0,4,365.02,2024-11,365.02,False,False,False
+ORD100487,2024-04-09,C1098,Rio de Janeiro,RJ,Web,Books,146.8,1,0.088,38.78,Correios,Debit Card,0.177,0.182,8,2024-04-17,0,4,185.58,2024-04,185.58,False,False,False
+ORD100488,2024-10-16,C7367,Foz do Iguaçu,PR,Web,Beauty,36.41,1,0.093,57.02,Correios,Credit Card,0.05,0.052,4,2024-10-20,0,3,93.43,2024-10,93.43,False,False,False
+ORD100489,2024-06-28,C7533,Florianópolis,SC,Web,Books,151.55,2,0.05,54.47,Correios,Credit Card,0.16,0.162,6,2024-07-04,0,5,357.57,2024-06,178.785,False,False,False
+ORD100490,2024-08-10,C2285,Foz do Iguaçu,PR,Physical Store,Home,345.69,2,0.0,22.22,Loggi,Credit Card,0.346,0.357,2,2024-08-12,1,5,713.6,2024-08,356.8,False,False,False
+ORD100491,2024-09-06,C1565,São Paulo,SP,Mobile App,Beauty,298.55,1,0.141,19.6,Total Express,Credit Card,0.38,0.413,4,2024-09-10,0,4,318.15,2024-09,318.15,False,False,False
+ORD100492,2024-05-26,C9260,Foz do Iguaçu,PR,Web,Sports,60.28,1,0.001,31.72,Correios,Debit Card,0.05,0.05,3,2024-05-29,0,5,92.0,2024-05,92.0,False,False,False
+ORD100493,2024-04-05,C6526,Belo Horizonte,MG,Web,Toys,115.99,2,0.033,19.34,Sequoia,Debit Card,0.107,0.121,6,2024-04-11,0,5,251.32,2024-04,125.66,False,False,False
+ORD100494,2024-09-13,C6322,Florianópolis,SC,Web,Sports,605.0,1,0.148,20.15,Total Express,Credit Card,0.736,0.813,2,2024-09-15,0,2,625.15,2024-09,625.15,False,False,False
+ORD100495,2024-11-20,C7611,Porto Alegre,RS,Web,Home,497.59,1,0.038,22.69,Correios,Pix,0.532,0.523,3,2024-11-23,0,3,520.28,2024-11,520.28,False,False,False
+ORD100496,2024-01-04,C7558,Rio de Janeiro,RJ,Web,Electronics,1583.75,1,0.131,54.06,Sequoia,Cash,1.55,1.714,6,2024-01-10,0,5,1637.81,2024-01,1637.81,True,False,True
+ORD100497,2024-01-16,C4123,Maringá,PR,Mobile App,Home,642.34,1,0.11,32.86,Correios,Debit Card,0.714,0.677,4,2024-01-20,0,4,675.2,2024-01,675.2,False,False,False
+ORD100498,2024-10-06,C6452,Cascavel,PR,Web,Beauty,118.65,3,0.171,23.83,Sequoia,Credit Card,0.168,0.172,3,2024-10-09,0,2,379.78,2024-10,126.59333333333332,False,False,False
+ORD100499,2024-12-01,C6327,Campinas,SP,Web,Home,503.19,1,0.141,41.62,Jadlog,Boleto,0.648,0.61,5,2024-12-06,0,4,544.81,2024-12,544.81,False,False,False
+ORD100500,2024-09-03,C6973,Guarulhos,SP,Web,Sports,947.3,1,0.072,32.33,Loggi,Credit Card,1.009,0.92,6,2024-09-09,0,4,979.63,2024-09,979.63,False,False,False
+ORD100501,2024-09-14,C1716,Porto Alegre,RS,Web,Fashion,277.98,1,0.052,42.32,Total Express,Debit Card,0.305,0.276,5,2024-09-19,0,3,320.3,2024-09,320.3,False,False,False
+ORD100502,2024-06-08,C3800,Santos,SP,Web,Home,93.99,1,0.091,58.07,Jadlog,Credit Card,0.098,0.093,5,2024-06-13,0,3,152.06,2024-06,152.06,False,False,False
+ORD100503,2024-12-05,C2734,Joinville,SC,Web,Home,276.35,1,0.062,21.19,Loggi,Cash,0.279,0.317,3,2024-12-08,0,2,297.54,2024-12,297.54,False,False,False
+ORD100504,2024-05-31,C4145,Niterói,RJ,Web,Sports,70.19,1,0.109,28.93,Correios,Pix,0.079,0.079,7,2024-06-07,0,1,99.12,2024-05,99.12,False,False,False
+ORD100505,2024-06-26,C9031,Campinas,SP,Mobile App,Books,173.42,2,0.012,38.79,Jadlog,Credit Card,0.164,0.177,5,2024-07-01,0,4,385.63,2024-06,192.815,False,False,False
+ORD100506,2024-06-11,C1191,Curitiba,PR,Web,Toys,239.65,1,0.038,0.35,Jadlog,Credit Card,0.278,0.264,2,2024-06-13,1,4,240.0,2024-06,240.0,False,False,False
+ORD100507,2024-02-02,C8810,Niterói,RJ,Web,Home,445.63,1,0.15,11.77,Correios,Pix,0.423,0.455,8,2024-02-10,0,4,457.4,2024-02,457.4,False,False,False
+ORD100508,2024-06-27,C8327,Cascavel,PR,Web,Beauty,288.23,2,0.125,53.38,Correios,Pix,0.32,0.328,5,2024-07-02,0,5,629.84,2024-06,314.92,False,False,False
+ORD100509,2024-04-10,C3696,Campinas,SP,Mobile App,Books,152.42,1,0.117,34.5,Jadlog,Boleto,0.171,0.19,5,2024-04-15,0,5,186.92,2024-04,186.92,False,False,False
+ORD100510,2024-09-24,C2650,Porto Alegre,RS,Mobile App,Electronics,504.36,1,0.0,6.28,Loggi,Pix,0.516,0.517,2,2024-09-26,0,2,510.64,2024-09,510.64,False,False,False
+ORD100511,2024-11-18,C7071,Foz do Iguaçu,PR,Mobile App,Electronics,2154.77,2,0.113,18.25,Loggi,Credit Card,2.041,2.313,2,2024-11-20,0,2,4327.79,2024-11,2163.895,True,True,True
+ORD100512,2024-03-05,C1947,Niterói,RJ,Web,Electronics,1445.98,2,0.075,31.88,Correios,Credit Card,1.334,1.519,8,2024-03-13,0,4,2923.84,2024-03,1461.92,True,True,True
+ORD100513,2024-06-16,C7953,São Paulo,SP,Marketplace,Fashion,240.9,2,0.095,51.54,Correios,Credit Card,0.266,0.28,4,2024-06-20,0,5,533.34,2024-06,266.67,False,False,False
+ORD100514,2024-11-25,C4055,Foz do Iguaçu,PR,Marketplace,Electronics,2119.29,2,0.0,54.27,Correios,Credit Card,1.713,1.808,2,2024-11-27,0,3,4292.85,2024-11,2146.425,True,True,True
+ORD100515,2024-02-12,C5784,Rio de Janeiro,RJ,Physical Store,Sports,639.63,1,0.058,49.86,Correios,Pix,0.745,0.838,5,2024-02-17,0,4,689.49,2024-02,689.49,False,False,False
+ORD100516,2024-02-13,C4761,Porto Alegre,RS,Mobile App,Fashion,160.5,3,0.059,34.16,Loggi,Pix,0.196,0.194,5,2024-02-18,0,3,515.66,2024-02,171.88666666666666,False,False,False
+ORD100517,2024-10-11,C3846,São Paulo,SP,Web,Sports,1044.64,3,0.006,33.85,Correios,Debit Card,1.089,1.066,6,2024-10-17,0,5,3167.77,2024-10,1055.9233333333334,False,True,False
+ORD100518,2024-01-12,C2110,Foz do Iguaçu,PR,Marketplace,Fashion,537.62,2,0.069,57.18,Correios,Pix,0.671,0.685,4,2024-01-16,0,4,1132.42,2024-01,566.21,False,False,False
+ORD100519,2024-04-04,C5288,São Paulo,SP,Mobile App,Electronics,1614.06,1,0.116,4.14,Sequoia,Cash,1.65,1.535,8,2024-04-12,1,4,1618.2,2024-04,1618.2,True,False,True
+ORD100520,2024-10-28,C7820,Guarulhos,SP,Web,Home,57.4,2,0.147,5.34,Jadlog,Pix,0.055,0.051,6,2024-11-03,0,4,120.14,2024-10,60.07,False,False,False
+ORD100521,2024-09-09,C1869,Campinas,SP,Web,Fashion,264.24,2,0.066,30.38,Correios,Credit Card,0.28,0.306,3,2024-09-12,0,5,558.86,2024-09,279.43,False,False,False
+ORD100522,2024-08-29,C9432,Rio de Janeiro,RJ,Physical Store,Toys,252.1,4,0.123,46.0,Jadlog,Credit Card,0.242,0.266,6,2024-09-04,0,3,1054.4,2024-08,263.6,False,False,False
+ORD100523,2024-02-04,C2376,Porto Alegre,RS,Mobile App,Books,76.49,3,0.18,2.09,Loggi,Boleto,0.099,0.111,1,2024-02-05,0,4,231.56,2024-02,77.18666666666667,False,False,False
+ORD100524,2024-08-02,C8457,Porto Alegre,RS,Web,Home,446.65,2,0.054,20.81,Sequoia,Pix,0.382,0.402,6,2024-08-08,0,4,914.11,2024-08,457.055,False,False,False
+ORD100525,2024-12-02,C8983,Santos,SP,Mobile App,Electronics,1652.38,1,0.149,13.53,Loggi,Credit Card,1.876,1.98,2,2024-12-04,0,4,1665.91,2024-12,1665.91,True,False,True
+ORD100526,2024-03-30,C7637,Belo Horizonte,MG,Physical Store,Fashion,42.86,2,0.099,17.0,Loggi,Pix,0.05,0.05,4,2024-04-03,0,2,102.72,2024-03,51.36,False,False,False
+ORD100527,2024-09-20,C7190,Guarulhos,SP,Marketplace,Home,732.78,2,0.031,1.49,Correios,Credit Card,0.819,0.872,6,2024-09-26,0,5,1467.05,2024-09,733.525,False,False,False
+ORD100528,2024-04-02,C7256,Florianópolis,SC,Web,Fashion,232.76,1,0.101,16.02,Jadlog,Credit Card,0.27,0.25,3,2024-04-05,0,3,248.78,2024-04,248.78,False,False,False
+ORD100529,2024-03-30,C1750,Belo Horizonte,MG,Mobile App,Books,16.92,1,0.089,20.88,Loggi,Credit Card,0.05,0.057,4,2024-04-03,0,1,37.8,2024-03,37.8,False,False,False
+ORD100530,2024-04-24,C7301,Niterói,RJ,Mobile App,Home,337.54,2,0.035,38.19,Loggi,Boleto,0.386,0.421,5,2024-04-29,0,3,713.27,2024-04,356.635,False,False,False
+ORD100531,2024-04-14,C8066,Niterói,RJ,Web,Home,643.77,2,0.028,42.43,Correios,Debit Card,0.677,0.733,4,2024-04-18,0,1,1329.97,2024-04,664.985,False,False,False
+ORD100532,2024-07-14,C9168,Cascavel,PR,Marketplace,Home,255.28,1,0.179,44.2,Correios,Credit Card,0.266,0.295,2,2024-07-16,0,4,299.48,2024-07,299.48,False,False,False
+ORD100533,2024-11-09,C2076,Porto Alegre,RS,Mobile App,Toys,249.06,2,0.141,55.42,Loggi,Credit Card,0.286,0.269,1,2024-11-10,0,5,553.54,2024-11,276.77,False,False,False
+ORD100534,2024-04-23,C4855,Campinas,SP,Web,Electronics,944.09,2,0.127,47.96,Correios,Credit Card,1.264,1.375,2,2024-04-25,0,5,1936.14,2024-04,968.07,False,False,False
+ORD100535,2024-03-15,C3691,Maringá,PR,Marketplace,Home,561.85,1,0.058,55.05,Jadlog,Credit Card,0.589,0.564,5,2024-03-20,0,4,616.9,2024-03,616.9,False,False,False
+ORD100536,2024-08-04,C7416,Porto Alegre,RS,Web,Electronics,1448.3,2,0.224,7.6,Correios,Pix,1.828,2.049,1,2024-08-05,1,4,2904.2,2024-08,1452.1,True,True,True
+ORD100537,2024-10-03,C9360,Foz do Iguaçu,PR,Web,Sports,174.97,1,0.067,18.32,Correios,Boleto,0.207,0.214,1,2024-10-04,0,3,193.29,2024-10,193.29,False,False,False
+ORD100538,2024-09-05,C9499,Foz do Iguaçu,PR,Mobile App,Electronics,1430.38,1,0.087,53.21,Correios,Credit Card,1.819,1.682,3,2024-09-08,0,3,1483.59,2024-09,1483.59,True,False,True
+ORD100539,2024-06-12,C5134,Cascavel,PR,Web,Books,83.28,1,0.092,6.04,Correios,Credit Card,0.107,0.12,2,2024-06-14,0,2,89.32,2024-06,89.32,False,False,False
+ORD100540,2024-12-22,C1648,Curitiba,PR,Web,Beauty,94.12,2,0.0,24.43,Jadlog,Cash,0.097,0.09,3,2024-12-25,0,3,212.67,2024-12,106.335,False,False,False
+ORD100541,2024-07-10,C9308,São Paulo,SP,Mobile App,Electronics,1017.79,1,0.096,32.82,Correios,Credit Card,1.023,1.176,7,2024-07-17,0,5,1050.61,2024-07,1050.61,False,False,False
+ORD100542,2024-08-14,C4107,Niterói,RJ,Marketplace,Home,761.7,1,0.0,22.69,Jadlog,Pix,0.894,0.895,6,2024-08-20,0,4,784.39,2024-08,784.39,False,False,False
+ORD100543,2024-06-25,C5800,Londrina,PR,Web,Home,465.6,1,0.035,38.72,Jadlog,Debit Card,0.451,0.457,1,2024-06-26,0,2,504.32,2024-06,504.32,False,False,False
+ORD100544,2024-04-08,C8179,Cascavel,PR,Mobile App,Home,633.26,2,0.165,51.66,Correios,Pix,0.865,0.868,6,2024-04-14,0,5,1318.18,2024-04,659.09,False,False,False
+ORD100545,2024-02-05,C9490,Porto Alegre,RS,Web,Electronics,1193.84,2,0.109,55.05,Jadlog,Pix,1.13,1.088,1,2024-02-06,0,5,2442.73,2024-02,1221.365,False,True,False
+ORD100546,2024-04-05,C4234,Curitiba,PR,Mobile App,Electronics,947.73,2,0.024,9.07,Correios,Pix,1.135,1.058,4,2024-04-09,0,2,1904.53,2024-04,952.265,False,False,False
+ORD100547,2024-05-31,C5378,Curitiba,PR,Web,Toys,339.09,3,0.068,55.07,Loggi,Credit Card,0.331,0.303,2,2024-06-02,0,2,1072.34,2024-05,357.44666666666666,False,False,False
+ORD100548,2024-05-30,C8116,Florianópolis,SC,Mobile App,Home,344.67,1,0.111,46.09,Correios,Pix,0.438,0.449,4,2024-06-03,0,5,390.76,2024-05,390.76,False,False,False
+ORD100549,2024-07-08,C3121,Joinville,SC,Web,Home,55.06,2,0.118,59.93,Correios,Credit Card,0.071,0.082,3,2024-07-11,0,5,170.05,2024-07,85.025,False,False,False
+ORD100550,2024-08-11,C3427,Rio de Janeiro,RJ,Web,Fashion,215.06,1,0.031,37.01,Correios,Debit Card,0.192,0.184,5,2024-08-16,0,3,252.07,2024-08,252.07,False,False,False
+ORD100551,2024-02-06,C6084,Niterói,RJ,Marketplace,Electronics,1791.94,2,0.076,58.21,Correios,Debit Card,2.315,2.406,6,2024-02-12,0,4,3642.09,2024-02,1821.045,True,True,True
+ORD100552,2024-09-24,C2932,Porto Alegre,RS,Physical Store,Beauty,107.61,1,0.095,15.16,Correios,Credit Card,0.136,0.139,2,2024-09-26,0,4,122.77,2024-09,122.77,False,False,False
+ORD100553,2024-07-01,C6054,Rio de Janeiro,RJ,Web,Sports,749.02,2,0.123,50.0,Correios,Boleto,0.945,0.99,6,2024-07-07,0,5,1548.04,2024-07,774.02,False,False,False
+ORD100554,2024-01-13,C2191,Guarulhos,SP,Web,Electronics,245.68,1,0.177,50.35,Loggi,Boleto,0.322,0.299,5,2024-01-18,0,3,296.03,2024-01,296.03,False,False,False
+ORD100555,2024-10-05,C9783,Maringá,PR,Mobile App,Fashion,458.94,2,0.054,13.16,Total Express,Credit Card,0.525,0.566,1,2024-10-06,0,5,931.04,2024-10,465.52,False,False,False
+ORD100556,2024-08-04,C4247,Campinas,SP,Web,Fashion,126.19,1,0.06,10.63,Correios,Credit Card,0.161,0.185,3,2024-08-07,0,5,136.82,2024-08,136.82,False,False,False
+ORD100557,2024-12-20,C7050,Guarulhos,SP,Web,Beauty,111.79,2,0.115,39.4,Jadlog,Credit Card,0.142,0.138,4,2024-12-24,0,5,262.98,2024-12,131.49,False,False,False
+ORD100558,2024-12-26,C8846,Londrina,PR,Web,Toys,317.66,1,0.096,26.08,Loggi,Credit Card,0.332,0.351,1,2024-12-27,0,5,343.74,2024-12,343.74,False,False,False
+ORD100559,2024-10-12,C3366,Campinas,SP,Physical Store,Home,644.98,1,0.158,42.45,Loggi,Credit Card,0.915,0.961,5,2024-10-17,0,5,687.43,2024-10,687.43,False,False,False
+ORD100560,2024-09-29,C9339,Curitiba,PR,Mobile App,Books,59.14,1,0.008,50.98,Total Express,Cash,0.058,0.062,2,2024-10-01,0,4,110.12,2024-09,110.12,False,False,False
+ORD100561,2024-03-02,C2176,São Paulo,SP,Mobile App,Home,80.41,2,0.198,45.38,Correios,Pix,0.097,0.088,3,2024-03-05,0,4,206.2,2024-03,103.1,False,False,False
+ORD100562,2024-03-24,C1740,São Paulo,SP,Physical Store,Beauty,120.65,1,0.078,14.32,Loggi,Pix,0.109,0.103,4,2024-03-28,0,3,134.97,2024-03,134.97,False,False,False
+ORD100563,2024-08-04,C6475,Foz do Iguaçu,PR,Mobile App,Fashion,128.91,1,0.06,8.17,Jadlog,Credit Card,0.111,0.103,1,2024-08-05,0,5,137.08,2024-08,137.08,False,False,False
+ORD100564,2024-12-07,C4317,Guarulhos,SP,Mobile App,Beauty,243.35,1,0.14,5.7,Correios,Credit Card,0.297,0.279,3,2024-12-10,0,4,249.05,2024-12,249.05,False,False,False
+ORD100565,2024-07-05,C4155,Foz do Iguaçu,PR,Mobile App,Home,49.99,1,0.053,56.32,Jadlog,Credit Card,0.05,0.05,4,2024-07-09,0,4,106.31,2024-07,106.31,False,False,False
+ORD100566,2024-01-19,C9568,Rio de Janeiro,RJ,Web,Sports,298.11,1,0.034,54.6,Correios,Boleto,0.334,0.357,5,2024-01-24,0,3,352.71,2024-01,352.71,False,False,False
+ORD100567,2024-06-25,C3555,Campinas,SP,Web,Home,208.77,1,0.128,12.53,Loggi,Credit Card,0.235,0.258,6,2024-07-01,0,4,221.3,2024-06,221.3,False,False,False
+ORD100568,2024-04-09,C5650,Curitiba,PR,Web,Beauty,356.51,1,0.061,7.43,Total Express,Debit Card,0.424,0.443,4,2024-04-13,0,5,363.94,2024-04,363.94,False,False,False
+ORD100569,2024-08-20,C9081,Cascavel,PR,Mobile App,Home,452.17,3,0.143,26.47,Correios,Pix,0.546,0.567,4,2024-08-24,0,3,1382.98,2024-08,460.99333333333334,False,False,False
+ORD100570,2024-03-16,C3556,Florianópolis,SC,Web,Electronics,1213.2,2,0.0,54.0,Correios,Credit Card,1.028,0.933,1,2024-03-17,0,4,2480.4,2024-03,1240.2,False,True,False
+ORD100571,2024-09-21,C7734,Santos,SP,Marketplace,Toys,273.42,4,0.076,48.12,Jadlog,Pix,0.278,0.282,3,2024-09-24,0,5,1141.8,2024-09,285.45,False,False,False
+ORD100572,2024-10-10,C7609,Campinas,SP,Physical Store,Home,461.23,1,0.165,36.48,Sequoia,Credit Card,0.575,0.656,3,2024-10-13,0,3,497.71,2024-10,497.71,False,False,False
+ORD100573,2024-07-24,C8616,Rio de Janeiro,RJ,Mobile App,Electronics,2322.12,2,0.033,31.17,Jadlog,Pix,2.483,2.485,5,2024-07-29,1,3,4675.41,2024-07,2337.705,True,True,True
+ORD100574,2024-08-10,C7957,Londrina,PR,Web,Fashion,196.85,4,0.168,2.28,Correios,Debit Card,0.199,0.193,4,2024-08-14,0,4,789.68,2024-08,197.42,False,False,False
+ORD100575,2024-02-21,C7436,Rio de Janeiro,RJ,Web,Fashion,264.77,2,0.045,48.34,Correios,Credit Card,0.297,0.291,4,2024-02-25,0,3,577.88,2024-02,288.94,False,False,False
+ORD100576,2024-12-04,C5852,Curitiba,PR,Web,Electronics,2221.55,4,0.02,29.47,Correios,Pix,2.11,1.939,6,2024-12-10,0,3,8915.67,2024-12,2228.9175,True,True,True
+ORD100577,2024-05-23,C4773,Porto Alegre,RS,Web,Home,323.02,1,0.192,31.78,Correios,Pix,0.47,0.434,5,2024-05-28,0,3,354.8,2024-05,354.8,False,False,False
+ORD100578,2024-03-09,C6246,Florianópolis,SC,Mobile App,Electronics,1405.83,2,0.131,57.4,Total Express,Credit Card,1.704,1.637,1,2024-03-10,0,5,2869.06,2024-03,1434.53,True,True,False
+ORD100579,2024-04-08,C9284,Foz do Iguaçu,PR,Web,Electronics,847.26,1,0.182,36.09,Correios,Pix,1.03,1.182,2,2024-04-10,0,4,883.35,2024-04,883.35,False,False,False
+ORD100580,2024-01-25,C8915,Foz do Iguaçu,PR,Marketplace,Toys,164.85,1,0.078,35.95,Correios,Credit Card,0.211,0.221,4,2024-01-29,0,4,200.8,2024-01,200.8,False,False,False
+ORD100581,2024-02-22,C7571,Joinville,SC,Web,Books,140.37,2,0.052,11.29,Total Express,Credit Card,0.144,0.164,1,2024-02-23,0,4,292.03,2024-02,146.015,False,False,False
+ORD100582,2024-05-30,C3271,Cascavel,PR,Web,Home,492.89,1,0.143,24.53,Correios,Pix,0.684,0.675,3,2024-06-02,0,5,517.42,2024-05,517.42,False,False,False
+ORD100583,2024-05-23,C2594,Curitiba,PR,Web,Fashion,552.21,3,0.0,28.99,Correios,Pix,0.615,0.62,2,2024-05-25,0,3,1685.62,2024-05,561.8733333333333,False,False,False
+ORD100584,2024-02-26,C2735,Foz do Iguaçu,PR,Mobile App,Electronics,1841.77,1,0.109,37.49,Jadlog,Credit Card,1.729,1.668,4,2024-03-01,0,4,1879.26,2024-02,1879.26,True,False,True
+ORD100585,2024-02-08,C3651,Florianópolis,SC,Marketplace,Books,140.98,1,0.002,32.13,Jadlog,Credit Card,0.143,0.143,3,2024-02-11,0,5,173.11,2024-02,173.11,False,False,False
+ORD100586,2024-04-18,C8931,Belo Horizonte,MG,Web,Fashion,299.7,1,0.149,32.79,Sequoia,Pix,0.376,0.363,6,2024-04-24,0,4,332.49,2024-04,332.49,False,False,False
+ORD100587,2024-06-29,C8648,Niterói,RJ,Mobile App,Sports,400.55,1,0.037,30.66,Loggi,Credit Card,0.359,0.375,6,2024-07-05,0,1,431.21,2024-06,431.21,False,False,False
+ORD100588,2024-02-11,C3487,Belo Horizonte,MG,Web,Sports,303.67,1,0.021,45.73,Jadlog,Cash,0.285,0.274,4,2024-02-15,0,3,349.4,2024-02,349.4,False,False,False
+ORD100589,2024-07-04,C4403,Niterói,RJ,Mobile App,Fashion,396.71,1,0.052,3.89,Correios,Pix,0.401,0.367,7,2024-07-11,0,5,400.6,2024-07,400.6,False,False,False
+ORD100590,2024-08-10,C1723,São Paulo,SP,Mobile App,Electronics,1376.34,1,0.155,42.32,Correios,Boleto,1.608,1.548,3,2024-08-13,0,4,1418.66,2024-08,1418.66,False,False,False
+ORD100591,2024-05-01,C1370,Florianópolis,SC,Physical Store,Electronics,1234.78,1,0.11,24.24,Loggi,Credit Card,1.117,1.006,4,2024-05-05,0,3,1259.02,2024-05,1259.02,False,False,False
+ORD100592,2024-05-12,C3755,Joinville,SC,Physical Store,Home,297.47,2,0.157,37.55,Correios,Credit Card,0.395,0.386,5,2024-05-17,0,1,632.49,2024-05,316.245,False,False,False
+ORD100593,2024-06-11,C2979,Campinas,SP,Web,Home,440.32,2,0.136,54.13,Jadlog,Credit Card,0.556,0.509,3,2024-06-14,0,3,934.77,2024-06,467.385,False,False,False
+ORD100594,2024-08-02,C2466,Foz do Iguaçu,PR,Marketplace,Electronics,436.12,2,0.091,49.35,Correios,Credit Card,0.424,0.463,3,2024-08-05,1,5,921.59,2024-08,460.795,False,False,False
+ORD100595,2024-08-08,C4655,Cascavel,PR,Mobile App,Home,387.82,2,0.253,23.1,Correios,Credit Card,0.525,0.551,1,2024-08-09,0,5,798.74,2024-08,399.37,False,False,False
+ORD100596,2024-08-22,C4114,Londrina,PR,Web,Electronics,1627.41,2,0.142,43.38,Correios,Credit Card,1.549,1.58,5,2024-08-27,0,2,3298.2,2024-08,1649.1,True,True,True
+ORD100597,2024-11-26,C1722,Santos,SP,Mobile App,Electronics,279.09,2,0.197,45.84,Correios,Cash,0.335,0.315,3,2024-11-29,0,5,604.02,2024-11,302.01,False,False,False
+ORD100598,2024-05-25,C6279,Guarulhos,SP,Web,Electronics,297.97,1,0.125,26.11,Sequoia,Debit Card,0.287,0.32,5,2024-05-30,0,4,324.08,2024-05,324.08,False,False,False
+ORD100599,2024-08-26,C6150,Rio de Janeiro,RJ,Web,Electronics,1317.93,1,0.145,23.85,Loggi,Credit Card,1.8,1.908,8,2024-09-03,0,5,1341.78,2024-08,1341.78,False,False,False

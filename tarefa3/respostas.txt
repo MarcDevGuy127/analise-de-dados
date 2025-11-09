@@ -1,0 +1,52 @@
+Integrantes da equipe: Marcelo Henrique, Ravel Camargo e Leonardo Sade.
+
+1) Objetivos do negócio (resumo):
+Aumentar receita por canal (priorizar canais com maior potencial).
+
+Reduzir prazo de entrega (otimização logística por estado/transportadora).
+
+Otimizar ticket médio (mix de produtos, descontos e meios de pagamento).
+
+Melhorar satisfação (rating) e reduzir devoluções.
+
+2) Canal com maior receita: Web (R$ 240.341,89)
+
+3) Categorias que somam ~80% do faturamento (Pareto):
+- Electronics, Home
+
+4) Sazonalidade (faturamento por mês): ver dashboard.html (gráfico de linha).
+
+5) Top 5 estados com menor média de days_in_transit:
+- RS: 2.33 dias
+SC: 2.52 dias
+PR: 2.89 dias
+SP: 4.45 dias
+MG: 4.76 dias
+
+6) Regressão (declared_weight vs actual_weight):
+- actual = 1.0256 * declared + -0.0020; R² = 0.9899 (n=600)
+
+7) Outliers (IQR):
+- Contagens -> unit_price: 68, total_value: 45, ticket: 66
+- Regra: IQR (Q1-1,5*IQR ; Q3+1,5*IQR)
+
+8) Taxa de devolução:
+- Geral: 5.33%
+- Por categoria:
+- Toys: 16.33%
+- Electronics: 5.70%
+- Sports: 5.17%
+- Fashion: 4.42%
+- Books: 3.85%
+- Home: 3.48%
+- Beauty: 1.82%
+
+9) Fatores que impactam o ticket médio (evidências):
+- Canal (top ticket): Physical Store: R$ 657.06; Marketplace: R$ 588.28; Mobile App: R$ 567.70
+- Categoria (top ticket): Electronics: R$ 1257.05; Sports: R$ 524.71; Home: R$ 401.55
+- Estado (top ticket): RJ: R$ 658.44; SC: R$ 611.72; PR: R$ 576.70
+
+10) Recomendações:
+1. Marketing: Campanhas direcionadas no(s) canal(is) com menor receita e bom ticket médio; reforçar categorias chave do Pareto (80% do faturamento).
+2. Logística: Focar nos estados com maior days_in_transit testando transportadoras alternativas e hubs regionais; SLAs por estado.
+3. Atendimento/Produto: Atacar categorias com maior taxa de devolução com melhorias de descrição/fotos, QA do fornecedor e política de troca clara.

@@ -1,118 +1,55 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Atividade – Análise de Dados: Limpeza e Normalização</title>
-  <style>
-    body {
-      font-family: system-ui, Segoe UI, Roboto, Arial;
-      font-size: 14px;
-      line-height: 1.5;
-      margin: 32px;
-      color: #111;
-    }
-    h1,
-    h2 {
-      margin: 0 0 8px;
-    }
-    h1 {
-      font-size: 22px;
-    }
-    h2 {
-      font-size: 16px;
-      margin-top: 20px;
-    }
-    code,
-    pre {
-      background: #f6f8fa;
-      padding: 2px 6px;
-      border-radius: 6px;
-    }
-    pre {
-      padding: 12px;
-      overflow: auto;
-    }
-    ul {
-      margin: 6px 0 6px 20px;
-    }
-    .small {
-      color: #555;
-    }
-  </style>
-  <h1>Atividade – Leitura, Limpeza/Normalização e Exportação para Excel</h1>
-  <p class="small">Disciplina: Análise de Dados</p>
+<!doctype html><html lang="pt-br"><meta charset="utf-8">
+<title>Atividade – Análise de Dados: Limpeza e Normalização</title>
+<style>
+body{font-family:system-ui,Segoe UI,Roboto,Arial;font-size:14px;line-height:1.5;margin:32px;color:#111}
+h1,h2{margin:0 0 8px} h1{font-size:22px} h2{font-size:16px;margin-top:20px}
+code,pre{background:#f6f8fa;padding:2px 6px;border-radius:6px}
+pre{padding:12px;overflow:auto}
+ul{margin:6px 0 6px 20px}
+.small{color:#555}
+</style>
+<h1>Atividade – Leitura, Limpeza/Normalização e Exportação para Excel</h1>
+<p class="small">Disciplina: Análise de Dados</p>
 
-  <h2>Objetivo</h2>
-  <p>
-    Ler um arquivo <strong>.csv</strong> ou <strong>.txt</strong>, realizar
-    <em>sanitização</em> (remover caracteres de controle, trims, normalização
-    Unicode), <em>normalização</em> (UF, e-mail, telefone, CEP, datas, valores,
-    booleanos) e exportar o resultado para
-    <code>resultado_limpeza.xlsx</code> com três abas:
-    <code>dados_limpos</code>, <code>erros</code> e
-    <code>dicionario_dados</code>.
-  </p>
+<h2>Objetivo</h2>
+<p>Ler um arquivo <strong>.csv</strong> ou <strong>.txt</strong>, realizar <em>sanitização</em> (remover caracteres de controle, trims, normalização Unicode), <em>normalização</em> (UF, e-mail, telefone, CEP, datas, valores, booleanos) e exportar o resultado para <code>resultado_limpeza.xlsx</code> com três abas: <code>dados_limpos</code>, <code>erros</code> e <code>dicionario_dados</code>.</p>
 
-  <h2>Arquivos fornecidos</h2>
-  <ul>
-    <li><code>dados_clientes_sujos.csv</code> (1.000 linhas)</li>
-    <li><code>dados_clientes_sujos.txt</code> (mesmos dados, separador “;”)</li>
-    <li>
-      <code>atividade_limpeza_normalizacao.ipynb</code> (notebook template)
-    </li>
-  </ul>
+<h2>Arquivos fornecidos</h2>
+<ul>
+  <li><code>dados_clientes_sujos.csv</code> (1.000 linhas)</li>
+  <li><code>dados_clientes_sujos.txt</code> (mesmos dados, separador “;”)</li>
+  <li><code>atividade_limpeza_normalizacao.ipynb</code> (notebook template)</li>
+</ul>
 
-  <h2>Entrega</h2>
-  <ol>
-    <li>Notebook/script com as funções de limpeza e comentários;</li>
-    <li>Arquivo <code>resultado_limpeza.xlsx</code> gerado;</li>
-    <li>
-      Relatório curto (máx. 1 página) explicando problemas encontrados, decisões
-      e métricas (quantidade de nulos, duplicatas, outliers).
-    </li>
-  </ol>
+<h2>Entrega</h2>
+<ol>
+  <li>Notebook/script com as funções de limpeza e comentários;</li>
+  <li>Arquivo <code>resultado_limpeza.xlsx</code> gerado;</li>
+  <li>Relatório curto (máx. 1 página) explicando problemas encontrados, decisões e métricas (quantidade de nulos, duplicatas, outliers).</li>
+</ol>
 
-  <h2>Execução local</h2>
-  <pre>
-pip install pandas openpyxl
+<h2>Execução local</h2>
+<pre>pip install pandas openpyxl
 # Abra o notebook 'atividade_limpeza_normalizacao.ipynb' e rode as células
-</pre
-  >
+</pre>
 
-  <h2>Alternativas online</h2>
-  <ul>
-    <li>
-      <strong>Google Colab</strong>: suba os arquivos, monte o Drive e execute o
-      notebook.
-    </li>
-    <li>
-      <strong>Kaggle Notebooks</strong>: crie um Notebook, carregue os arquivos
-      na aba “Data”.
-    </li>
-    <li>
-      <strong>JupyterLite (WebAssembly, no navegador)</strong>: roda Python no
-      browser (sem servidor). Limitações de libs, mas funciona para
-      pandas/arquivos simples.
-    </li>
-    <li>
-      <strong>Observable + Pyodide</strong>: abordagem em notebooks web;
-      interessante para turmas que preferem front-end.
-    </li>
-  </ul>
+<h2>Alternativas online</h2>
+<ul>
+  <li><strong>Google Colab</strong>: suba os arquivos, monte o Drive e execute o notebook.</li>
+  <li><strong>Kaggle Notebooks</strong>: crie um Notebook, carregue os arquivos na aba “Data”.</li>
+  <li><strong>JupyterLite (WebAssembly, no navegador)</strong>: roda Python no browser (sem servidor). Limitações de libs, mas funciona para pandas/arquivos simples.</li>
+  <li><strong>Observable + Pyodide</strong>: abordagem em notebooks web; interessante para turmas que preferem front-end.</li>
+</ul>
 
-  <h2>Versão com Banco de Dados (opcional)</h2>
-  <p>Faça a ingestão em um <strong>PostgreSQL</strong> em 2 estágios:</p>
-  <ol>
-    <li><em>staging</em> bruta com tudo como texto;</li>
-    <li>
-      tabela destino normalizada com tipos corretos e
-      <em>INSERT…SELECT</em> aplicando as regras.
-    </li>
-  </ol>
+<h2>Versão com Banco de Dados (opcional)</h2>
+<p>Faça a ingestão em um <strong>PostgreSQL</strong> em 2 estágios:</p>
+<ol>
+ <li><em>staging</em> bruta com tudo como texto;</li>
+ <li>tabela destino normalizada com tipos corretos e <em>INSERT…SELECT</em> aplicando as regras.</li>
+</ol>
 
-  <pre>
--- Exemplo de staging (todos os campos como TEXT)
+<pre>-- Exemplo de staging (todos os campos como TEXT)
 CREATE TABLE staging_clientes (
   id TEXT, nome TEXT, email TEXT, telefone TEXT, data_nascimento TEXT,
   cidade TEXT, estado TEXT, cep TEXT, renda_mensal TEXT,
@@ -147,11 +84,7 @@ SELECT
   CASE WHEN lower(ativo) IN ('sim','yes','true','1') THEN TRUE
        WHEN lower(ativo) IN ('nao','não','no','false','0') THEN FALSE END AS ativo,
   categoria_cliente
-FROM staging_clientes;</pre
-  >
+FROM staging_clientes;</pre>
 
-  <p>
-    Depois, use <code>pandas</code> (ou extensões) para exportar a consulta
-    final para Excel.
-  </p>
+<p>Depois, use <code>pandas</code> (ou extensões) para exportar a consulta final para Excel.</p>
 </html>
